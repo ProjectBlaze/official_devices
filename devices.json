@@ -1,0 +1,73 @@
+[
+	{
+		"brand": "Realme",
+		"devices": {
+			"0": {
+				"name": "Device Name",
+				"codename": "codename",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			},
+			"1": {
+				"name": "Device Name",
+				"codename": "codename",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			},
+			"2": {
+				"name": "Device Name",
+				"codename": "codename",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			}
+		}
+	},
+	{
+		"brand": "Xiaomi",
+		"devices": {
+			"0": {
+				"name": "Device Name",
+				"codename": "codename",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			},
+			"1": {
+				"name": "Device Name",
+				"codename": "codename",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			}
+		}
+	},
+	{
+		"brand": "Poco",
+		"devices": {
+			"0": {
+				"name": "Device Name",
+				"codename": "codename",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			},
+			"1": {
+				"name": "Device Name",
+				"codename": "codename",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			}
+		}
+	}
+]
