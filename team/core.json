@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Aditya Singh",
+		"role": "Founder / Lead Dev",
+		"avatar": "https://github.com/afterallafk.png"
+	},
+	{
+		"name": "Ram Badan Pandey",
+		"role": "Co-Founder / Lead Dev",
+		"avatar": "https://github.com/TechnoStartOfficial.png"
+	},
+        {       
+                "name": "Ashish Jaswal"
+                "role": "Core"
+                "avatar": "https://github.com/JaswalAshish.png"
+        },
+        {       
+                "name": "Faizan Bashir"
+                "role": "Core"
+                "avatar": "https://github.com/thefaizanbashir.png"
+        }
+]
