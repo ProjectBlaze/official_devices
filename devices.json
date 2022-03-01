@@ -32,12 +32,12 @@
 		"brand": "Xiaomi",
 		"devices": {
 			"0": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"name": "Redmi 7/Y3",
+				"codename": "Onclite",
+				"maintainer": "Ganesh and Yash",
+				"xda": "https://forum.xda-developers.com/m/ganesh314159.11999845/",
+				"telegram": "https://t.me/ganesh314159",
+				"download": "null"
 			},
 			"1": {
 				"name": "Device Name",
