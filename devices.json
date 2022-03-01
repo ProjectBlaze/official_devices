@@ -32,12 +32,12 @@
 		"brand": "Xiaomi",
 		"devices": {
 			"0": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"name": "Redmi Note 10 Pro",
+				"codename": "Sweet",
+				"maintainer": "Basharat and Faizan",
+				"xda": "https://forum.xda-developers.com/m/basharat-kar.8897082/",
+				"telegram": "https://t.me/basharatbuilds",
+				"download": "null"
 			},
 			"1": {
 				"name": "Device Name",
