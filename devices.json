@@ -69,5 +69,18 @@
 				"download": "download url"
 			}
 		}
+	},
+        {
+		"brand": "Asus,
+		"devices": {
+			"0": {
+				"name": "Zenfone Max Pro M2",
+				"codename": "X01BD",
+				"maintainer": "Khirendra ",
+				"xda": "https://forum.xda-developers.com/m/khirendra.11443633/",
+				"telegram": "https://t.me/marcellasne_zero",
+				"download": "null"			
+                             }
+		  }
 	}
 ]
