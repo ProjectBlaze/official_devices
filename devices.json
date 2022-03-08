@@ -53,12 +53,12 @@
 		"brand": "Poco",
 		"devices": {
 			"0": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"name": "Poco X3 NFC",
+				"codename": "surya, karna",
+				"maintainer": "Ram Badan Pandey & Ashutosh Mishra",
+				"xda": "https://forum.xda-developers.com/m/mrtechnostart.11991953/",
+				"telegram": "https://t.me/mrtechnostart",
+				"download": "null"
 			},
 			"1": {
 				"name": "Device Name",
