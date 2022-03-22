@@ -3,12 +3,12 @@
 		"brand": "Realme",
 		"devices": {
 			"0": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"name": "Realme 5 Pro",
+				"codename": "RMX1971",
+				"maintainer": "KSSRAO",
+				"xda": "https://forum.xda-developers.com/m/kssrao13882.11649931/",
+				"telegram": "https://t.me/kssrao13882",
+				"download": "null"
 			},
 			"1": {
 				"name": "Device Name",
