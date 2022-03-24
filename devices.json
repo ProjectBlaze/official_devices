@@ -11,11 +11,11 @@
 				"download": "null"
 			},
 			"1": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
+				"name": "Realme XT",
+				"codename": "RMX1921",
+				"maintainer": "Dhruvesh",
+				"xda": "https://forum.xda-developers.com/m/dhruvesh16.11955503/",
+				"telegram": "@dhruvesh_23",
 				"download": "download url"
 			},
 			"2": {
