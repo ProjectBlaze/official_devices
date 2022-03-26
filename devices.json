@@ -46,6 +46,14 @@
 				"xda": "https://forum.xda-developers.com/m/ganesh314159.11999845/",
 				"telegram": "https://t.me/ganesh314159",
 				"download": "null"
+                        },
+			"2": {
+				"name": "Redmi 5 Plus",
+				"codename": "vince",
+				"maintainer": "ItsAdityan",
+				"xda": "https://forum.xda-developers.com/m/adityan2006.12014761/",
+				"telegram": "https://t.me/ItsAdityan",
+				"download": "null"
 			}
 		}
 	},

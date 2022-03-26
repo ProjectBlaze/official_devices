@@ -29,11 +29,17 @@
 		"telegram": "https://t.me/khirendra",
                 "github": "https://github.com/khirendra03",
 		"avatar": "https://github.com/khirendra03.png"
-	}
-    {
+	},
+        {
 		"name": "Dhruvesh"
-        "telegram": "https://t.me/dhruvesh_23"
+                "telegram": "https://t.me/dhruvesh_23"
                 "github": "https://github.com/Dhruvesh16"
-        "avatar": "https://github.com/Dhruvesh16.png"
+                "avatar": "https://github.com/Dhruvesh16.png"
+        },
+        {
+		"name": "ItsAdityan",
+		"telegram": "https://t.me/ItsAdityan",
+                "github": "https://github.com/ItsAdityan",
+		"avatar": "https://github.com/ItsAdityan.png"
     }
 ]
