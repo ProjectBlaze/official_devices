@@ -69,12 +69,12 @@
 				"download": "null"
 			},
 			"1": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"name": "Poco X3 Pro",
+				"codename": "vayu",
+				"maintainer": "clhexftw",
+				"xda": "",
+				"telegram": "https://t.me/clhex_chat",
+				"download": "null"
 			}
 		}
 	},
