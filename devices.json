@@ -62,8 +62,17 @@
 				"xda": "https://forum.xda-developers.com/m/hakazeee.12038407/",
 				"telegram": "https://t.me/hakazeee",
 				"download": "null"
-			}
-		}
+			},
+                        "4": {
+                                "name": "Redmi Note 7/7s",
+                                "codename": "lavender",
+                                "maintainer": "Coptan",
+                                "xda": "https://forum.xda-developers.com/m/coptan.12067541/",
+                                "telegram": "https://t.me/AlCoptan99",
+                                "download": "null"
+                        }
+
+                 }
 	},
 	{
 		"brand": "Poco",
