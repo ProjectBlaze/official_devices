@@ -46,7 +46,7 @@
 				"xda": "https://forum.xda-developers.com/m/ganesh314159.11999845/",
 				"telegram": "https://t.me/ganesh314159",
 				"download": "null"
-                        },
+			},
 			"2": {
 				"name": "Redmi 5 Plus",
 				"codename": "vince",
@@ -54,7 +54,7 @@
 				"xda": "https://forum.xda-developers.com/m/adityan2006.12014761/",
 				"telegram": "https://t.me/ItsAdityan",
 				"download": "null"
-                        },
+			},
 			"3": {
 				"name": "Redmi 9T/9 Power/Note 9 4G",
 				"codename": "lime",
@@ -63,16 +63,39 @@
 				"telegram": "https://t.me/hakazeee",
 				"download": "null"
 			},
-                        "4": {
-                                "name": "Redmi Note 7/7s",
-                                "codename": "lavender",
-                                "maintainer": "Coptan",
-                                "xda": "https://forum.xda-developers.com/m/coptan.12067541/",
-                                "telegram": "https://t.me/AlCoptan99",
-                                "download": "null"
-                        }
-
-                 }
+			"4": {
+				"name": "Redmi Note 7/7s",
+				"codename": "lavender",
+				"maintainer": "Coptan",
+				"xda": "https://forum.xda-developers.com/m/coptan.12067541/",
+				"telegram": "https://t.me/AlCoptan99",
+				"download": "null"
+			},
+			"5": {
+				"name": "Redmi Note 9s/9Pro/10Lite ",
+				"codename": "Curtana",
+				"maintainer": "Akash Halder",
+				"xda": "https://forum.xda-developers.com/m/akashhalder99.8857970/",
+				"telegram": "https://t.me/akashhalder520",
+				"download": "null"
+			},
+			"6": {
+				"name": "Redmi Note 9Pro Global ",
+				"codename": "Joyuse",
+				"maintainer": "Akash Halder",
+				"xda": "https://forum.xda-developers.com/m/akashhalder99.8857970/",
+				"telegram": "https://t.me/akashhalder520",
+				"download": "null"
+			},
+			"7": {
+				"name": "Redmi Note 9pro Max ",
+				"codename": "Excalibur",
+				"maintainer": "Akash Halder",
+				"xda": "https://forum.xda-developers.com/m/akashhalder99.8857970/",
+				"telegram": "https://t.me/akashhalder520",
+				"download": "null"
+			}
+		}
 	},
 	{
 		"brand": "Poco",
@@ -92,7 +115,7 @@
 				"xda": "",
 				"telegram": "https://t.me/clhex_chat",
 				"download": "null"
-                        },
+			},
 			"2": {
 				"name": "Poco M3",
 				"codename": "citrus",
@@ -100,28 +123,36 @@
 				"xda": "https://forum.xda-developers.com/m/hakazeee.12038407/",
 				"telegram": "https://t.me/hakazeee",
 				"download": "null"
+			},
+			"3": {
+				"name": "Poco M2 Pro",
+				"codename": "Gram",
+				"maintainer": "Akash Halder",
+				"xda": "https://forum.xda-developers.com/m/akashhalder99.8857970/",
+				"telegram": "https://t.me/akashhalder520",
+				"download": "null"
 			}
 		}
 	},
-        {
-                "brand": "Asus",
-                "devices": {
-                        "0": {
-                                "name": "Zenfone Max Pro M2",
-                                "codename": "X01BD",
-                                "maintainer": "Khirendra",
-                                "xda": "https://forum.xda-developers.com/m/khirendra.11443633/",
-                                "telegram": "https://t.me/marcellasne_zero",
-                                "download": "download url"
-                        },
-                        "1": {
-                                "name": "Device Name",
-                                "codename": "codename",
-                                "maintainer": "Maintainer Name",
-                                "xda": "xda support link",
-                                "telegram": "telegram support link",
-                                "download": "download url"
-                        }
-                }
-        }
+	{
+		"brand": "Asus",
+		"devices": {
+			"0": {
+				"name": "Zenfone Max Pro M2",
+				"codename": "X01BD",
+				"maintainer": "Khirendra",
+				"xda": "https://forum.xda-developers.com/m/khirendra.11443633/",
+				"telegram": "https://t.me/marcellasne_zero",
+				"download": "download url"
+			},
+			"1": {
+				"name": "Device Name",
+				"codename": "codename",
+				"maintainer": "Maintainer Name",
+				"xda": "xda support link",
+				"telegram": "telegram support link",
+				"download": "download url"
+			}
+		}
+	}
 ]

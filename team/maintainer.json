@@ -5,60 +5,64 @@
                 "github": "https://github.com/kssrao13882",
                 "avatar": "https://github.com/kssrao13882.png"
         },
-
         {
-		"name": "Aditya & Ganesh",
-		"telegram": "https://t.me/ganesh314159",
+                "name": "Aditya & Ganesh",
+                "telegram": "https://t.me/ganesh314159",
                 "github": "https://github.com/ganesh314159",
-		"avatar": "https://github.com/ganesh314159.png"
-	},
-	{
-		"name": "Basharat and Faizan",
-		"telegram": "https://t.me/Ba_Sh_ArAT",
+                "avatar": "https://github.com/ganesh314159.png"
+        },
+        {
+                "name": "Basharat and Faizan",
+                "telegram": "https://t.me/Ba_Sh_ArAT",
                 "github": "https://github.com/BasharatKar",
-		"avatar": "https://github.com/BasharatKar.png"
-	},
-	{
-		"name": "Ram Badan Pandey & Ashutosh Mishra",
-		"telegram": "https://t.me/mrtechnostart",
+                "avatar": "https://github.com/BasharatKar.png"
+        },
+        {
+                "name": "Ram Badan Pandey & Ashutosh Mishra",
+                "telegram": "https://t.me/mrtechnostart",
                 "github": "https://github.com/TechnoStartOfficial",
-		"avatar": "https://github.com/TechnoStartOfficial.png"
-	},
+                "avatar": "https://github.com/TechnoStartOfficial.png"
+        },
         {
-		"name": "Khirendra",
-		"telegram": "https://t.me/khirendra",
+                "name": "Khirendra",
+                "telegram": "https://t.me/khirendra",
                 "github": "https://github.com/khirendra03",
-		"avatar": "https://github.com/khirendra03.png"
-	},
+                "avatar": "https://github.com/khirendra03.png"
+        },
         {
-		"name": "Dhruvesh"
-                "telegram": "https://t.me/dhruvesh_23"
-                "github": "https://github.com/Dhruvesh16"
+                "name": "Dhruvesh",
+                "telegram": "https://t.me/dhruvesh_23",
+                "github": "https://github.com/Dhruvesh16",
                 "avatar": "https://github.com/Dhruvesh16.png"
         },
         {
-		"name": "clhexftw",
-		"telegram": "https://t.me/clhexftw",
+                "name": "clhexftw",
+                "telegram": "https://t.me/clhexftw",
                 "github": "https://github.com/clhexftw",
-		"avatar": "https://github.com/clhexftw.png"
-	},
+                "avatar": "https://github.com/clhexftw.png"
+        },
         {
-		"name": "ItsAdityan",
-		"telegram": "https://t.me/ItsAdityan",
+                "name": "ItsAdityan",
+                "telegram": "https://t.me/ItsAdityan",
                 "github": "https://github.com/ItsAdityan",
-		"avatar": "https://github.com/ItsAdityan.png"
-	},
+                "avatar": "https://github.com/ItsAdityan.png"
+        },
         {
                 "name": "Lynx",
                 "telegram": "https://t.me/hakazeee",
                 "github": "https://github.com/lynnnnzx",
                 "avatar": "https://github.com/lynnnnzx.png"
-    },
+        },
         {
                 "name": "Coptan",
                 "telegram": "https://t.me/AlCoptan99",
                 "github": "https://github.com/OmarAlCoptan",
                 "avatar": "https://github.com/OmarAlCotan.png"
+        },
+        {
+                "name": "Akash Halder",
+                "telegram": "https://t.me/akashhalder520",
+                "github": "https://github.com/AkashHalder520",
+                "avatar": "https://github.com/AkashHalder520.png"
         }
-  
 ]
