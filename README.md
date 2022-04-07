@@ -10,11 +10,27 @@
  
 
 # :iphone:Official Devices:iphone:
-- [Xiaomi Redmi](#-xiaomi-redmi)
-- [Xiaomi Poco](#-xiaomi-poco)
 - [Asus](#-asus)
+- [Xiaomi Poco](#-xiaomi-poco)
+- [Xiaomi Redmi](#-xiaomi-redmi)
 
 ---
+## <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/ASUS_Logo.svg" height="20"> Asus
+
+Device             | Codename | Maintainer
+------------------:|:--------:|:------
+Zenfone Max Pro M2 | X01BD    | [Khirendra](https://t.me/marcellasne_zero)
+
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/POCO_logo.svg" height="25"> Xiaomi Poco
+
+Device      | Codename     | Maintainer
+-----------:|:------------:|:------
+Poco M3     | Citrus       | [Lynx](https://t.me/hakazeee)
+Poco M3 Pro | Gram         | [Akash Halder](https://t.me/akashhalder520)
+Poco X3 NFC | Surya, Karna | [Ram Badan Pandey & Ashutosh Mishra](https://t.me/mrtechnostart)
+Poco X3 Pro | Vayu         | [Clhexftw](https://t.me/clhex_chat)
+
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Xiaomi_logo.svg" height="25"> Xiaomi Redmi
 
@@ -28,21 +44,4 @@
  Redmi Note 9Pro Global     | Joyuse       | [Akash Halder](https://t.me/akashhalder520)
  Redmi Note 9pro Max        | Excalibur    | [Akash Halder](https://t.me/akashhalder520)
  Redmi Note 10 Pro/Max      | Sweet        | [Basharat](https://t.me/basharatbuilds)
-
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/POCO_logo.svg" height="25"> Xiaomi Poco
-
-Device      | Codename     | Maintainer
------------:|:------------:|:------
-Poco M3     | Citrus       | [Lynx](https://t.me/hakazeee)
-Poco M3 Pro | Gram         | [Akash Halder](https://t.me/akashhalder520)
-Poco X3 NFC | Surya, Karna | [Ram Badan Pandey & Ashutosh Mishra](https://t.me/mrtechnostart)
-Poco X3 Pro | Vayu         | [Clhexftw](https://t.me/clhex_chat)
-
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/ASUS_Logo.svg" height="20"> Asus
-
-Device             | Codename | Maintainer
-------------------:|:--------:|:------
-Zenfone Max Pro M2 | X01BD    | [Khirendra](https://t.me/marcellasne_zero)
 
