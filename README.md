@@ -27,7 +27,7 @@
  Redmi Note 9s/9Pro/10Lite  | Curtana      | [Akash Halder](https://t.me/akashhalder520)
  Redmi Note 9Pro Global     | Joyuse       | [Akash Halder](https://t.me/akashhalder520)
  Redmi Note 9pro Max        | Excalibur    | [Akash Halder](https://t.me/akashhalder520)
- Redmi Note 10 Pro/Max      | Sweet        | [Basharat and Faizan](https://t.me/basharatbuilds)
+ Redmi Note 10 Pro/Max      | Sweet        | [Basharat](https://t.me/basharatbuilds)
 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/POCO_logo.svg" height="25"> Xiaomi Poco
