@@ -1,0 +1,24 @@
+# Changelogs v1.0
+- Initial Release Based on 12.1
+- Merged April security patch
+- Added Face Unlock
+- Added App Lock
+- Added Network Traffic Indicators
+- Redesigned Settings ui page and About phone ui page
+- Introduce Pixel Props Utils
+- Added QTI BT Support
+- Added Advanced Restart
+- Added Status Bar Icons Packs and other customisations
+- Added Brightness slider in status bar
+- Enable double tap to sleep on lockscreen
+- Added Lockscreen Charging Info
+- Allow disabling ripple effect on unlock
+- Added in call vibrations options
+- Added custom fonts
+- Added NFC Tile
+- Added Gaming Mode
+- Update LTE+/4G+ icon as per new silk design
+- Make IME Button Space Optional
+- Permanent Disable Rotation on Lockscreen
+- Fix multiple unlock sound
+- Show Vibration Icon in Collapsed Statusbar
