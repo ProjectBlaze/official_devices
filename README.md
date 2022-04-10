@@ -11,6 +11,7 @@
 
 # :iphone:Official Devices:iphone:
 - [Asus](#-asus)
+- [Realme](#-realme)
 - [Xiaomi Poco](#-xiaomi-poco)
 - [Xiaomi Redmi](#-xiaomi-redmi)
 
@@ -20,6 +21,14 @@
 Device             | Codename | Maintainer
 ------------------:|:--------:|:------
 Zenfone Max Pro M2 | X01BD    | [Khirendra](https://t.me/marcellasne_zero)
+
+
+## <img src="logos/realme.png" height="25"> Realme
+
+Device       | Codename | Maintainer
+------------:|:--------:|:----------
+Realme 5 Pro | RMX1971  | [KSSRAO](https://t.me/kssrao13882)
+Realme XT    | RMX1921  | [Dhruvesh](https://t.me/dhruvesh_23)
 
 
 ## <img src="logos/poco.svg" height="25"> Xiaomi Poco
