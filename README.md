@@ -15,14 +15,14 @@
 - [Xiaomi Redmi](#-xiaomi-redmi)
 
 ---
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/ASUS_Logo.svg" height="20"> Asus
+## <img src="logos/asus.svg" height="20"> Asus
 
 Device             | Codename | Maintainer
 ------------------:|:--------:|:------
 Zenfone Max Pro M2 | X01BD    | [Khirendra](https://t.me/marcellasne_zero)
 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/POCO_logo.svg" height="25"> Xiaomi Poco
+## <img src="logos/poco.svg" height="25"> Xiaomi Poco
 
 Device      | Codename     | Maintainer
 -----------:|:------------:|:------
@@ -32,7 +32,7 @@ Poco X3 NFC | Surya, Karna | [Ram Badan Pandey & Ashutosh Mishra](https://t.me/m
 Poco X3 Pro | Vayu         | [Clhexftw](https://t.me/clhex_chat)
 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Xiaomi_logo.svg" height="25"> Xiaomi Redmi
+## <img src="logos/redmi_mi.svg" height="25"> Xiaomi Redmi
 
  Device                     |Codename      | Maintainer 
  --------------------------:|:------------:|:-----------------
