@@ -53,4 +53,12 @@ Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
  Redmi Note 9Pro Global     | Joyuse       | [Akash Halder](https://telegram.me/akashhalder520)
  Redmi Note 9pro Max        | Excalibur    | [Akash Halder](https://telegram.me/akashhalder520)
  Redmi Note 10 Pro/Max      | Sweet        | [Basharat](https://telegram.me/basharatbuilds)
+ Mi A1                      | Tissot       | [Bayerische Motoren Werke](https://telegram.me/bmwtheseries)
+ Redmi 8                    | Olive        | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
+ Redmi 8A                   | Olivelite    | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
+ Redmi 8A Dual              | Olivewood    | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
+ Redmi 7A                   | Pine         | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
+ 
+ 
+ 
 
