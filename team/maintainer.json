@@ -69,6 +69,12 @@
                 "name": "putrazxyo13",
                 "telegram": "https://t.me/putrazxyo13",
                 "github": "https://github.com/putraaxyzo",
-                "avatar": "https://github.com/putraaxyzo.png",
-        }
+                "avatar": "https://github.com/putraaxyzo.png"
+	},
+	{    
+		"name": "Abrar",
+		"telegram": "https://t.me/AbrarNoob",
+		"github": "https://github.com/AbrarNoob",
+		"avatar": "https://github.com/AbrarNoob.png",
+	}
 ]
