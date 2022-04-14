@@ -139,6 +139,14 @@
 				"xda": "https://forum.xda-developers.com/m/akashhalder99.8857970/",
 				"telegram": "https://t.me/akashhalder520",
 				"download": "null"
+				},
+			"4": {
+					"name": "MI A1",
+					"codename": "Tissot",
+					"maintainer": "BayerischeMotorenWerke",
+					"xda": "https://forum.xda-developers.com/m/bayerische-motoren-werke.9011376/",
+					"telegram": "https://t.me/bmwtheseries",
+					"download": "null"
 			}
 		}
 	},

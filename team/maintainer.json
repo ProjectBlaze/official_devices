@@ -70,5 +70,11 @@
                 "telegram": "https://t.me/putrazxyo13",
                 "github": "https://github.com/putraaxyzo",
                 "avatar": "https://github.com/putraaxyzo.png",
+        },
+        {
+                        "name": "BayerischeMotorenWerke",
+                        "telegram": "https://t.me/bmwtheseries",
+                        "github": "https://github.com/BayerischeMotorenWerke",
+                        "avatar": "https://github.com/BayerischeMotorenWerke.png"
         }
 ]
