@@ -45,6 +45,7 @@ Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
 
  Device                     |Codename      | Maintainer 
  --------------------------:|:------------:|:-----------------
+ Mi A1                      | Tissot       | [Bayerische Motoren Werke](https://telegram.me/bmwtheseries)
  Redmi 5 Plus               | Vince        | [ItsAdityan](https://telegram.me/ItsAdityan)
  Redmi 7/Y3                 | Onclite, Onc | [Aditya & Ganesh](https://telegram.me/ganesh314159)
  Redmi 7A                   | Pine         | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
@@ -52,12 +53,12 @@ Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
  Redmi 8A                   | Olivelite    | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
  Redmi 8A Dual              | Olivewood    | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
  Redmi Note 7               | Lavender     | [Coptan](https://telegram.me/AlCoptan99)
+ Redmi Note 8/8T            | Ginkgo       | [Putrazxyo13](https://telegram.me/putrazxyo13)
  Redmi 9T/9 Power/Note 9 4G | Lime         | [Lynx](https://telegram.me/hakazeee)
  Redmi Note 9s/9Pro/10Lite  | Curtana      | [Akash Halder](https://telegram.me/akashhalder520)
  Redmi Note 9Pro Global     | Joyuse       | [Akash Halder](https://telegram.me/akashhalder520)
  Redmi Note 9pro Max        | Excalibur    | [Akash Halder](https://telegram.me/akashhalder520)
  Redmi Note 10 Pro/Max      | Sweet        | [Basharat](https://telegram.me/basharatbuilds)
- Mi A1                      | Tissot       | [Bayerische Motoren Werke](https://telegram.me/bmwtheseries)
  
  
  
