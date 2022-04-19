@@ -162,7 +162,20 @@
 				"xda": "https://forum.xda-developers.com/m/khirendra.11443633/",
 				"telegram": "https://t.me/marcellasne_zero",
 				"download": "download url"
-			},
+			}
+		}
+	},
+        {
+                "brand": "Samsung",
+		"devices": {
+			"0": {
+                                "name": "Galaxy A10",
+				"codename": "a10",
+				"maintainer": "dotA",
+				"xda": "https://forum.xda-developers.com/m/11462945/",
+				"telegram": "https://t.me/therealdotA",
+				"download": "download url"
+                        },
 			"1": {
 				"name": "Device Name",
 				"codename": "codename",
@@ -170,7 +183,7 @@
 				"xda": "xda support link",
 				"telegram": "telegram support link",
 				"download": "download url"
-			}
-		}
-	}
+                        }
+                }
+        }
 ]
