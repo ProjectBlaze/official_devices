@@ -185,5 +185,26 @@
 				"download": "download url"
                         }
                 }
+        },
+        {
+        "brand": "OnePlus",
+		"devices": {
+			"0": {
+                "name": "OnePlus 9r",
+				"codename": "Lemonades",
+				"maintainer": "RDS-007",
+				"xda": "null",
+				"telegram": "https://t.me/RDS_07",
+				"download": "null"
+                        },
+			"1": {
+				"name": "OnePlus 8T",
+				"codename": "Kebab",
+				"maintainer": "RDS-007",
+				"xda": "null",
+				"telegram": "https://t.me/RDS_07",
+				"download": "null"
+                        }
+                }
         }
 ]
