@@ -36,7 +36,7 @@ Realme XT    | RMX1921  | [Dhruvesh](https://telegram.me/dhruvesh_23)
 Device      | Codename     | Maintainer
 -----------:|:------------:|:------
 Poco M3     | Citrus       | [Lynx](https://telegram.me/hakazeee)
-Poco M3 Pro | Gram         | [Akash Halder](https://telegram.me/akashhalder520)
+Poco M2 Pro | Gram         | [Sayan Sarkar](https://telegram.me/SKORPION_29)
 Poco X3 NFC | Surya, Karna | [Ram Badan Pandey & Ashutosh Mishra](https://telegram.me/mrtechnostart)
 Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
 
@@ -55,9 +55,9 @@ Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
  Redmi Note 7               | Lavender     | [Coptan](https://telegram.me/AlCoptan99)
  Redmi Note 8/8T            | Ginkgo       | [Putrazxyo13](https://telegram.me/putrazxyo13)
  Redmi 9T/9 Power/Note 9 4G | Lime         | [Lynx](https://telegram.me/hakazeee)
- Redmi Note 9s/9Pro/10Lite  | Curtana      | [Akash Halder](https://telegram.me/akashhalder520)
- Redmi Note 9Pro Global     | Joyuse       | [Akash Halder](https://telegram.me/akashhalder520)
- Redmi Note 9pro Max        | Excalibur    | [Akash Halder](https://telegram.me/akashhalder520)
+ Redmi Note 9s/9 Pro/10 Lite  | Curtana      | [Sayan Sarkar](https://telegram.me/SKORPION_29)
+ Redmi Note 9 Pro Global     | Joyeuse       | [Sayan Sarkar](https://telegram.me/SKORPION_29)
+ Redmi Note 9 Pro Max        | Excalibur    | [Sayan Sarkar](https://telegram.me/SKORPION_29)
  Redmi Note 10 Pro/Max      | Sweet        | [Basharat](https://telegram.me/basharatbuilds)
  
  
