@@ -22,3 +22,32 @@
 - Permanent Disable Rotation on Lockscreen
 - Fix multiple unlock sound
 - Show Vibration Icon in Collapsed Statusbar
+
+
+# Changelogs v1.1
+- Merged May Security Patch
+- Based on android-12.1.0_r5
+- Added Enable Ripple Effect
+- Added Pulse
+- Added UDFPS animations
+- Added Screen Off FOD
+- Redesign QS panel inspired by DOT OS
+- Added Toast app icon
+- Added Ignore Secure windows
+- Added Face Unlock Animation
+- Added Cloudflare and AdGuard DNS
+- Added Allow Clients to use VPN
+- Fixed Lockscreen Unlock Delay
+- Bring Back Lockscreen media art
+- Added Pitch Black Theme 
+- Added system apps to app lock
+- Added Games Props
+- Added status bar clock customisations 
+- Added Data Usage On QS 
+- Added Transparent QS
+- Added Toggle for Force Lockscreen Small Clock 
+- Enable Statusbar Burn-in protection
+- Added Taskbar in Launcher3 from Proton
+- Added Custom Icon pack support
+- Added grid style recent app
+- Introduce OOS Style Notification Clear All Button
