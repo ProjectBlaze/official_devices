@@ -162,6 +162,14 @@
 				"xda": "https://forum.xda-developers.com/m/khirendra.11443633/",
 				"telegram": "https://t.me/marcellasne_zero",
 				"download": "download url"
+			},
+			"1": {
+				"name": "Zenfone Max Pro M1",
+				"codename": "X00T",
+				"maintainer": "clhexftw",
+				"xda": "",
+				"telegram": "https://t.me/clhexftw",
+				"download": ""
 			}
 		}
 	},
