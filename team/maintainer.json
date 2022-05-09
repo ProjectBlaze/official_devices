@@ -88,5 +88,11 @@
 		"telegram": "https://t.me/RDS_07",
 		"github": "https://github.com/RDS-007",
 		"avatar": "https://github.com/RDS-007.png",
-	}
+	},
+        {
+                "name": "offsteve",
+                "telegram": "https://t.me/offsteve",
+                "github": "https://github.com/offsteve",
+                "avatar": "https://github.com/offsteve.png",
+        }
 ]
