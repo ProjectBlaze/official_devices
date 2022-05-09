@@ -95,15 +95,22 @@
 				"telegram": "https://t.me/SKORPION_29",
 				"download": "null"
                         },
-                        
-			"9": {
+			"8": {
 				"codename": "Ginkgo" ,
 				"maintainer": "A-zvxyx" ,
 				"xda": "null" ,
 				"telegram": "https://t.me/Azvxyx" ,
 				"download": "null",
 				"name": "Redmi Note/8T ",
-			}
+			},
+                        "9": {
+                                "name": "Redmi 7A/8/8A/8A Dual",
+                                "codename": "mi439" ,
+                                "maintainer": "offsteve" ,
+                                "xda": "null" ,
+                                "telegram": "https://t.me/offsteve" ,
+                                "download": "null",
+                        }
 		}
 	},
 	{
