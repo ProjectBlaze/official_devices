@@ -45,6 +45,7 @@ Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
 
  Device                     |Codename      | Maintainer 
  --------------------------:|:------------:|:-----------------
+ Redmi 4X                   | Santoni      | [ EvilAnsh](https://telegram.me/EvilAnsh) 
  Mi A1                      | Tissot       | [Bayerische Motoren Werke](https://telegram.me/bmwtheseries)
  Redmi 5 Plus               | Vince        | [ItsAdityan](https://telegram.me/ItsAdityan)
  Redmi 7/Y3                 | Onclite, Onc | [Aditya & Ganesh](https://telegram.me/ganesh314159)
