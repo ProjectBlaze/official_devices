@@ -110,7 +110,15 @@
                                 "xda": "null" ,
                                 "telegram": "https://t.me/offsteve" ,
                                 "download": "null",
-                        }
+                        },
+		       "10": { 
+			       "name": "Redmi 4/4X",
+			       "codename": "santoni",
+                               "maintainer": "EvilAnsh",
+			       "xda": "https://forum.xda-developers.com/m/evilansh.12008193/",
+			       "telegram": "https://t.me/EvilAnsh",
+			       "download": "null",
+	            	}
 		}
 	},
 	{
