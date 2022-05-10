@@ -75,7 +75,7 @@
 		"name": "Abrar",
 		"telegram": "https://t.me/AbrarNoob",
 		"github": "https://github.com/AbrarNoob",
-		"avatar": "https://github.com/AbrarNoob.png",
+		"avatar": "https://github.com/AbrarNoob.png"
 	},
         {
                 "name": "clhexftw",
@@ -87,12 +87,17 @@
 		"name": "RDS-007",
 		"telegram": "https://t.me/RDS_07",
 		"github": "https://github.com/RDS-007",
-		"avatar": "https://github.com/RDS-007.png",
+		"avatar": "https://github.com/RDS-007.png"
 	},
         {
                 "name": "offsteve",
                 "telegram": "https://t.me/offsteve",
                 "github": "https://github.com/offsteve",
-                "avatar": "https://github.com/offsteve.png",
+                "avatar": "https://github.com/offsteve.png"
+        },
+	{       "name": "EvilAnsh",
+		"telegram": "https://t.me/EvilAnsh",
+		"github": "https://github.com/EvilAnsh",
+		"avatar": "https://github.com/EvilAnsh.png"
         }
 ]
