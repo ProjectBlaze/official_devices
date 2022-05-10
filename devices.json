@@ -189,15 +189,7 @@
 				"maintainer": "dotA",
 				"xda": "https://forum.xda-developers.com/m/11462945/",
 				"telegram": "https://t.me/therealdotA",
-				"download": "download url"
-                        },
-			"1": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
+				"download": ""
                         }
                 }
         },
