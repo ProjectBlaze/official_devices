@@ -14,30 +14,25 @@
 - [Realme](#-realme)
 - [Xiaomi Poco](#-xiaomi-poco)
 - [Xiaomi Redmi](#-xiaomi-redmi)
+- [OnePlus](#-OnePlus)
 
 ---
-## <img src="logos/asus.svg" height="20"> Asus
-
-Device             | Codename | Maintainer
-------------------:|:--------:|:------
-Zenfone Max Pro M2 | X01BD    | [Khirendra](https://telegram.me/marcellasne_zero)
 
 
 ## <img src="logos/realme.png" height="25"> Realme
 
 Device       | Codename | Maintainer
 ------------:|:--------:|:----------
-Realme 5 Pro | RMX1971  | [KSSRAO](https://telegram.me/kssrao13882)
 Realme XT    | RMX1921  | [Dhruvesh](https://telegram.me/dhruvesh_23)
-
+Realme 6/6i/6s/7/Narzo 20 Pro/30 4G | RM6785 | [P_AA_ii_N](https://telegram.me/P_AA_ii_N)
 
 ## <img src="logos/poco.svg" height="25"> Xiaomi Poco
 
 Device      | Codename     | Maintainer
 -----------:|:------------:|:------
-Poco M3     | Citrus       | [Lynx](https://telegram.me/hakazeee)
 Poco M2 Pro | Gram         | [Sayan Sarkar](https://telegram.me/SKORPION_29)
-Poco X3 NFC | Surya, Karna | [Ram Badan Pandey & Ashutosh Mishra](https://telegram.me/mrtechnostart)
+Poco M3     | Citrus       | [Putrazxyo13](https://telegram.me/putrazxyo13)
+Poco X2     | Phoenixin    | [Sharma_G](https://telegram.me/Sharma_G04)
 Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
 
 
@@ -45,22 +40,26 @@ Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
 
  Device                     |Codename      | Maintainer 
  --------------------------:|:------------:|:-----------------
- Redmi 4X                   | Santoni      | [ EvilAnsh](https://telegram.me/EvilAnsh) 
+ Redmi 4X                   | Santoni      | [EvilAnsh](https://telegram.me/EvilAnsh) 
  Mi A1                      | Tissot       | [Bayerische Motoren Werke](https://telegram.me/bmwtheseries)
+ Redmi S2/Y2                | Ysl          | [Iris](https://telegram.me/Iris041)
  Redmi 5 Plus               | Vince        | [ItsAdityan](https://telegram.me/ItsAdityan)
  Redmi 7/Y3                 | Onclite, Onc | [Aditya & Ganesh](https://telegram.me/ganesh314159)
- Redmi 7A                   | Pine         | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
- Redmi 8                    | Olive        | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
- Redmi 8A                   | Olivelite    | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
- Redmi 8A Dual              | Olivewood    | [Ashish Jaswal](https://telegram.me/jaswal_ashish)
+ Redmi 7A                   | Pine         | [Offsteve](https://telegram.me/offsteve)
+ Redmi 8                    | Olive        | [Offsteve](https://telegram.me/offsteve)
+ Redmi 8A                   | Olivelite    | [Offsteve](https://telegram.me/offsteve)
+ Redmi 8A Dual              | Olivewood    | [Offsteve](https://telegram.me/offsteve)
  Redmi Note 7               | Lavender     | [Coptan](https://telegram.me/AlCoptan99)
- Redmi Note 8/8T            | Ginkgo       | [Putrazxyo13](https://telegram.me/putrazxyo13)
- Redmi 9T/9 Power/Note 9 4G | Lime         | [Lynx](https://telegram.me/hakazeee)
+ Redmi Note 8/8T            | Ginkgo       | [A-zvxyx](https://telegram.me/Azvxyx)
+ Redmi 9T/9 Power/Note 9 4G | Lime         | [Putrazxyo13](https://telegram.me/putrazxyo13)
  Redmi Note 9s/9 Pro/10 Lite  | Curtana      | [Sayan Sarkar](https://telegram.me/SKORPION_29)
  Redmi Note 9 Pro Global     | Joyeuse       | [Sayan Sarkar](https://telegram.me/SKORPION_29)
  Redmi Note 9 Pro Max        | Excalibur    | [Sayan Sarkar](https://telegram.me/SKORPION_29)
  Redmi Note 10 Pro/Max      | Sweet        | [Basharat](https://telegram.me/basharatbuilds)
  
- 
- 
 
+## <img src="logos/oneplus.png" height="25"> Oneplus
+
+ Device                     |Codename      | Maintainer 
+ --------------------------:|:------------:|:-----------------
+ OnePlus 8T/9R              | Lemonkebab   | [RDS-007](https://telegram.me/RDS_07)

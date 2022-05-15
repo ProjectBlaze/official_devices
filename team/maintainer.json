@@ -1,11 +1,5 @@
 [
         {
-                "name": "KSSRAO",
-                "telegram": "https://t.me/kssrao13882",
-                "github": "https://github.com/kssrao13882",
-                "avatar": "https://github.com/kssrao13882.png"
-        },
-        {
                 "name": "Aditya & Ganesh",
                 "telegram": "https://t.me/ganesh314159",
                 "github": "https://github.com/ganesh314159",
@@ -22,12 +16,6 @@
                 "telegram": "https://t.me/mrtechnostart",
                 "github": "https://github.com/TechnoStartOfficial",
                 "avatar": "https://github.com/TechnoStartOfficial.png"
-        },
-        {
-                "name": "Khirendra",
-                "telegram": "https://t.me/khirendra",
-                "github": "https://github.com/khirendra03",
-                "avatar": "https://github.com/khirendra03.png"
         },
         {
                 "name": "Dhruvesh",
@@ -65,17 +53,11 @@
                 "github": "https://github.com/SKORPION29",
                 "avatar": "https://github.com/SKORPION29.png"
         },
-        {
-                "name": "putrazxyo13",
-                "telegram": "https://t.me/putrazxyo13",
-                "github": "https://github.com/putraaxyzo",
-                "avatar": "https://github.com/putraaxyzo.png"
-	},
 	{    
-		"name": "Abrar",
-		"telegram": "https://t.me/AbrarNoob",
-		"github": "https://github.com/AbrarNoob",
-		"avatar": "https://github.com/AbrarNoob.png"
+		    "name": "Abrar",
+		    "telegram": "https://t.me/AbrarNoob",
+		    "github": "https://github.com/AbrarNoob",
+		    "avatar": "https://github.com/AbrarNoob.png"
 	},
         {
                 "name": "clhexftw",
@@ -84,10 +66,10 @@
                 "avatar": "https://github.com/clhexftw.png"
         },
 	{    
-		"name": "RDS-007",
-		"telegram": "https://t.me/RDS_07",
-		"github": "https://github.com/RDS-007",
-		"avatar": "https://github.com/RDS-007.png"
+		    "name": "RDS-007",
+		    "telegram": "https://t.me/RDS_07",
+		    "github": "https://github.com/RDS-007",
+		    "avatar": "https://github.com/RDS-007.png"
 	},
         {
                 "name": "offsteve",
@@ -95,14 +77,16 @@
                 "github": "https://github.com/offsteve",
                 "avatar": "https://github.com/offsteve.png"
         },
-	{       "name": "EvilAnsh",
-		"telegram": "https://t.me/EvilAnsh",
-		"github": "https://github.com/EvilAnsh",
-		"avatar": "https://github.com/EvilAnsh.png"
+	{      
+                "name": "EvilAnsh",
+		    "telegram": "https://t.me/EvilAnsh",
+		    "github": "https://github.com/EvilAnsh",
+		    "avatar": "https://github.com/EvilAnsh.png"
         },
-	{	"name": "Iris0411",
-		"telegram": "https://t.me/Iris041",
-		"github": "https://github.com/Iris0411",
-		"avatar": "https://github.com/Iris0411.png"
+	{	
+                "name": "Iris0411",
+		    "telegram": "https://t.me/Iris041",
+		    "github": "https://github.com/Iris0411",
+		    "avatar": "https://github.com/Iris0411.png"
 	},
 ]
