@@ -118,7 +118,15 @@
 			       "xda": "https://forum.xda-developers.com/m/evilansh.12008193/",
 			       "telegram": "https://t.me/EvilAnsh",
 			       "download": "null",
-	            	}
+	            	},
+			"11": {
+				"name": "Redmi Y2/S2",
+				"codename": "ysl",
+				"maintainer": "Iris0411",
+				"xda": "null",
+				"telegram": "https://telegram.me/Iris041",
+				"download": "null",
+			},
 		}
 	},
 	{
