@@ -1,0 +1,24 @@
+{
+"BlazeVersion": "1.1",
+"onclite": {
+    "DeviceName" : "Redmi 7",
+    "UserName" : "afterallafk & @ganesh314159",
+    "Screenshots" : "https://t.me/projectblazeupdates/118",
+    "Support Group" : "https://t.me/afterallafkbuilds",
+    "DeviceChangelogs" : "www.projectblaze.live"
+},
+"surya": {
+    "DeviceName" : "POCO X3 NFC",
+    "UserName" : "MrTechnoStart",
+    "Screenshots" : "https://t.me/projectblazeupdates/118",
+    "Support Group" : "https://t.me/TechnoStartUpdates",
+    "DeviceChangelogs" : "www.projectblaze.live"
+},
+"sweet": {
+    "DeviceName" : "Redmi Note 10 Pro/Max",
+    "UserName" : "Ba_Sh_ArAT",
+    "Screenshots" : "https://t.me/projectblazeupdates/118",
+    "Support Group" : "https://t.me/basharatbuilds",
+    "DeviceChangelogs" : "www.projectblaze.live"
+}
+}
