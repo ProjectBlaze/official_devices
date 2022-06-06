@@ -2,15 +2,7 @@
 	{
 		"brand": "Realme",
 		"devices": {
-			"0": {
-				"name": "Realme 5 Pro",
-				"codename": "RMX1971",
-				"maintainer": "KSSRAO",
-				"xda": "https://forum.xda-developers.com/m/kssrao13882.11649931/",
-				"telegram": "https://t.me/kssrao13882",
-				"download": "null"
-			},
-			"1": {
+			"0" {
 				"name": "Realme XT",
 				"codename": "RMX1921",
 				"maintainer": "Dhruvesh",
@@ -18,20 +10,20 @@
 				"telegram": "@dhruvesh_23",
 				"download": "download url"
 			},
-			"2": {
-				"name": "Device Name",
-				"codename": "codename",
-				"maintainer": "Maintainer Name",
-				"xda": "xda support link",
-				"telegram": "telegram support link",
-				"download": "download url"
-			}
 		}
 	},
 	{
 		"brand": "Xiaomi",
 		"devices": {
 			"0": {
+				"name": "Redmi Note 4",
+				"codename": "Mido",
+				"maintainer": "Pratyaksh Bharadwaj",
+				"xda": "https://forum.xda-developers.com/m/pratyakshb1995.9491264/",
+				"telegram": "https://t.me/midorandom",
+				"download": "null"
+			},
+			"1": {
 				"name": "Redmi Note 10 Pro",
 				"codename": "Sweet",
 				"maintainer": "Basharat",
@@ -39,7 +31,7 @@
 				"telegram": "https://t.me/basharatbuilds",
 				"download": "null"
 			},
-			"1": {
+			"2": {
 				"name": "Redmi 7/Y3",
 				"codename": "onclite, onc",
 				"maintainer": "Aditya & Ganesh",
@@ -47,7 +39,7 @@
 				"telegram": "https://t.me/ganesh314159",
 				"download": "null"
 			},
-			"2": {
+			"3": {
 				"name": "Redmi 5 Plus",
 				"codename": "vince",
 				"maintainer": "Ritvik",
@@ -55,7 +47,7 @@
 				"telegram": "https://t.me/ritvik_ch",
 				"download": "null"
 			},
-			"3": {
+			"4": {
 				"name": "Redmi 9T/9 Power/Note 9 4G",
 				"codename": "lime",
 				"maintainer": "putrazxyo13",
@@ -63,7 +55,7 @@
 				"telegram": "https://t.me/putrazxyo13",
 				"download": "null"
 			},
-			"4": {
+			"5": {
 				"name": "Redmi Note 7/7s",
 				"codename": "lavender",
 				"maintainer": "AlCoptan99",
@@ -71,7 +63,7 @@
 				"telegram": "https://t.me/AlCoptan99",
 				"download": "null"
 			},
-			"5": {
+			"6": {
 				"name": "Redmi Note 9s/9 Pro/10 Lite ",
 				"codename": "Curtana",
 				"maintainer": "Sayan Sarkar",
@@ -79,7 +71,7 @@
 				"telegram": "https://t.me/SKORPION_29",
 				"download": "null"
 			},
-			"6": {
+			"7": {
 				"name": "Redmi Note 9 Pro Global ",
 				"codename": "Joyeuse",
 				"maintainer": "Sayan Sarkar",
@@ -87,7 +79,7 @@
 				"telegram": "https://t.me/SKORPION_29",
 				"download": "null"
 			},
-			"7": {
+			"8": {
 				"name": "Redmi Note 9 Pro Max ",
 				"codename": "Excalibur",
 				"maintainer": "Sayan Sarkar",
@@ -95,7 +87,7 @@
 				"telegram": "https://t.me/SKORPION_29",
 				"download": "null"
                         },
-			"8": {
+			"9": {
 				"codename": "Ginkgo" ,
 				"maintainer": "A-zvxyx" ,
 				"xda": "null" ,
@@ -103,15 +95,7 @@
 				"download": "null",
 				"name": "Redmi Note/8T ",
 			},
-                        "9": {
-                                "name": "Redmi 7A/8/8A/8A Dual",
-                                "codename": "mi439" ,
-                                "maintainer": "offsteve" ,
-                                "xda": "null" ,
-                                "telegram": "https://t.me/offsteve" ,
-                                "download": "null",
-                        },
-		       "10": { 
+            "10": { 
 			       "name": "Redmi 4/4X",
 			       "codename": "santoni",
                                "maintainer": "EvilAnsh",
@@ -192,31 +176,10 @@
 		}
 	},
 	{
-		"brand": "Asus",
-		"devices": {
-			"0": {
-				"name": "Zenfone Max Pro M2",
-				"codename": "X01BD",
-				"maintainer": "Khirendra",
-				"xda": "https://forum.xda-developers.com/m/khirendra.11443633/",
-				"telegram": "https://t.me/marcellasne_zero",
-				"download": "download url"
-			},
-			"1": {
-				"name": "Zenfone Max Pro M1",
-				"codename": "X00T",
-				"maintainer": "clhexftw",
-				"xda": "",
-				"telegram": "https://t.me/clhexftw",
-				"download": ""
-			}
-		}
-	},
-        {
                 "brand": "Samsung",
 		"devices": {
 			"0": {
-                                "name": "Galaxy A10",
+                "name": "Galaxy A10",
 				"codename": "a10",
 				"maintainer": "dotA",
 				"xda": "https://forum.xda-developers.com/m/11462945/",
