@@ -1,3 +1,36 @@
+# Changelogs v1.2
+- Merged June Security Patch 
+- Security Patch tag android-12.1.0_r8
+- Added Refresh Rate Tile
+- Added GameSpace, Thanks ChadleaPrjkt
+- Fixed Location Indicator Popup
+- Make Volume Panel Expandable
+- Allow Choosing Volume Panel Position
+- Added VoLTE and VoWiFi Icon Styles
+- Added Mi11 Ultra Games Prop
+- Added Wake on Plug
+- Added Less Boring HeadUp toggle
+- Added StatusBar padding adjustment toggle
+- Added Colored Statusbar icons toggle
+- Added Color Coded Battery Indicator toggle
+- Added 2 Button Navigation Overlay
+- Fixed Google Photos Spoofing for Vanilla ROM
+- Added Dash Charging Support 
+- Added Warp Charging Support 
+- Added Vooc Charging Support
+- Added toggle to disable battery estimates in qs
+- Allow Disabling QS on Secure Lockscreen 
+- Fix Lockscreen Wallpaper not able to set differently
+- Added Toggle for Reset Battery Stats
+- Fix Applications Permissions
+- Added toggle for Background Data Usage of Internet, VPN and Mobile Data
+- Fixed QS Panel Padding issue for Notched devices
+- Added Google Dialer Call Recording Support 
+- Updated PPUtils Fingerprints to June Patch
+- Fixed NFC for NFC supported devices
+- Added annoying notifications when screen is on toggle
+- Added our own BootAnimation
+
 # Changelogs v1.1
 - Merged May Security Patch
 - Based on android-12.1.0_r5
