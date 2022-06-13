@@ -12,6 +12,19 @@
 			},
 		}
 	},
+        {
+                "brand": "Realme",
+		"devices": {
+			"1": {
+                "name": "5 Series",
+				"codename": "r5x",
+				"maintainer": "JaswantTeja",
+				"xda": "null",
+				"telegram": "https://t.me/JaswantTeja",
+				"download": "null"
+                        }
+                }
+        },
 	{
 		"brand": "Xiaomi",
 		"devices": {
