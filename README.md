@@ -48,7 +48,7 @@ Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
  Lime                       | Lime         | [Putrazxyo13](https://telegram.me/putrazxyo13)
  Miatoll                    | Miatoll      | [Sayan Sarkar](https://telegram.me/SKORPION_29)
  Redmi Note 10 Pro/Max      | Sweet        | [Basharat](https://telegram.me/Ba_Sh_ArAT)
- 
+ Redmi 7A/8/8A/8A Dual      | Mi439        | [Blaze](https://telegram.me/blazey66) 
 
 ## <img src="logos/oneplus.png" height="25"> Oneplus
 
