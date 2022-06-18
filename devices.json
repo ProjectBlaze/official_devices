@@ -10,6 +10,14 @@
 				"telegram": "@dhruvesh_23",
 				"download": "download url"
 			},
+                        "1" {
+                                "name": "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+                                "codename": "RM6785",
+                                "maintainer": "PAiN",
+                                "xda": "https://forum.xda-developers.com/m/paaiin.12001769/",
+                                "telegram": "https://t.me/P_AA_ii_N",
+                                "download": "null"
+                        },
 		}
 	},
 	{
