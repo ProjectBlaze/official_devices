@@ -2,14 +2,14 @@
 	{
 		"brand": "Realme",
 		"devices": {
-			"0" {
+			"0": {
 				"name": "Realme XT",
 				"codename": "RMX1921",
 				"maintainer": "Dhruvesh",
 				"xda": "https://forum.xda-developers.com/m/dhruvesh16.11955503/",
 				"telegram": "@dhruvesh_23",
 				"download": "download url"
-			},
+			}
 		}
 	},
 	{
@@ -93,7 +93,7 @@
 				"xda": "null" ,
 				"telegram": "https://t.me/RealAether" ,
 				"download": "null",
-				"name": "Redmi Note/8T ",
+				"name": "Redmi Note/8T "
 			},
             "10": { 
 			       "name": "Redmi 4/4X",
@@ -101,7 +101,7 @@
                                "maintainer": "EvilAnsh",
 			       "xda": "https://forum.xda-developers.com/m/evilansh.12008193/",
 			       "telegram": "https://t.me/EvilAnsh",
-			       "download": "null",
+			       "download": "null"
 	            	},
 			"11": {
 				"name": "Redmi Y2/S2",
@@ -109,7 +109,7 @@
 				"maintainer": "Iris0411",
 				"xda": "null",
 				"telegram": "https://telegram.me/Iris041",
-				"download": "null",
+				"download": "null"
 			},
 			"12": {
 				"name": "Redmi K20 Pro / MI 9T Pro",
@@ -117,7 +117,7 @@
 				"maintainer": "Pc(laz_man)",
 				"xda": "null",
 				"telegram": "https://telegram.me/laz_man",
-				"download": "null",
+				"download": "null"
 			},
       "13": {
         "name": "Redmi Note 7 Pro",
@@ -125,8 +125,8 @@
 				"maintainer": "Rdx55",
 				"xda": "null",
 				"telegram": "https://telegram.me/Rdx55",
-				"download": "null",
-     },
+				"download": "null"
+     }
 		}
 	},
 	{
@@ -143,9 +143,9 @@
 			"1": {
 				"name": "Poco X3 Pro",
 				"codename": "vayu",
-				"maintainer": "clhexftw",
+				"maintainer": "Lambada10",
 				"xda": "",
-				"telegram": "https://t.me/clhex_chat",
+				"telegram": "https://t.me/LambadaOT",
 				"download": "null"
 			},
 			"2": {
@@ -172,7 +172,7 @@
 				"xda": "https://forum.xda-developers.com/m/hasin-abrar-haque.11776721/",
 				"telegram": "https://t.me/AbrarNoob",
 				"download": "null"
-			}
+			},
 			"5": {
 				"name": "Redmi K30 / Poco X2",
 				"codename": "phoenix",
