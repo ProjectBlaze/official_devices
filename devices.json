@@ -95,12 +95,12 @@
 				"download": "null",
 				"name": "Redmi Note/8T "
 			},
-            "10": { 
-			       "name": "Redmi 4/4X",
-			       "codename": "santoni",
-                               "maintainer": "EvilAnsh",
-			       "xda": "https://forum.xda-developers.com/m/evilansh.12008193/",
-			       "telegram": "https://t.me/EvilAnsh",
+                        "10": { 
+			       "name": "Redmi 7A/8/8A/8A Dual",
+			       "codename": "Mi439",
+                               "maintainer": "blazey66",
+			       "xda": "null",
+			       "telegram": "https://t.me/blazey66",
 			       "download": "null"
 	            	},
 			"11": {
