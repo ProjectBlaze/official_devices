@@ -1,3 +1,21 @@
+# Changelogs 1.3
+- Merged July security patch
+- Security Patch tag android -12.1.0_r11
+- Added toggle for data usage in qs 
+- Added reTicker 
+- Added toggle for optional wp zoom
+- Added A13 Navigation Pill
+- Added status bar items
+- Added heads up settings
+- Added oneshot auto brightness 
+- Added dash,warp,vooc,turbo charging  text in battery settings
+- Added gesture customisations
+- Fixed missing options for restrict data usage
+- Fixed qs clock being white on light theme
+- Added lawnchair on vanilla builds 
+- Enabled Lockscreen Shortcuts
+- System wide improvements and fixes
+
 # Changelogs v1.2
 - Merged June Security Patch 
 - Security Patch tag android-12.1.0_r8
