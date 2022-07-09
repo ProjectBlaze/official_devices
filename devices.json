@@ -119,15 +119,15 @@
 				"telegram": "https://telegram.me/laz_man",
 				"download": "null"
 			},
-      "13": {
-        "name": "Redmi Note 7 Pro",
+                        "13": {
+                                "name": "Redmi Note 7 Pro",
 				"codename": "violet",
 				"maintainer": "Rdx55",
 				"xda": "null",
 				"telegram": "https://telegram.me/Rdx55",
 				"download": "null"
-     }
-		}
+                              }
+		        }
 	},
 	{
 		"brand": "Poco",
@@ -183,38 +183,4 @@
 			}
 		}
 	},
-	{
-                "brand": "Samsung",
-		"devices": {
-			"0": {
-                "name": "Galaxy A10",
-				"codename": "a10",
-				"maintainer": "dotA",
-				"xda": "https://forum.xda-developers.com/m/11462945/",
-				"telegram": "https://t.me/therealdotA",
-				"download": ""
-                        }
-                }
-        },
-        {
-        "brand": "OnePlus",
-		"devices": {
-			"0": {
-                "name": "OnePlus 9r",
-				"codename": "Lemonades",
-				"maintainer": "RDS-007",
-				"xda": "null",
-				"telegram": "https://t.me/RDS_07",
-				"download": "null"
-                        },
-			"1": {
-				"name": "OnePlus 8T",
-				"codename": "Kebab",
-				"maintainer": "RDS-007",
-				"xda": "null",
-				"telegram": "https://t.me/RDS_07",
-				"download": "null"
-                        }
-                }
-        }
 ]
