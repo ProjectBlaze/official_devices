@@ -126,6 +126,14 @@
 				"xda": "null",
 				"telegram": "https://telegram.me/Rdx55",
 				"download": "null"
+                        },
+                        "14": {
+                                "name": "Redmi Note 8 Pro",
+                                "codename": "begonia",
+                                "maintainer": "ryuKizuha",
+                                "xda": "null",
+                                "telegram": "https://telegram.me/ryuKizuha",
+                                "download": "null"
                               }
 		        }
 	},
