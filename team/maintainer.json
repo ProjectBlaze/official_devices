@@ -100,5 +100,11 @@
                     "telegram": "https://t.me/laz_man",
                     "github": "https://github.com/Pc1598",
                     "avatar": "https://github.com/Pc1598.png"
+        },
+        {
+                "name": "orkunergun",
+                    "telegram": "https://t.me/orkunergun",
+                    "github": "https://github.com/orkunergun",
+                    "avatar": "https://github.com/orkunergun.png"
         }
 ]
