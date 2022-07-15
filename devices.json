@@ -136,14 +136,6 @@
 				"download": "null"
                         },
                         "14": {
-                                "name": "Redmi Note 8 Pro",
-                                "codename": "begonia",
-                                "maintainer": "ryuKizuha",
-                                "xda": "null",
-                                "telegram": "https://telegram.me/ryuKizuha",
-                                "download": "null"
-                        },
-                        "15": {
                                 "name": "Redmi 9/Poco M2",
                                 "codename": "lava",
                                 "maintainer": "orkunergun",
@@ -151,7 +143,7 @@
                                 "telegram": "https://telegram.me/orkunergun",
                                 "download": "null"
 		        },
-			"16": {
+			"15": {
                                 "name": "Redmi Note 11",
                                 "codename": "spes",
                                 "maintainer": "sayann70",
