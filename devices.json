@@ -103,7 +103,7 @@
 				"download": "null",
 				"name": "Redmi Note/8T "
 			},
-                        "10": { 
+                        "10": {
 			       "name": "Redmi 7A/8/8A/8A Dual",
 			       "codename": "Mi439",
                                "maintainer": "blazey66",
@@ -150,8 +150,16 @@
                                 "xda": "null",
                                 "telegram": "https://telegram.me/orkunergun",
                                 "download": "null"
-                              }
-		        }
+		        },
+			"16": {
+                                "name": "Redmi Note 11",
+                                "codename": "spes",
+                                "maintainer": "sayann70",
+                                "xda": "null",
+                                "telegram": "https://telegram.me/sayann70",
+                                "download": "null"
+			}
+		}
 	},
 	{
 		"brand": "Poco",
