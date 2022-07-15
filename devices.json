@@ -150,6 +150,14 @@
                                 "xda": "null",
                                 "telegram": "https://telegram.me/orkunergun",
                                 "download": "null"
+                       },
+                        "16": {
+                                "name": "Redmi Note 11",
+                                "codename": "spes",
+                                "maintainer": "sayann70",
+                                "xda": "null",
+                                "telegram": "https://telegram.me/sayann70",
+                                "download": "null"
                               }
 		        }
 	},
