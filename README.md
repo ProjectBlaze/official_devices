@@ -21,10 +21,11 @@
 
 ## <img src="logos/realme.png" height="25"> Realme
 
-Device       | Codename | Maintainer
-------------:|:--------:|:----------
-Realme XT    | RMX1921  | [Dhruvesh](https://telegram.me/dhruvesh_23)
-RM6785       | RM6785   | [P_AA_ii_N](https://telegram.me/P_AA_ii_N)
+Device           | Codename | Maintainer
+----------------:|:--------:|:----------
+Realme XT        | RMX1921  | [Dhruvesh](https://telegram.me/dhruvesh_23)
+RM6785           | RM6785   | [P_AA_ii_N](https://telegram.me/P_AA_ii_N)
+Realme 5 Series  | r5x      | [Jaswant_Teja](https://telegram.me/JaswantTeja)                    
 
 ## <img src="logos/poco.svg" height="25"> Xiaomi Poco
 
