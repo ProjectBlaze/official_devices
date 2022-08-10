@@ -1,3 +1,24 @@
+# Changelogs 1.4
+- Block annoying statusbar call strength icon
+- Added status bar Ticker 
+- Increased max blur radius to 75 
+- Implemented hardware buttons customisations 
+- Show double line clock for small clock
+- Added lockscreen weather customisation
+- Added flashlight blink on incoming calls
+- Added cutout force full screen for apps
+- Reduced QS tiles to 4 on collapsed for lag reduction
+- Added data switch qs tile
+- Improved volume panel design
+- Fix QS expand lag when VoLTE/VoWiFi icons are enabled 
+- Added battery optimisation option in battery settings
+- Lockscreen AOD Clock improvements
+- Add support for strict standby policy
+- Made disabling of fingerprint wake-and-unlock configurable for side fp devices
+- Repainter service integration
+- Fixed local storage audio not playing which made system freeze
+- Other system wide improvements.
+
 # Changelogs 1.3
 - Merged July security patch
 - Security Patch tag android -12.1.0_r11
