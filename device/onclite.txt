@@ -1,2 +1,8 @@
 Changelogs 1.4
+Build Date: 11/08/2022
 
+- Some device side improvements
+- Improved SinsPerf+ Kernel
+
+CREDITS: Thanks @Dhina_17 @bibarub for device tree and @Soumyajitpaul007 for vendor tree.
+         Thanks @Hamraj37 @MrUn1corn for testing.
