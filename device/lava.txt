@@ -1,1 +1,9 @@
+Changelogs 1.4
+Build Date: 11/08/2022
 
+- Bump to 1.4
+- Upstream kernel to 4.14.290
+- New powerhal changes by @bengris32
+
+CREDITS: @SparXFusion @ashblk @chcepizze @TheMalachite @ceb8khs @bengris32 for DT
+         Thanks @tracefs Elizabeth for testing.
