@@ -1,1 +1,10 @@
+Changelogs 1.4
+Build Date: 11/08/2022
 
+- Added voLTE support for Bakcell
+- Fixed fp wake-up animation
+- Updated blobs and kernel from SPESNGlobal V13.0.2.0-A12 
+- Added always on display support 
+
+CREDITS: Thanks @jabiyeff21 & @dblenk9 for device tree and vendor tree.
+         Thanks @phseran and @Punkeshk for testing.
