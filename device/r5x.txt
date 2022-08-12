@@ -1,0 +1,9 @@
+Changelogs 1.4
+Build Date: 11/08/2022
+
+- Added NFC Support
+- Minor Changes 
+- Switched to Silont Kernel 
+
+CREDITS: Thanks to @BabluS for trees.
+         Thanks to @SmileOK89 for testing.
