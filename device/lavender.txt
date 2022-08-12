@@ -1,1 +1,11 @@
+Blaze v1.4 
+Build Date: 12/08/2022
+
+Changelogs:
+- Fixed up libperfmgr crash on logs
+- Disabled Chimera.GmsIntentOperationService
+- Debloated some unuseful apps in Gapps build
+- Fixed some boot crashes
+- Some internal improvements 
+
 
