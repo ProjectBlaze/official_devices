@@ -1,0 +1,13 @@
+Changelogs 1.4
+Build Date: 12/08/2022
+
+Changelog:
+
+- Fixed LED blinking on pine
+- Reverted Mic related change (Fixes Mic)
+- Allow system_app to use FM (Fixes AOSP FMRadio)
+- Preserve 800MB on product partition (Possible to install full gapps)
+- Label camera props prefixed with "camera." (Fixes Portrait mode in MIUI Camera)
+- kernel: Workaround Magisk (Patch isn't needed anymore)
+- kernel: Upstream to 4.9.325
+- Ship with MIUI camera
