@@ -1,0 +1,13 @@
+Changelogs 1.4
+Build Date: 12/08/2022
+
+- Skip stream size check for miuicamera
+- Adjust the fingerprint sensor indicator location
+- Enable bluetooth HAL to read mac address from NV
+- Allow hal_nfc_default to search nfc_vendor_data_file
+- Neverallow app open access to /dev/ashmem
+- Set valid and supported channel mask for earpiece
+- Remove dynamic attributes from APS config
+- Add Stereo config channel support to usb surround sound
+- Reduced earphone gain
+- Bring ULL mode back
