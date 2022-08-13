@@ -1,1 +1,21 @@
 Changelog
+
+ProjectBlaze 1.4 changelog 
+Build Date: 13/08/2022
+
+- FM back in action
+- Updated camera to v45
+- mido: Disable ALAC support
+- mido: rootdir: Use default allocstall threshold on k4.9
+- mido : Correct console config property
+- mido: configs: Import gpfspath_oem_config.xml
+- mido: add IQccvndhal from LA.UM.9.6.3.r1-06200-89xx.0
+- mido: parts: dirac: Update vector icons to MD2 versions
+- mido: Enable SIP based VoIP feature
+- mido: Tune zram & swappinness
+- mido: parts: Add dirac logo
+- Fixed OK Google
+- mido: parts: Translation updates
+- Updated kernel to 4.9.324~hyper
+- mido: Update GPS from LA.UM.9.6.3.r1-06200-89xx.0
+- mido: property: Force disable iorapd
