@@ -1,0 +1,7 @@
+Changelog
+
+ProjectBlaze 1.4 changelog
+Build Date: 13/08/2022
+
+- Fixed the issue with google recoreder
+- Misc improvements
