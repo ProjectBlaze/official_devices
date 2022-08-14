@@ -1,0 +1,9 @@
+Changelogs 1.4  
+Build Date: 14/08/2022
+
+- July 2022 ASB
+- Sources upstream
+- Fixed IPv6 tethering
+- Upstreamed kernel to 4.14.290 
+- Updated vendor blobs and firmware images to RMX2002_11.C.19
+- Misc improvements
