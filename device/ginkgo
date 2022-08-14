@@ -1,0 +1,6 @@
+- Used GrapheneOS Camera instead of MiuiCamera
+- Reverted WAIPIO
+- Enable USB Fastcharge up to 900mA (max we can do)
+
+Thanks to @msalihpelit for testing
+Thanks to @Enprytna, @ghostrider-reborn for resources 
