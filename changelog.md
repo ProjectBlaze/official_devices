@@ -7,7 +7,6 @@
 - Added lockscreen weather customisation
 - Added flashlight blink on incoming calls
 - Added cutout force full screen for apps
-- Reduced QS tiles to 4 on collapsed for lag reduction
 - Added data switch qs tile
 - Improved volume panel design
 - Fix QS expand lag when VoLTE/VoWiFi icons are enabled 
