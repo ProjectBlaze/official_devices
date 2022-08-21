@@ -56,14 +56,6 @@
 				"download": "null"
 			},
 			"3": {
-				"name": "Redmi 5 Plus",
-				"codename": "vince",
-				"maintainer": "Ritvik",
-				"xda": "null",
-				"telegram": "https://t.me/ritvik_ch",
-				"download": "null"
-			},
-			"4": {
 				"name": "Redmi 9T/9 Power/Note 9 4G",
 				"codename": "lime",
 				"maintainer": "putrazxyo13",
@@ -71,7 +63,7 @@
 				"telegram": "https://t.me/putrazxyo13",
 				"download": "null"
 			},
-			"5": {
+			"4": {
 				"name": "Redmi Note 7/7s",
 				"codename": "lavender",
 				"maintainer": "AlCoptan99",
@@ -79,7 +71,7 @@
 				"telegram": "https://t.me/AlCoptan99",
 				"download": "null"
 			},
-			"6": {
+			"5": {
 				"name": "Redmi Note 9s/9 Pro/10 Lite ",
 				"codename": "Curtana",
 				"maintainer": "Sayan Sarkar",
@@ -87,7 +79,7 @@
 				"telegram": "https://t.me/SKORPION_29",
 				"download": "null"
 			},
-			"7": {
+			"6": {
 				"name": "Redmi Note 9 Pro Global ",
 				"codename": "Joyeuse",
 				"maintainer": "Sayan Sarkar",
@@ -95,7 +87,7 @@
 				"telegram": "https://t.me/SKORPION_29",
 				"download": "null"
 			},
-			"8": {
+			"7": {
 				"name": "Redmi Note 9 Pro Max ",
 				"codename": "Excalibur",
 				"maintainer": "Sayan Sarkar",
@@ -103,7 +95,7 @@
 				"telegram": "https://t.me/SKORPION_29",
 				"download": "null"
                         },
-			"9": {
+			"8": {
 				"codename": "Ginkgo" ,
 				"maintainer": "RealAether" ,
 				"xda": "null" ,
@@ -111,7 +103,7 @@
 				"download": "null",
 				"name": "Redmi Note/8T "
 			},
-                        "10": {
+                        "9": {
 			       "name": "Redmi 7A/8/8A/8A Dual",
 			       "codename": "Mi439",
                                "maintainer": "blazey66",
@@ -119,7 +111,7 @@
 			       "telegram": "https://t.me/blazey66",
 			       "download": "null"
 	            	},
-			"11": {
+			"10": {
 				"name": "Redmi Y2/S2",
 				"codename": "ysl",
 				"maintainer": "Iris0411",
@@ -127,7 +119,7 @@
 				"telegram": "https://telegram.me/Iris041",
 				"download": "null"
 			},
-			"12": {
+			"11": {
 				"name": "Redmi K20 Pro / MI 9T Pro",
 				"codename": "raphael",
 				"maintainer": "Pc(laz_man)",
@@ -135,7 +127,7 @@
 				"telegram": "https://telegram.me/laz_man",
 				"download": "null"
 			},
-                        "13": {
+                        "12": {
                                 "name": "Redmi Note 7 Pro",
 				"codename": "violet",
 				"maintainer": "Rdx55",
@@ -143,7 +135,7 @@
 				"telegram": "https://telegram.me/Rdx55",
 				"download": "null"
                         },
-                        "14": {
+                        "13": {
                                 "name": "Redmi 9/Poco M2",
                                 "codename": "lava",
                                 "maintainer": "orkunergun",
@@ -151,7 +143,7 @@
                                 "telegram": "https://telegram.me/orkunergun",
                                 "download": "null"
 		        },
-			"15": {
+			"14": {
                                 "name": "Redmi Note 11",
                                 "codename": "spes",
                                 "maintainer": "sayann70",
@@ -159,7 +151,7 @@
                                 "telegram": "https://telegram.me/sayann70",
                                 "download": "null"
 			},
-			"16": {
+			"15": {
                                 "name": "Redmi 9T / Poco M3",
                                 "codename": "chime",
                                 "maintainer": "qwertyuiii-code",
