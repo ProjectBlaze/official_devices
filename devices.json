@@ -162,9 +162,17 @@
 			"16": {
                                 "name": "Redmi 9T / Poco M3",
                                 "codename": "chime",
-                                "maintainer": "qwertyuiii-code",
+                                "maintainer": "Chikoni_uwu",
                                 "xda": "null",
-                                "telegram": "https://telegram.me/qwertyuiii-code",
+                                "telegram": "https://telegram.me/Chikoni_uwu",
+                                "download": "null"
+			},
+			"17": {
+                                "name": "Redmi 6a",
+                                "codename": "cactus",
+                                "maintainer": "Chikoni_uwu",
+                                "xda": "null",
+                                "telegram": "https://telegram.me/Chikoni_uwu",
                                 "download": "null"
 			}	
 		}
