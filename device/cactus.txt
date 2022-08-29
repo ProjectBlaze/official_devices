@@ -1,2 +1,4 @@
 Changelogs 1.4
-Build Date:
+Build Date: 29th August, 2022
+
+- Initial Official Build
