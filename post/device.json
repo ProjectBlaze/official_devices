@@ -1,6 +1,6 @@
 {
 "onclite": {
-    "DeviceName" : "Redmi 7",
+    "DeviceName" : "Redmi 7/Y3",
     "UserName" : "afterallafk & @ganesh314159",
     "Screenshots" : "https://t.me/projectblazeupdates/118",
     "Support Group" : "https://t.me/afterallafkbuilds",
@@ -171,8 +171,15 @@
     "DeviceName" : "Redmi 9T / Poco M3",
     "UserName" : "@Chikoni_uwu",
     "Screenshots" : "https://t.me/projectblazeupdates/118",
-    "Support Group" : "https://t.me/ProjectBlaze5Series",
+    "Support Group" : "https://t.me/chikoniroms",
     "DeviceChangelogs" : "www.projectblaze.live",
     "Pling" : "https://www.pling.com/p/1879216/"
-}    
+},
+"cactus": {
+    "DeviceName" : "Redmi 6a",
+    "UserName" : "@Chikoni_uwu",
+    "Screenshots" : "https://t.me/projectblazeupdates/118",
+    "Support Group" : "https://t.me/chikoniroms",
+    "DeviceChangelogs" : "www.projectblaze.live",
+    "Pling" : "https://www.pling.com/p/1892566/"    
 }
