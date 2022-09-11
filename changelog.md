@@ -1,3 +1,15 @@
+# Changelogs 1.5-EOL
+- Added AOSP changes from August and September Patch.
+- Bumped Security Patch to 5th September, 2022
+- Added animated battery progress bar in battery settings page.
+- Added animated storage progress bar in storage settings page.
+- Allow devices to read battery statistics.
+- Centered the small clock.
+- Added chip design to status bar date & time.
+- Safetynet failure issue fixed.
+- Fixed network disapper issue when turning data on/off or switching data sim.
+- Fixed status bar icons side padding issue where icons get cut. 
+
 # Changelogs 1.4
 - Block annoying statusbar call strength icon
 - Added status bar Ticker 
