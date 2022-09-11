@@ -1,38 +1,21 @@
-Changelogs 1.4
-Build Date: 12/08/2022
+Changelogs 1.5-EOL
+Build Date: 11/09/2022
 
 Changelog:
 
-Switched to User Build
-Fixed Alarm issue
-Fixed Google Camera crashes issue
-Updated list of public libraries from sweet and phoenix
-Disable slow blur effect to avoid laggish blur effect
-Updated audio stack from SWEETEEAGlobal_V13.0.10.0.SKFEUXM
-Fixed Raise to wake icon on dark mode
-Tuned memory parameters from CAF
-Enabled subtle-tick vibration on pull-down QS Panel (Vanilla)
-Tuned CPU and sched parameters from CAF
-Droped all prebuilt apps
-Improved Chraging Speed (Upto 3012mA from 0-70%)              
-Set fast charging indicator threshold to 10W
-Fixed Offline Charging missing Animation
-Fixed Dolby presets not working for Bluetooth
-Checkout CarrierConfig to LA.QSSI.12.0.r1-05800.01-qssi.0
-Fixed some sepolicy issues & removed duplicate addresses
-Updated GPS configs from sweet V13.0.8.0.SKFMIXM
-Updated some GPS changes from LA.UM.9.1.r1-11200-SMxxx0.0
-Switched to prebuilt mlipay blobs
-Set Window animation & transition scale to 0%
-Enabled 4x MSAA by default
-Built opensource soundtrigger HAL
-Update clear speaker audio using DTMF + Chirp tones
-Dropped Dynamic Thermals (Not Working Properly)
-Fixed some notification & QS lag
-Switched to SkiaGL threaded
-Enabled Qualcomm TrueWireless™ Stereo audio(TWS)
-Fixed Google Recorder issue
-Enabled USB FastCharge (Upto 900mA by default)
-Upstreamed Kernel to 4.14.208
-Fixed cam interface on vilte calls
-Imported some changes on powerhint from sunfish
+Fixed Offline Charging LED Indicator
+Switched to latest Azure
+Fixed ANXCamera SlowMotion
+Added More Dirac Presets
+Added Battery Health Overlay
+Addressed telephony denials & labeled camera props
+Fixed some junk Animations
+Imported GPS changes from LA.UM.9.1.r1-09200-SMxxx0.0
+Reduced Idle Drain & Fixed Deep sleep
+Fixed jittery UI during screen recorder
+Forced disable iorapd
+Increased to wifi max scan counts(512)
+Droped CAF thermal service
+Updated ueventd from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+Updated radio props
+Synced up system_ext properties with QSSI 12
