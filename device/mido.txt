@@ -1,5 +1,24 @@
 Changelog
 
+ProjectBlaze 1.5-EOL CChangelog
+Build Date: 12/09/2022
+
+- mido: Update fp/desc to September
+- mido: Add BatteryHealth Overlay & Label sepolicy
+- mido: update camera to v47
+- mido: Enable freeform windows
+- perf:increase touch boost duration
+- init: Limit cpufreq rate via down-/up_rate_limit_us knobs
+- mido: audio feature: Disable incall_music support
+- mido: Drop unused 32bit blobs
+- mido: [SQUASH] Update Audio HAL from LA.UM.10.6.2.r1-02300-89xx.0
+- mido: parts: Add vibration intensity control
+- mido: Disable zram writeback
+- mido: init: Extend config_avoidGfxAccel for 3GB variants
+- mido: Drop default DRM service
+- mido: parts: Update translations
+- mido: Upstream kernel to 4.9.326~hyper
+
 ProjectBlaze 1.4 changelog 
 Build Date: 13/08/2022
 
