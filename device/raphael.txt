@@ -1,5 +1,8 @@
-Changelogs 1.4
-Build Date: 18th August,2022
+Changelogs 1.5
+Build Date: 12th September,2022
 
-- Switched to infinity kernel
+- Switched to Soviet kernel
+- Fixed network gone for a second when switching data
+- Right light statusbar padding
 - Some misc improvements
+
