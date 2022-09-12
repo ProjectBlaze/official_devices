@@ -39,7 +39,7 @@ Poco X3 Pro | Vayu         | [Clhexftw](https://telegram.me/clhex_chat)
 
  Device                     |Codename      | Maintainer 
  --------------------------:|:------------:|:-----------------
- Redmi Note 4X              | Mido         | [Pratyaksh Bharadwaj](https://telegram.me/pbharadwaj_1995)
+ Redmi Note 4X              | Mido         | [Pratyaksh Bharadwaj](https://telegram.me/pbharadwaj_1995) & [Nalinish Ranjan](https://telegram.me/HyperPower17)
  Redmi 4X                   | Santoni      | [EvilAnsh](https://telegram.me/EvilAnsh) 
  Redmi S2/Y2                | Ysl          | [Iris](https://telegram.me/Iris041)
  Redmi 5 Plus               | Vince        | [Ritvik](https://telegram.me/ritvik_ch)
