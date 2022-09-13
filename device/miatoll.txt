@@ -1,3 +1,12 @@
+Changelogs 1.5-EOL
+Build Date: 13/09/2022
+
+- Added BatteryHealth overlay and labelled sepolicy
+- Some miscellaneous fixes and improvements
+
+CREDITS: @Sairam60 for vendor and kernel
+	   @IvanGE90 and @cos0i for testing
+
 Changelogs 1.4
 Build Date: 12/08/2022
 
