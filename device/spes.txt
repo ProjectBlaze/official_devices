@@ -1,3 +1,15 @@
+Changelogs 1.5-EOL
+Build Date: 12/09/2022
+
+- Allowed all cores usage on foreground
+- Use smart_mc as default display mode
+- Imported bluetooth power overlays from SPESNGlobal V13.0.2.0-A12
+- Cancel fingerprint operation if not idle
+- Updated LMK properties
+- Some misc improvements
+
+CREDITS: Thanks @jabiyeff21 & @dblenk9 for device tree and vendor tree.
+
 Changelogs 1.4
 Build Date: 11/08/2022
 
