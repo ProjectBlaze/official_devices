@@ -1,4 +1,9 @@
 Changelog
+ProjectBlaze 1.5 changelog
+Build Date: 14/09/2022
+
+- sm8250-common: rootdir: Report max frequency to tencent games
+- Misc Improvements
 
 ProjectBlaze 1.4 changelog
 Build Date: 13/08/2022
