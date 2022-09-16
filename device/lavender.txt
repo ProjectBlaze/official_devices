@@ -1,3 +1,13 @@
+Blaze v1.5
+Build Date: 15/09/2022
+
+Changelogs:
+- Fixed random reboots issue
+- Fixed some issues in mobile data signal
+- added batteryhealth 
+- some internal improvements
+
+
 Blaze v1.4 
 Build Date: 12/08/2022
 
