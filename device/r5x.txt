@@ -1,9 +1,9 @@
-Changelogs 1.4
-Build Date: 11/08/2022
+Changelogs v1.5 ~ EOL
+Build Date: 18/08/2022
 
-- Added NFC Support
-- Minor Changes 
-- Switched to Silont Kernel 
+- Using Silont Project 4.14.291 Devel Kernel
+- Fixed Realme 5s Cam
+- Minor Changes
 
-CREDITS: Thanks to @BabluS for trees.
+CREDITS: Thanks to @BabluS & @Takumi021 for trees.
          Thanks to @SmileOK89 for testing.
