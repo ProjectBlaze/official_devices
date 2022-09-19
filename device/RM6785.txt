@@ -1,4 +1,11 @@
-Changelogs 1.4  
+Changelogs: v1.5-EOL
+Build Date: 17/09/2022
+
+- Final Android 12 build
+- Some improvements/fixes
+
+
+Changelogs: 1.4 
 Build Date: 14/08/2022
 
 - July 2022 ASB
