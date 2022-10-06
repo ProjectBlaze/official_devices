@@ -1,3 +1,66 @@
+# Changelogs 2.0
+- Merged October 2022 Patch
+- Security Patch tag "android-13.0.0_r8"
+- Added Statusbar NFC Icon
+- Grant necessary permissions to applications
+- Enabled LTE+ Icon
+- Fixed UDFPS for UDFPS devices
+- Added Refresh Rate options
+- Added 3 finger swipe screenshot
+- Added Adaptive Playback
+- Added option to cycle through ringer modes
+- Added extra QS tiles like- Sync, Sound, Caffeine etc.
+- Added option to set different ringtones on both sims
+- Update LTE+/4G+ Icon as per silk design
+- Introduced back Pixel Props Utils
+- Higher FPS for games already unlocked and Google photos spoofing
+- Added various charging types like- WARP, DASH, VOOC etc.
+- Bring back brightness slider customisations
+- Made separate tiles for Wifi and Mobile Data.
+- Lockscreen Charging Info Added
+- Added 2 button navigation keys
+- Enabled Advanced Restart
+- Added back in-call vibration options
+- Added double tap to sleep on statusbar and lockscreen
+- Added long press power button to toggle torch
+- Bring back old style Mobile Data Indicators
+- Introduce Dynamic VoLTE and VoWIFI Icons on Statusbar
+- Fix QS expand lag when VoLTE/VoWIFI icons are enabled
+- Fix double unlock sound
+- Introduced Smartspace & Granted necessary permissions
+- Fixed Google Photos Spoofing
+- Added toggle to make roaming indicator optional
+- Added toggle to use 4G instead of LTE
+- Show data usage in QS footer
+- Added toggle to enable/disable QS footer data usage info
+- Added Advanced ScreenRecord Options
+- Introduced per-app volume with redesigned icon
+- Redesign battery and storage progress bar with support of monet
+- Show bluetooth battery level in statusbar
+- Enabled Lockscreen Shortcuts
+- Bring Back Clock AM/PM customisations
+- Bring Back Battery styles
+- Introduced Network Traffic Indicators
+- Added feature to lock task to the launcher
+- Added "Delete" and "Google Lens" options to the screenshot menu
+- Enabled Quick Unlock, Scramble PIN layout
+- Added toggle to enable or disable toast app icon
+- Made volume panel expandable and redesign to p404 style
+- Introduced lockscreen media art blur
+- Added Reticker
+- Added toggle to enable haptic on QS tiles
+- Add toggle to change volume panel position
+- Added toggle for volume key cursor control
+- Introduced GameSpace and updated it for Android 13
+- Added toggle to ignore window secure flags
+- Added Lockscreen Clock styles
+- Redesign our Settings Page
+- Added toggle to switch to New/Old UI of Settings Page
+- Redesign Settings Page Icons
+- Import default system sounds from Samsung & set as default
+- Bring Back our Improved A11 style QS
+- Introduced QS transparency options
+
 # Changelogs 1.5-EOL
 - Added AOSP changes from August and September Patch.
 - Bumped Security Patch to 5th September, 2022
