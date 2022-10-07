@@ -1,8 +1,5 @@
-Changelogs 1.5
-Build Date: 12th September,2022
+Changelogs 2.0
+Build Date: 8th October,2022
 
-- Switched to Soviet kernel
-- Fixed network gone for a second when switching data
-- Right light statusbar padding
-- Some misc improvements
+- initial build
 
