@@ -1,3 +1,19 @@
+Changelogs 2.0
+Build Date: 07/10/2022
+
+- Initial A13 Build
+- Switched BtAudio to AIDL
+- Disabled slow blur effect to avoid laggish blur effect
+- Removed unnecessary QTI logkit directories
+- Set Zram size to 50%
+- Fixed Wifi tethering issue on Android 13
+- Wifi: Increased max bss count
+- Parts: Use directBootAware
+
+CREDITS: @athizzz15 for help
+	   @IvanGE90, @Its_me_bishal and @Aayush2411 for testing
+	   @Lopster_70 for trees and vendor, @txexcalibur for kernel
+
 Changelogs 1.5-EOL
 Build Date: 13/09/2022
 
