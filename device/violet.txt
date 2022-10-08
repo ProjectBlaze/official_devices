@@ -1,21 +1,15 @@
-Changelogs 1.5-EOL
-Build Date: 11/09/2022
+Changelogs 2.0
+Build Date: 08/10/2022
 
 Changelog:
 
-Fixed Offline Charging LED Indicator
-Switched to latest Azure
-Fixed ANXCamera SlowMotion
-Added More Dirac Presets
-Added Battery Health Overlay
-Addressed telephony denials & labeled camera props
-Fixed some junk Animations
-Imported GPS changes from LA.UM.9.1.r1-09200-SMxxx0.0
-Reduced Idle Drain & Fixed Deep sleep
-Fixed jittery UI during screen recorder
-Forced disable iorapd
-Increased to wifi max scan counts(512)
-Droped CAF thermal service
-Updated ueventd from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
-Updated radio props
-Synced up system_ext properties with QSSI 12
+- Initial A13 build
+- Enforcing Selinux
+- Encrypted by default
+- Inclded GcamGO
+- Latest Azure
+- Tune zram performance
+- Updated various Blobs
+
+Credits : @Joker_V2_0, @dasshubham762
+          @raghavt20 , @@panchajanya1999
