@@ -1,4 +1,22 @@
-Changelogs v2.0
-Build Date: 7th October, 2022
 
-- Initial Android 13 build
+Highlights & Device Specific Changes:
+Build type: HOTFIX
+Device: Redmi Note 10 Pro (sweet/sweetin)
+Device maintainer: Aarav (Aarav_x)
+
+====  18 October, 2022  ====
+
+Fixed some more denials
+Dropped Parts for now
+init.qcom.post_boot.sh: Set up and down rate limits for schedutil 
+sm6150-common: cmdline: Disable kpti 
+Adressed fingerprint denials
+Overlay: frameworks: Don't warn user about FC in Google TTS 
+Configure side fingerprint sensor properties
+Disable CPU hotplug data parsing on mi_thermald 
+
+*Notes
+**Flash only MindTheGapps that is given
+**Dirty flash possible if coming from last update
+
+
