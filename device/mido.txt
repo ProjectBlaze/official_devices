@@ -1,6 +1,26 @@
 Changelog
 
-ProjectBlaze 1.5-EOL CChangelog
+ProjectBlaze 2.0 Changelog
+Build Date: 19/10/2022
+
+- Stable ProjectBlaze 2.0 based on Android 13 Tiramisu
+- Initial Android 13 Build
+- mido: Update fp/desc to October
+- mido: Ship MotoDolby
+- October 2022 Security Patch
+- Synced with latest source
+- Enable Button Backlight
+- Added Button Settings
+- IPA: Use legacy IPA implementation by identifying as UM 3.18 platform
+- mido: Update aptX from coral
+- mido: Update DRM Widevine from Coral
+- mido: Update camera to v52
+- mido: Update Audio HIDL to 7.1
+- Updated Vendor to September 2022
+- Updated kernel to 4.9.330~hyper-v2.0
+- Clean Flash Recommended
+
+ProjectBlaze 1.5-EOL Changelog
 Build Date: 12/09/2022
 
 - mido: Update fp/desc to September
@@ -19,7 +39,7 @@ Build Date: 12/09/2022
 - mido: parts: Update translations
 - mido: Upstream kernel to 4.9.326~hyper
 
-ProjectBlaze 1.4 changelog 
+ProjectBlaze 1.4 Changelog 
 Build Date: 13/08/2022
 
 - FM back in action
