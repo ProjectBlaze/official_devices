@@ -1,5 +1,5 @@
-Blaze v1.4 
-Build Date: 12/08/2022
+Blaze v2.0
+Build Date: 27/10/2022
 
 Changelog:
-•Initial build
+•Initial build a13
