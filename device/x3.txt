@@ -1,0 +1,14 @@
+Changelog 2.0
+Build date -> 31-10-2022
+
+Changelog :-
+- Initial Android 13 build
+- Shipped with Zeus Kernel
+- CTS passed by default
+- Shipped with GcamGo
+- Permissive Build
+- Ui lag fixed while screen recording 
+- Decrypted by default
+Notes :-
+- Clean flash mandatory
+- Based on RUI 2.0 (C08)
