@@ -1,3 +1,35 @@
+# Changelogs 2.1
+- Merged November Security Patch
+- Patch tag based on android-13.0.0_r14.
+- Reverted QuickPull Down.
+- Fixed statusbar clock being hidden after screen unlock.
+- Fixed lockscreen clock time being not updated instantly.
+- Fixed Network Traffic being white on white theme.
+- Fixed Lockscreen clock positioning.
+- Added toggle to enable/disable ripple effect.
+- Added battery light customisation.
+- Allow toggling privacy indicators.
+- Added Black Theme.
+- Added Music Pulse Customisations.
+- Fixed some glitchy toggles of statusbar sections customisations.
+- Added toggle for data disabled indicator icon.
+- Show bolt while charging.
+- Allow toggling Screen Off FOD.
+- Make colored icons in statusbar optional.
+- Added CLO (earlier CAF) Framework Boost (device dependent).
+- Added taskbar for vanilla builds.
+- Enabled optional haptic feedback toggle.
+- Allow hiding navigation bar.
+- Allow changing pill length.
+- Show infinity for large notification count.
+- Added toggle for enable/disable screenshot sounds.
+- Added UDFPS Icons & Animations customisations.
+- Updated fingerprint to Pixel 7 Pro.
+- Ship Pixel Launcher Mod with GAPPS builds.
+- Moved screen density option to display section of settings.
+
+Credits: Thanks @StudioKeys @agam778 @iamlooper for the Pixel launcher.
+
 # Changelogs 2.0
 - Merged October 2022 Patch
 - Security Patch tag "android-13.0.0_r8"
