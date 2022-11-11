@@ -1,3 +1,19 @@
+Changelogs 2.1-NEW-VISION
+Build Date: 11/11/2022
+
+- Fixed goodix keylayout issue
+- Added support for doze auto brightness
+- Adjusted statusbar padding for Android 13
+- Updated prebuilt kernel and blobs from MIUIGlobal V13.0.5.0-A12
+- Added Dolby Atmos 
+- Added GcamGo 
+- Added hide display cutout
+- Some misc improvements
+
+CREDITS: 
+Thanks @jabiyeff21 & @dblenk9 for device tree and vendor tree
+Thanks @mxswkl & @rsouza730 for testing
+
 Changelogs 2.0-RISE
 Build Date: 12/10/2022
 
