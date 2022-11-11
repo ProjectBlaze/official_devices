@@ -1,3 +1,15 @@
+Changelogs 2.1
+Build Date: 10/11/2022
+
+- A13 Build
+- Clean flash necessary as trees changed
+- Ofox Fbe1
+- Added Smart charging Game spoof Pixel props
+
+CREDITS: 
+ @cos0i for base trees
+@rohan_3217 for testing
+
 Changelogs 2.0
 Build Date: 07/10/2022
 
