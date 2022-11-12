@@ -1,3 +1,21 @@
+Changelogs 2.1
+Build Date: 12/11/2022
+- Added missing HALS to manifest & compatibility matrix.
+- Moved all radio, ril related props to their required location.
+- Ship with Moto Dolby.
+- Tune dalvik heap configs for 4GB & 3GB RAM devices.
+- Added Camera2Api props.
+- Update GPS from LA.UM.9.6.3.r1-06200-89xx.0.
+- Whitelisted Gcam Go.
+- Added earpiece gain support from kernel side.
+- Fixed Night Light & Extra Dim.
+- Fixed sepolicy denials related to camera which fixed camera freeze issue upto 80%.
+- Added props for smoother scrolling and better responsiveness.
+- Shipped with improved Sinsperf Kernel v1.2
+
+Credits: Thanks to @Dhina_17 @bibarub for the device tree.
+         Thanks @AyonTech @Noviceyash for testing and logs.
+
 Changelogs 2.0
 Build Date: 08/10/2022
 
