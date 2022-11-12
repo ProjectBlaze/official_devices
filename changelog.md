@@ -27,6 +27,8 @@
 - Updated fingerprint to Pixel 7 Pro.
 - Ship Pixel Launcher Mod with GAPPS builds.
 - Moved screen density option to display section of settings.
+- Fixed Netflix not showing in PlayStore.
+- Redesigned notification ticker.
 
 Credits: Thanks @StudioKeys @agam778 @iamlooper for the Pixel launcher.
 
