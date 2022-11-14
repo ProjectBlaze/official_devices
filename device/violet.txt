@@ -1,3 +1,19 @@
+Changelogs 2.1-NEW-VISION
+Build Date: 13/11/2022
+
+Changelog:
+
+- Switched to User Build
+- Updated adreno stack from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+- Updated system blobs from LA.QSSI.13.0.r1-05800-qssi.0
+- Added more Dirac presets
+- Added support DiracTileService long-click to DiracActivity
+- Adjusted lux stability for updating auto-brightness
+- Re-configured CPU variant according to GS101
+
+Credits : @Joker_V2_0, @dasshubham762
+          @raghavt20 , @@panchajanya1999
+
 Changelogs 2.0
 Build Date: 08/10/2022
 
