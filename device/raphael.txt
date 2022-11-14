@@ -1,3 +1,9 @@
+Changelogs 2.1
+Build Date: 14th November,2022
+
+-shifted to upstreamed soviet kernel
+-minor chnages
+
 Changelogs 2.0
 Build Date: 8th October,2022
 
