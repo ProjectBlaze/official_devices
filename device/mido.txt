@@ -1,5 +1,14 @@
 Changelog
 
+ProjectBlaze 2.1 Changelog
+Build Date: 15/11/2022
+
+- ProjectBlaze 2.1-NEW-VISION
+- November 2022 Security Patch
+- mido: Updated fp/desc to November
+- Synced with latest source
+- Added Back Key Customizations
+
 ProjectBlaze 2.0 Changelog
 Build Date: 19/10/2022
 
