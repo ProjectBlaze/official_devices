@@ -1,3 +1,23 @@
+Changelogs 2.1
+Build Date: 16/11/2022
+
+- Added props for smoother scrolling and better responsiveness.
+- Optimised auto brightness adjustment
+- fixed DT2W
+- GoogleCameraGo updated to v3.645515391
+-  RealmeHub moved from homepage to system
+- Added memory info in app settings
+- Added Battery info in Battery settings
+- Tune zram performance
+
+Notes :-
+- Based on RUI 2.0 (C08)
+- CTS passed by default
+- Clean flash necessary as trees changed
+- Decrypted by default
+
+
+
 Changelog 2.0
 Build date -> 31-10-2022
 
