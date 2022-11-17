@@ -1,5 +1,24 @@
-Blaze v2.0
-Build Date: 27/10/2022
+Blaze v2.1
+Build Date: 17/11/2022
 
 Changelog:
-•Initial build a13
+1) Re-enable FBEv2 encryption
+3) Add AOSP RCS packages
+4) overlay: Update config_ims_rcs_package to use new ImsService
+5) overlay: Disable intrusive gms components
+6) overlay: tweak some auto brightness configs
+7) Expose aux camera globally
+8) Build missing packages for AOSP WFD
+9) Drop com.qualcomm.wfd.* from QTI whitelist
+10) libinit: Update MIUI fingerprints
+11) libinit: Apply MIUI build fingerprint for each variants
+12) Remove non-existing or implicitly included IPACM packages
+13) Migrate to AIDL ClearKey DRM HAL
+14) Switch to legacy-um sepolicy_vndr
+15) Drop SkiaGL HWUI renderer
+16) overlay: Use MIUI values for vibration configs
+17) Disable zram writeback
+18) Drop Vulkan HWUI Renderer    
+19) props: Fix MT SMS sent during power off
+20) Disable redir_party_num
+21) Add surface flinger for more smooth 
