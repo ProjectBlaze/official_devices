@@ -239,4 +239,17 @@
 			}
 		}
 	},
+	{
+		"brand": "Nothing",
+		"devices": {
+			"0": {
+				"name": "Nothing Phone (1)",
+				"codename": "Spacewar",
+				"maintainer": "dhruvesh_23",
+				"xda": "null",
+				"telegram": "https://t.me/dhruvesh_23",
+				"download": "null"
+			}
+		}	
+	}
 ]
