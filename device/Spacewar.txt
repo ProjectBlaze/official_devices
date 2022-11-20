@@ -1,1 +1,8 @@
+Changelogs 2.1-NEW-VISION
+Build Date: 20/11/2022
+
+- Initial Build  
+- Added GcamGo
+- SELinux Permissive
+- Safety net passes by default  
 
