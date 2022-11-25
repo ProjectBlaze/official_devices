@@ -1,3 +1,13 @@
+Blaze v2.1
+Build Date: 24/11/2022
+
+Chnagelogs:
+- Fixed high drain
+- Fixed Night Light
+- Fixed deep sleep
+- Defined multiple vibration intensity levels config
+- [TEMPORARILY] dropped DeviceSettings
+
 Blaze v1.5
 Build Date: 15/09/2022
 
