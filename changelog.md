@@ -1,3 +1,49 @@
+# Changelogs 2.5
+- Full source rebase on QPR
+- Merged February Security patch
+- Allow setting phone ringtone for multiple SIMS
+- Enable LTE+ Icon
+- Reintroduce Pixel Props Utils
+- Reintroduce SmartSpace
+- Reintroduce udfps
+- Fixed unlock flicker for udfps devices
+- Bring Back UDFPS icons and animations
+- Added toggle for ripple effect
+- Fixed unlock sound playing repeatedly
+- Re-add brightness slider customisations
+- Re-add battery styles customisations
+- Added back 3 finger screenshot
+- Reintroduce Network traffic indicator
+- Added Advanced Reboot toggle
+- Added Volume Rocker wake
+- Added windows ignore secure flag
+- Added toggle for data usage on QS footer
+- Added 4G Icon, Roaming Indicator, Data Disabled toggles
+- Added in-call vibration options
+- Reintroduce Lockscreen Charging
+- Added customisations for clock position and dates
+- Enable advanced options for screen recorder
+- Added long press to toggle torch
+- Added Lockscreen Media Art and Pulse
+- Added old style mobile data indicators
+- Make volume dialog expandable
+- Added double to wake and sleep gestures
+- Added reset battery stats
+- Added Less boring heads up
+- Added toggle for screenshot sound
+- Added Black theme
+- Added haptic feedback to QS tiles
+- Added gesture customisations
+- Added reticker
+- Implement cutout force full screen
+- Added FaceUnlock and Applock
+- Re-add A11 inspired Quick Settings
+- Added Round and Square QS icons shape
+- Re-add QS transparency options
+- Added HW key customisation for physical hw key devices
+- Added Combined signal icons toggle
+- Added toggle for unlimited google photos and higher fps unlock
+ 
 # Changelogs 2.1
 - Merged November Security Patch
 - Patch tag based on android-13.0.0_r14.
