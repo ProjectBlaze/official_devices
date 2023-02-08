@@ -182,7 +182,7 @@
                                 "xda": "null",
                                 "telegram": "https://telegram.me/Chikoni_uwu",
                                 "download": "null"
-			}	
+			}
 		}
 	},
 	{
@@ -236,7 +236,15 @@
 				"xda": "https://forum.xda-developers.com/m/sharma_g04.11776567/",
 				"telegram": "https://telegram.me/Sharma_G04",
 				"download": "https://www.pling.com/p/1799248/"
-			}
+			},
+			"6": {
+                                "name": "Poco F1",
+                                "codename": "beryllium",
+                                "maintainer": "Excraze",
+                                "xda": "",
+                                "telegram": "https://t.me/Excraze",
+                                "download": "https://www.pling.com/p/1984177/"
+                        }
 		}
 	},
 	{
@@ -250,6 +258,6 @@
 				"telegram": "https://t.me/dhruvesh_23",
 				"download": "null"
 			}
-		}	
+		}
 	}
 ]
