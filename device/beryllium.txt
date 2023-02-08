@@ -1,0 +1,13 @@
+Blaze v2.5
+Build Date: 08/02/2023
+
+Changelog -:
+- Added battery saving props
+- Enable QPower and Deep Sleep at the same time
+- Enable DFS channel scanning in P2P search
+- Enable GL comp backpressure
+- Upreved bluetooth audio HIDL impl to 2.1
+- Removed vendor RenderScript implementation
+
+Credits: @Reignz3 for kernel 
+         @leopubglover for testing
