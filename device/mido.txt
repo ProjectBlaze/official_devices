@@ -1,5 +1,60 @@
 Changelog
 
+ProjectBlaze 2.5 Changelog
+Build Date: 09/02/2022
+
+- ProjectBlaze 2.5 based on February 2023 Security patch
+- Rom now Encrypted by default
+- Use updated twrp : https://sourceforge.net/projects/nranjan-17/files/FBE%20Recovery/twrp_3.7.0_12-0-mido.img/download
+- Use this Guide : https://raw.githubusercontent.com/NRanjan-17/Pixel-Experience-Releases/main/install_guide.md
+- Added aperture camera
+- Added f2fs support for cache and data
+- mido: Move audio configs under new location
+- mido: props: Disable SF client composition cache
+- mido: Disable HWC composition strategy prediction
+- mido: Disable continuous transaction tracing on all build types
+- mido: overlay: Update multiple vibration strength levels overlay for 13
+- mido: Disable Skia tracing by default
+- mido: Disable Async MTE on System Server
+- mido: Drop rild libargs property
+- mido: sepolicy: legacy: Allow init write to discard_max_bytes
+- QCamera2: Update jpeg exif flash mode data properly
+- QCamera2: mm-jpeg-interface: exif: supply full AE data in exif
+- mido: remove DEVICE_PROVISIONED
+- mido: Ditch rild.libpath prop
+- mido: Ditch persist.rild.nitz_* props
+- mido: audio: fix VTS
+- mido: Remove references to a2dp module
+- wifi: Enable set channel on NDP setup
+- wifi: Configure correct overlay configuration.
+- wifi: smarter decisions on whether to use a 2- or 5Ghz AP
+- mido: enable wpa3 security feature for hotspot
+- mido: Enable WPA2 to WPA3 auto-upgrade
+- mido: Disable proprietary APE parser
+- mido: Disable proprietary MKV parser
+- mido: Update supported qcom parsers
+- mido: Sort blobs list
+- mido: init: bump zram max_comp_streams to 8
+- mido: overlay: Restore pre a13 battery warning threshold
+- mido: Set block_binder_thread_on_incoming_calls in product.prop
+- mido: Do not block binder thread on incoming calls
+- mido: Speed profile services and wifi-service to reduce RAM and storage
+- mido: sepolicy: Change label for various graphics libs
+- mido: overlay: Improve pinner configuration
+- mido: Move qti_whitelist.xml to /system_ext
+- manifest: Adding bluetooth a2dp & audio manifest entries
+- sepolicy: Address qti_init_shell denial
+- mido: store TaskSnapshot in 16 bit pixel format to save memory
+- mido: AOSP WFD doesn't support protected Wi-Fi Display buffers
+- Revert "mido: Disable ALMK and PPR on all targets"
+- Revert "mido: rootdir: Use default allocstall threshold on k4.9"
+- Revert "mido: Tune zram & swappinness"
+- Revert "init: Limit cpufreq rate via down-/up_rate_limit_us knobs."
+- Revert "mido: init: Apply aggressive write caching."
+- [SQUASH] Revert vibration intensity toggle [temp]
+- mido: parts: Fix compilation for QPR1 merge
+- added aidl light hals
+
 ProjectBlaze 2.1 Changelog
 Build Date: 15/11/2022
 
