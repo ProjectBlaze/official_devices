@@ -1,5 +1,5 @@
-Version: 1.5-EOL
-Build date: 18/09/'22
+Version: 2.5
+Build date: 11/02/'23
 
-- Final Android 12 build
-- Small improvements/fixes
+- Initial Official Android 13 build
+- Under-the-hood changes/improvements
