@@ -1,3 +1,21 @@
+Changelogs 2.5
+Build Date: 11th February,2023
+
+-Rebased device tree and shifted to Englezos kernel(Thanks to @penglezos for his device and kernel tree)
+-Enable screenoff UDFPS(working fully on AOD)
+-Import lmkd props from google gki
+-Don't specify userdata filetype
+-Enable the pre-rendering feature
+-Make shim for com.qti.node.watermark.so 
+-adjust udfps animation offset
+-Remove force encryption
+-Remove firmware class path for kernel firmware loading
+-Import debug.sf.frame_rate_multiple_threshold prop 
+-Speed preopt Google dialer, Settings & SystemUI 
+-Set config_deviceLightCapabilities to the right value 
+-Enabled notification led pulse
+-switch to common xiaomi light
+
 Changelogs 2.1
 Build Date: 14th November,2022
 
