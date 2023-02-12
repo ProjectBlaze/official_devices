@@ -1,3 +1,21 @@
+ProjectBlaze 2.5
+Build Date: 11/02/2023
+
+- Fixed Zoom Crashing And Green Screen Issues 
+- Downgraded Prebuilt Kernel And Blobs From SPESNEEAGlobal V13.0.11.0
+- Update Rounded Corner Radius Overlay From Stock MIUI
+- Increased 5 GHz Network Signal Tolerance
+- Adjusted left/right Statusbar Paddigs
+- Added Min-Max Refresh Rate Toggle [TEMP]
+- Some Fixes For Proximity Sensor
+- Dropped GcamGO
+- Added Aperture Camera
+- Some Misc Improvement
+
+CREDITS -
+Thanks @jabiyeff21 & @dblenk9 for device tree and vendor tree
+Thanks for @ScOuRgeNuB testing
+
 Changelogs 2.1-NEW-VISION
 Build Date: 11/11/2022
 
