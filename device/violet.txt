@@ -1,3 +1,20 @@
+ProjectBlaze 2.5
+Build Date: 11/02/2023
+
+Changelog:
+- ProjectBlaze 2.5 based on February 2023 Security patch
+- Rom Encrypted by default
+- Recommended Recovery: https://t.me/RedmiNote7ProChannel/2100
+- DFEv4: https://t.me/RedmiNote7ProChannel/2086
+- Added Dirac Logo
+- New Hyper Kernel v1.1
+- Updated Blobs to LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+- Updated Vibration Pattern
+- Added Aperture Camera
+- Updated radio to v1.5
+- store TaskSnapshot in 16 bit pixel format to save memory
+- multiple underhood changes
+
 Changelogs 2.1-NEW-VISION
 Build Date: 13/11/2022
 
