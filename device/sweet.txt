@@ -1,3 +1,13 @@
+Changelog - 2.5-HOTFIX
+Build Date - 12th February, 2023
+- Removed EROFS support
+- Fixed GAPPS package install issue on VANILLA builds
+- Fixed glitchy white theme QS Panel
+
+CREDITS-
+Thanks @JYR_RC for the GAPPS package fix and testing the build.
+Thanks @VecnaGhost for testing QS panel fix.
+
 Changelog - 2.5
 Build Date - 7th February, 2023
 
