@@ -1,0 +1,14 @@
+ProjectBlaze 2.5
+Build Date: 14/02/2023
+
+Changelog:
+- ProjectBlaze 2.5 based on February 2023 Security patch
+- Synced latest a13 source
+- kernel Panda(4.19.239)
+- Disabled system blur
+- Speed up system profile services
+- Disable blur on app launch
+- Added better ram management 
+- Added smooth motion
+
+Credit: @Pzqqt
