@@ -33,6 +33,14 @@
                                 "xda": "null"
                                 "telegram": "https://t.me/Ak_builds",
                                 "download": "null"
+                        },
+			"4": {
+                                "name": "Realme GT Neo 2",
+                                "codename": "bitra",
+                                "maintainer": "cristianvaz",
+                                "xda": "null"
+                                "telegram": "https://t.me/cristianvazsupport",
+                                "download": "null"
                         }
                 }
 	},
