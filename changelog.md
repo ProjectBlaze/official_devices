@@ -1,3 +1,35 @@
+# Changelogs 2.6
+- Based on February Security Patch
+- Allow hotspots to use VPN
+- Added privacy indicators toggles
+- Added low battery light disable toggle
+- Brought back battery and storage sections UI
+- Added Dash, Warp, VOOC, Superdart, OEM fast chargers support
+- Added Navigation Bars customisation and inversion
+- Added Per-App Volume support
+- Added Smart Pause (Adaptive Playback)
+- Make statusbar colored icons toggleable
+- Added landscape battery icons
+- Added CLO Frameworks Boost (Requires Perf Libs)
+- Added AOD QS tile and it's overlays
+- Added Google Lens in Screenshot UI
+- Added Flashlight and Camera Lockscreen shortcuts
+- Increased qs panel blur radius to 75px
+- Whitelisted more system apps to AppLock
+- Added disabling QS on secure lockscreen
+- Added Smooth Display options
+- Moved small width option to display settings
+- Removed Samsung UI sounds
+- New implementation of QS transparency
+- Added more new WIFI, Signal icon styles
+- Added Oppo Sans, Linotte fonts
+- Added Google monet color pallete in vanilla builds.
+- Updated Pixel Launcher Extended to v1.4.1
+- Added toggle to hide navbar
+- Switched to MIUI implementation for 3 finger screenshot
+- Added some themed icons for vanilla variant
+- Unset Pikachu default notification sound
+
 # Changelogs 2.5
 - Full source rebase on QPR
 - Merged February Security patch
