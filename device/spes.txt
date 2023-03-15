@@ -1,3 +1,19 @@
+ProjectBlaze 2.6
+Build Date: 15/03/2023
+
+- Imported Brightness Overlays From SPESGlobal V13.0.16.0-A11
+- Updated Rounded Corners For T
+- Reduced Minimum Brightness
+- Importd XiaomiParts From Xiaomi sdm845-common
+- Introduced Dirac Preferences
+- Added Support For hifi
+- Implemented dc dimming
+- Implemented Clear Speaker
+- Some Misc Improvement
+
+CREDITS -
+Thanks @jabiyeff21 & @dblenk9 for device tree and vendor tree
+
 ProjectBlaze 2.5
 Build Date: 11/02/2023
 
