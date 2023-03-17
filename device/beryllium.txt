@@ -1,3 +1,16 @@
+ProjectBlaze 2.6
+Build Date: 16/03/2023
+
+- Switch CPU varient to kryo385
+- Added support for multiple vibration intensity controller
+- Switch to Kawaii kernel
+- Disable ART debug and optimize dexpreopt
+- Enabled Google fast pair for supported devices
+- Give proper permissions for /dev/diag 
+
+CREDITS -
+Thanks @leopubglover,@Souma785101,@HeshamElGazzaz for testing 
+
 Blaze v2.5
 Build Date: 08/02/2023
 
