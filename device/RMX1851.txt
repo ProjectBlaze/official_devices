@@ -1,0 +1,6 @@
+=============================
+Changelog - v2.6
+Build Date - 18th March, 2023
+=============================
+- Some trees fixup.
+- Misc improvements.
