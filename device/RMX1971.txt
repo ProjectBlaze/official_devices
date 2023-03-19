@@ -1,0 +1,33 @@
+ProjectBlaze 2.6
+Build Date: 18/03/2023
+
+- Moto Dolby integration for improved audio experience
+
+- Suspend to RAM enabled to reduce idle power consumption
+
+- Seamless Doze state transitions allowed for improved battery life
+
+- Gestureflingboost enabled for improved touchscreen responsiveness
+
+- lmkd kill timeout value set to 50 to avoid lengthy process termination waiting times
+
+- RAM management improvements implemented
+
+- Switched to lmkd to use minfree levels for kill decisions, improving performance and stability
+
+- Night Light and Extra Dark features enabled
+
+- DPM, IMS, and RIL system blobs updated to a new version
+
+- Missing system service added to fix carrier video calling issues
+
+- CarrierConfig updated to a newer version
+
+- SF composition prediction model disabled for improved performance and stability
+
+- Other miscellaneous changes to improve ROM performance and stability.
+
+
+CREDITS:-
+
+- Thanks @kssrao13882 for the Trees.
