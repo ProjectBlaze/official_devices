@@ -1,5 +1,17 @@
 Changelog
 
+ProjectBlaze 2.6 Changelog
+Build Date: 25/03/2022
+
+- ProjectBlaze 2.6 based on February 2023 Security patch
+- Rom now Encrypted by default
+- Use updated twrp : https://sourceforge.net/projects/nranjan-17/files/FBE%20Recovery/twrp_3.7.0_12-0-mido.img/download
+- Use this Guide : https://raw.githubusercontent.com/NRanjan-17/Pixel-Experience-Releases/main/install_guide.md
+- No March 2023 Security Patch merged for now. Enjoy February one LOL
+- Fixed QS QR code shortcut unavailable. Just Update your play services
+- Build libstdc++.so from source
+- HW Light working and Nav Bar are on by default turn them off in BlazeHouse buttons sections and give your device reboot and enjoy only Hw Buttons.
+
 ProjectBlaze 2.5 Changelog
 Build Date: 09/02/2022
 
