@@ -1,242 +1,272 @@
-{
-"onclite": {
-    "DeviceName" : "Redmi 7/Y3",
-    "UserName" : "mrun1corn",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/afterallafkbuilds",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1763043/"
-},
-"surya": {
-    "DeviceName" : "POCO X3 NFC",
-    "UserName" : "MrTechnoStart",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/TechnoStartUpdates",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1763060/"
-},
-"sweet": {
-    "DeviceName" : "Redmi Note 10 Pro/Pro Max",
-    "UserName" : "afterallafk",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/afterallafkbuilds",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1763030/"
-},
-"lavender": {
-    "DeviceName" : "Redmi Note 7/7s",
-    "UserName" : "AlCoptan99",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/coptan_s_projects",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1763039/"
-},
-"raphael": {
-    "DeviceName" : "Redmi K20 Pro / MI 9T Pro",
-    "UserName" : "karaannn",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/genhodee",
-    "DeviceChangelogs" : " https://telegra.ph/ProjectBlaze-11-05-18",
-    "Pling" : "https://www.pling.com/p/1800361/"
-},
-"miatoll": {
-    "DeviceName" : "Xiaomi POCO M2 Pro/Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 9 Pro Max",
-    "UserName" : "athizzz15 & swapnilvicky",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/unofficialmiatoll",
-    "DeviceChangelogs" : "https://telegra.ph/Project-Blaze-11-Miatoll-05-07",
-    "Pling" : "https://www.pling.com/p/1763052/"
-},
-"juice": {
-    "DeviceName" : "Poco M3/Redmi 9T/Redmi Note 4G/Redmi 9 Power",
-    "UserName" : "putrazxyo13",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/syaprjktdis",
-    "DeviceChangelogs" : "https://telegra.ph/Project-Blaze-v11-05-08-2",
-    "Pling" : "https://www.pling.com/p/1763046/"
-},
-"phoenix": {
-    "DeviceName" : "Poco X2/Redmi K30",
-    "UserName" : "Sharma_G04",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/Project_Blaze",
-    "DeviceChangelogs" : "https://telegra.ph/Project-Blaze-v11-05-23",
-    "Pling" : "https://www.pling.com/p/1799248/"
-},
-"RMX1921": {
-    "DeviceName" : "Realme XT",
-    "UserName" : "dhruvesh_23",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/projectblaze_RMX1921",
-    "DeviceChangelogs" : "https://telegra.ph/DEVICE-CHANGELOG-04-13",
-    "Pling" : "https://www.pling.com/p/1763187"
-},
-"ginkgo": {
-    "DeviceName" : "Redmi Note 8/T",
-    "UserName" : "NTRX_Wikrama",
-    "Screenshots" : "https://t.me/ProjectBlazeGinkgo",
-    "Support Group" : "https://t.me/ProjectBlazeGinkgo",
-    "DeviceChangelogs" : "https://telegra.ph/DEVICE-CHANGELOG-04-13",
-    "Pling" : "https://www.pling.com/p/1766204"
-},
-"vince": {
-    "DeviceName" : "Redmi 5 Plus/Note 5 (India)",
-    "UserName" : "ritvik_ch",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/sigmaprojects",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1763034/"
-},
-"Mi439": {
-    "DeviceName" : "Redmi 7A/8/8A/8A Dual",
-    "UserName" : "blazey66",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/+FameD-VCnSxkZDBh",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1763161/"
-},
-"violet": {
-    "DeviceName" : "Redmi Note 7 Pro",
-    "UserName" : "HyperPower17",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/Unofficial_violet",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1828597/"
-},
-"vayu": {
-    "DeviceName" : "Poco X3 Pro",
-    "UserName" : "Lambada10",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/LambadaOT",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1763062/"
-},
-"RM6785": {
-    "DeviceName" : "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
-    "UserName" : "PAiN",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/unofficial_PAiNsHUB",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1831896/"
-},
-"YSL": {
-    "DeviceName" : "Redmi Y2/S2",
-    "UserName" : "iris041",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/iris041",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1825359"
-},
-"mido": {
-    "DeviceName" : "Redmi Note 4",
-    "UserName" : "HyperPower17 & pbharadwaj_95",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1795900/"
-},
-"lava": {
-    "DeviceName" : "Redmi 9/Poco M2",
-    "UserName" : "orkunergun",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/projectblaze_lava",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1853501/"
-},
-"alioth": {
-    "DeviceName" : "Poco F3/Mi 11x/Redmi K40",
-    "UserName" : "AbrarNoob",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/carrotgardenalioth",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1765444/"
-},
-"spes": {
-    "DeviceName" : "Redmi Note 11",
-    "UserName" : "sayann70",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/+k6wGamr3-H1jNjVl",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1856619/"
-},
-"r5x": {
-    "DeviceName" : "Realme 5 Series",
-    "UserName" : "JaswantTeja",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/ProjectBlaze5Series",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1857397/"
-},
-"chime": {
-    "DeviceName" : "Redmi 9T / Poco M3",
-    "UserName" : "Chikoni_uwu",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/chikoniroms",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1879216/"
-},
-"cactus": {
-    "DeviceName" : "Redmi 6a",
-    "UserName" : "Chikoni_uwu",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/chikoniroms",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1892566/"
-},
-"RMX2081": {
-    "DeviceName" : "Realme X3",
-    "UserName" : "A_k_0_5",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/Ak_builds",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1929010/"
-},
-"Spacewar": {
-    "DeviceName" : "Nothing Phone (1)",
-    "UserName" : "dhruvesh_23",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/projectblaze_spacewar",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1940673/"
-},
-"beryllium": {
-    "DeviceName" : "Poco F1",
-    "UserName" : "Excraze",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/baka_hokage_builds_support",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1984177/"
-},
-"whyred": {
-    "DeviceName" : "Redmi Note 5 Pro",
-    "UserName" : "Mizugameza05",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/MizoWhyred",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1986470/"
-},
-"bitra": {
-    "DeviceName" : "Realme GT Neo 2",
-    "UserName" : "cristianvaz",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/cristianvazsupport",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1990932/"
-},
-"RMX1851": {
-    "DeviceName" : "Realme 3 Pro",
-    "UserName" : "Noobie_ashwani",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/ashwanis_build",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1991275/"
-},
-"RMX1971": {
-    "DeviceName" : "Realme 5 Pro",
-    "UserName" : "AnilShebin",
-    "Screenshots" : "https://t.me/projectblaze/48585",
-    "Support Group" : "https://t.me/Blaze_RMX1971",
-    "DeviceChangelogs" : "www.projectblaze.live",
-    "Pling" : "https://www.pling.com/p/1763178/"
-}
-}
+[
+    {
+        "CodeName" : "onclite",
+        "DeviceName" : "Redmi 7/Y3",
+        "UserName" : "mrun1corn",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/afterallafkbuilds",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1763043/"
+    },
+    {
+        "CodeName" : "surya",
+        "DeviceName" : "POCO X3 NFC",
+        "UserName" : "MrTechnoStart",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/TechnoStartUpdates",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1763060/"
+    },
+    {
+        "CodeName" : "sweet",
+        "DeviceName" : "Redmi Note 10 Pro/Pro Max",
+        "UserName" : "afterallafk",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/afterallafkbuilds",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1763030/"
+    },
+    {
+        "CodeName" : "lavender",
+        "DeviceName" : "Redmi Note 7/7s",
+        "UserName" : "AlCoptan99",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/coptan_s_projects",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1763039/"
+    },
+    {
+        "CodeName" : "raphael",
+        "DeviceName" : "Redmi K20 Pro / MI 9T Pro",
+        "UserName" : "karaannn",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/genhodee",
+        "DeviceChangelogs" : " https://telegra.ph/ProjectBlaze-11-05-18",
+        "Pling" : "https://www.pling.com/p/1800361/"
+    },
+    {
+        "CodeName" : "miatoll",
+        "DeviceName" : "Xiaomi POCO M2 Pro/Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 9 Pro Max",
+        "UserName" : "athizzz15 & swapnilvicky",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/unofficialmiatoll",
+        "DeviceChangelogs" : "https://telegra.ph/Project-Blaze-11-Miatoll-05-07",
+        "Pling" : "https://www.pling.com/p/1763052/"
+    },
+    {
+        "CodeName" : "juice",
+        "DeviceName" : "Poco M3/Redmi 9T/Redmi Note 4G/Redmi 9 Power",
+        "UserName" : "putrazxyo13",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/syaprjktdis",
+        "DeviceChangelogs" : "https://telegra.ph/Project-Blaze-v11-05-08-2",
+        "Pling" : "https://www.pling.com/p/1763046/"
+    },
+    {
+        "CodeName" : "phoenix",
+        "DeviceName" : "Poco X2/Redmi K30",
+        "UserName" : "Sharma_G04",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/Project_Blaze",
+        "DeviceChangelogs" : "https://telegra.ph/Project-Blaze-v11-05-23",
+        "Pling" : "https://www.pling.com/p/1799248/"
+    },
+    {
+        "CodeName" : "RMX1921",
+        "DeviceName" : "Realme XT",
+        "UserName" : "dhruvesh_23",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/projectblaze_RMX1921",
+        "DeviceChangelogs" : "https://telegra.ph/DEVICE-CHANGELOG-04-13",
+        "Pling" : "https://www.pling.com/p/1763187"
+    },
+    {
+        "CodeName" : "ginkgo",
+        "DeviceName" : "Redmi Note 8/T",
+        "UserName" : "NTRX_Wikrama",
+        "Screenshots" : "https://t.me/ProjectBlazeGinkgo",
+        "Support Group" : "https://t.me/ProjectBlazeGinkgo",
+        "DeviceChangelogs" : "https://telegra.ph/DEVICE-CHANGELOG-04-13",
+        "Pling" : "https://www.pling.com/p/1766204"
+    },
+    {
+        "CodeName" : "vince",
+        "DeviceName" : "Redmi 5 Plus/Note 5 (India)",
+        "UserName" : "ritvik_ch",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/sigmaprojects",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1763034/"
+    },
+    {
+        "CodeName" : "Mi439",
+        "DeviceName" : "Redmi 7A/8/8A/8A Dual",
+        "UserName" : "blazey66",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/+FameD-VCnSxkZDBh",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1763161/"
+    },
+    {
+        "CodeName" : "violet",
+        "DeviceName" : "Redmi Note 7 Pro",
+        "UserName" : "HyperPower17",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/Unofficial_violet",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1828597/"
+    },
+    {
+        "CodeName" : "vayu",
+        "DeviceName" : "Poco X3 Pro",
+        "UserName" : "Lambada10",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/LambadaOT",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1763062/"
+    },
+    {
+        "CodeName" : "RM6785",
+        "DeviceName" : "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+        "UserName" : "PAiN",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/unofficial_PAiNsHUB",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1831896/"
+    },
+    {
+        "CodeName" : "YSL",
+        "DeviceName" : "Redmi Y2/S2",
+        "UserName" : "iris041",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/iris041",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1825359"
+    },
+    {
+        "CodeName" : "mido",
+        "DeviceName" : "Redmi Note 4",
+        "UserName" : "HyperPower17 & pbharadwaj_95",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1795900/"
+    },
+    {
+        "CodeName" : "lava",
+        "DeviceName" : "Redmi 9/Poco M2",
+        "UserName" : "orkunergun",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/projectblaze_lava",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1853501/"
+    },
+    {
+        "CodeName" : "alioth",
+        "DeviceName" : "Poco F3/Mi 11x/Redmi K40",
+        "UserName" : "AbrarNoob",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/carrotgardenalioth",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1765444/"
+    },
+    {
+        "CodeName" : "spes",
+        "DeviceName" : "Redmi Note 11",
+        "UserName" : "sayann70",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/+k6wGamr3-H1jNjVl",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1856619/"
+    },
+    {
+        "CodeName" : "r5x",
+        "DeviceName" : "Realme 5 Series",
+        "UserName" : "JaswantTeja",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/ProjectBlaze5Series",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1857397/"
+    },
+    {
+        "CodeName" : "chime",
+        "DeviceName" : "Redmi 9T / Poco M3",
+        "UserName" : "Chikoni_uwu",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/chikoniroms",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1879216/"
+    },
+    {
+        "CodeName" : "cactus",
+        "DeviceName" : "Redmi 6a",
+        "UserName" : "Chikoni_uwu",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/chikoniroms",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1892566/"
+    },
+    {
+        "CodeName" : "RMX2081",
+        "DeviceName" : "Realme X3",
+        "UserName" : "A_k_0_5",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/Ak_builds",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1929010/"
+    },
+    {
+        "CodeName" : "Spacewar",
+        "DeviceName" : "Nothing Phone (1)",
+        "UserName" : "dhruvesh_23",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/projectblaze_spacewar",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1940673/"
+    },
+    {
+        "CodeName" : "beryllium",
+        "DeviceName" : "Poco F1",
+        "UserName" : "Excraze",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/baka_hokage_builds_support",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1984177/"
+    },
+    {
+        "CodeName" : "whyred",
+        "DeviceName" : "Redmi Note 5 Pro",
+        "UserName" : "Mizugameza05",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/MizoWhyred",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1986470/"
+    },
+    {
+        "CodeName" :"bitra",
+        "DeviceName" : "Realme GT Neo 2",
+        "UserName" : "cristianvaz",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/cristianvazsupport",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1990932/"
+    },
+    {
+        "CodeName":"RMX1851",
+        "DeviceName" : "Realme 3 Pro",
+        "UserName" : "Noobie_ashwani",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/ashwanis_build",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1991275/"
+    },
+    {
+        "CodeName" : "RMX1971",
+        "DeviceName" : "Realme 5 Pro",
+        "UserName" : "AnilShebin",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/Blaze_RMX1971",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/1763178/"
+    }
+    ]
