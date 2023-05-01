@@ -214,6 +214,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/Mizugameza05",
                                 "download": "null"
+                        },
+			"19": {
+                                "name": "Redmi Note 6 Pro",
+                                "codename": "tulip",
+                                "maintainer": "su_rbd",
+                                "xda": "null",
+                                "telegram": "https://t.me/su_rbd",
+                                "download": "null"
                         }
 		}
 	},
