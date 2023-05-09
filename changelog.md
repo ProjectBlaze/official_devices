@@ -1,3 +1,18 @@
+# Changelogs 2.7
+- Full source rebase on QPR2
+- Merged May Security patch
+- Switched to Launcher 3
+- Switched to A13 QS style
+- Added Screen off animation
+- Added reTicker notification
+- Re-Add privacy indicators toggles
+- Re-Add Advanced Reboot toggle
+- Re-Add Volume Rocker wake
+- Re-add brightness slider customisations
+- Re-add battery styles customisations
+- Re-Add toggle for ripple effect
+- We have temporarily removed some features, and it will be added in future releases
+
 # Changelogs 2.6
 - Based on February Security Patch
 - Allow hotspots to use VPN
