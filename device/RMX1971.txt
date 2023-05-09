@@ -1,3 +1,33 @@
+ProjectBlaze 2.7
+Build Date: 09/05/2023
+
+- Introduced battery-friendly-pocketmode
+
+- Enabled vibration on icon animation
+
+- Removed aptX(HD) encoder shared libraries
+
+- Redefined a2dp offload capabilities
+
+- Adjusted doze brightness values
+
+- Adjusting of screen brightness while dozing in low power state
+
+- Set lz4 as the default for ZRAM compression
+
+- Nuked GoogleTagManager logs
+
+- Imported more surface flinger flags (Improvement in smoothness)
+
+- Miscellaneous other changes to make rom smoother and better
+
+CREDITS:-
+
+- Thanks @kssrao13882 for the Trees
+
+- Thanks @yashtyagiji for Testing
+
+
 ProjectBlaze 2.6
 Build Date: 18/03/2023
 
