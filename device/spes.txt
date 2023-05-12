@@ -1,3 +1,21 @@
+ProjectBlaze 2.7
+Build Date: 11/05/2023
+
+- Enabled Wide Color Gamut support
+- Disabled SF composition prediction model
+- Forced device to treat 170M as sRGB in SF
+- Compact cached app heaps in the background
+- Allowed more cached apps in the background
+- Report max frequency to miHoYo games
+- Register framebuffer lib to cached freq reporting
+- Removed UnityMain from sched_lib_name
+- Disabled AAudio MMAP
+- Removed OpenGL backpressure support
+
+CREDITS -
+Thanks @jabiyeff21 & @dblenk9 for device tree and vendor tree
+Thanks @Shinncyan16 for testing 
+
 ProjectBlaze 2.6
 Build Date: 15/03/2023
 
