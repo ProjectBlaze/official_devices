@@ -1,3 +1,24 @@
+Changelogs 2.7
+Build Date : 14th May 2023
+
+-> Clean Flash Mandatory
+-> Introduced HBM (High Brightness Mode)
+-> Added DC-Dimming
+-> Added MIUI Leica camera
+-> Added back Mi Sound Enhancer
+-> Added support for HiFi in Mi Sound
+-> Safetynet/CTS passes by default
+-> Switched to englezos kernel
+-> Added support for LTE_CA
+-> Udfps working
+-> Screen-off udfps working (it wont show icon but will unlock after placing fp)
+-> Decrypted build
+-> Dropped aptx support (already in sources after QPR 2)
+-> Uses Englezos device tree, vendor tree
+-> Both GApps and Vanilla variant available
+-> Flash region specific fw (if face any problems)
+-> switched to stock fingerprint
+
 Changelogs 2.6
 Build Date: 19th March,2023
 
