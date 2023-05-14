@@ -1,5 +1,14 @@
 Changelog
 
+ProjectBlaze 2.7 Chabgelog
+Build Date: 15/05/2023
+
+- ProjectBlaze 2.7 based on May 2023 Security patch
+- Non Retrofit Build
+- Encrypted Build
+- Use updated twrp : https://sourceforge.net/projects/nranjan-17/files/FBE%20Recovery/twrp_3.7.0_12-0-mido.img/download
+- Use this Guide : https://raw.githubusercontent.com/NRanjan-17/Pixel-Experience-Releases/main/install_guide.md
+
 ProjectBlaze 2.6 Changelog
 Build Date: 25/03/2022
 
