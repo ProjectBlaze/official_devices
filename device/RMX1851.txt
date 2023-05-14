@@ -4,3 +4,13 @@ Build Date - 18th March, 2023
 =============================
 - Some trees fixup.
 - Misc improvements.
+=============================
+Changelog - v2.7
+Build Date - 11th May, 2023
+=============================
+- Fixed Fingerprint Lock ( Bugged In Previous Update v2.6 )
+- Used KharaMe5Pro Kernel ( Thanks to @kssrao13882 sir )
+Because Of Kernel Game Mode Was Triggerd & Turned On Automatically 
+If You Want To Turned It Off Go Into Settings>Apps>See all apps>Click On Three Dots & Show System>Seach Realme Extras
+Then Force Stop The App Done! 
+- Decrypted Rom
