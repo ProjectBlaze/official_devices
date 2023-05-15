@@ -1,4 +1,10 @@
-Changelog
+Changelogs For ProjectBlaze 2.7
+Build Date: 15/05/2023
+
+- Initial Build with nexus Kernel Stable
+- Lecia camera and Dolby Atmos Included
+- Both Vannila and Gapps Variant available
+
 ProjectBlaze 1.5 changelog
 Build Date: 14/09/2022
 
