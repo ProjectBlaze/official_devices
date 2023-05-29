@@ -1,0 +1,18 @@
+=============================
+Changelog - v2.7
+Build Date - 30th May, 2023
+=============================
+- Initial release.
+- Adapt everythings to Blaze,
+- Upstream kernel to v4.19.282,
+- Add OplusExtras,
+- Add Dolby audio,
+- Add Oneplus Camera,
+- Upgrade gpu blobs to v0530.47,
+- Safetynet pass by default,
+- Both Vannila and Gapps Variant available,
+- Enforcing build.
+=============================
+Issues : 
+- AutoBrightness is brocken.
+=============================
