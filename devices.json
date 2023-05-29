@@ -299,5 +299,26 @@
 				"download": "null"
 			}
 		}
+	},
+	{
+                "brand": "Oneplus",
+                "devices": {
+                        "0": {
+                                "name": "Oneplus 8T",
+                                "codename": "kebab",
+                                "maintainer": "Dawfuk",
+                                "xda": "",
+                                "telegram": "https://t.me/Dawfuk",
+                                "download": "null"
+                        },
+			"1": {
+                                "name": "Oneplus 9R",
+                                "codename": "lemonades",
+                                "maintainer": "Dawfuk",
+                                "xda": "",
+                                "telegram": "https://t.me/Dawfuk",
+                                "download": "null"
+                        }
+		}
 	}
 ]
