@@ -131,9 +131,16 @@
                 "github": "https://github.com/akmacc",
                 "avatar": "https://github.com/akmacc.png"
         },
+	{
 	        "name": "Vansh Chaudhary",
                 "telegram": "https://t.me/AllForrOne",
                 "github": "https://github.com/Vansh-Prjkts",
                 "avatar": "https://github.com/Vansh-Prjkts.png"
+        },
+	{
+                "name": "DawfukFR",
+                "telegram": "https://t.me/Dawfuk",
+                "github": "https://github.com/DawfukFR",
+                "avatar": "https://github.com/DawfukFR.png"
         }
 ]
