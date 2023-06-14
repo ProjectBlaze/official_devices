@@ -1,3 +1,14 @@
+Changelog - 2.7
+Build Date - 11th June, 2023
+- Removed MIUI Camera for now
+- Misc changes
+NOTE: 
+Clean Flash Recommended because MIUI Camera is removed.
+GAPPS variant only present this time.
+CREDITS-
+Thanks Aryan, Vantom, Arian, Zaid for the device sources.
+Thanks @virtualord for testing the ROM.
+
 Changelog - 2.6
 Build Date - 15th March, 2023
 - Added MIUI Camera
