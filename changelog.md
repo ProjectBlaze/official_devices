@@ -1,3 +1,10 @@
+# Changelogs 2.8 
+- Source rebased on QPR3
+- July security patch merged 
+- Introduced ParallelSpace 
+- Re-added Game props 
+- Fixed issue of low resolution photos on miui and leica cam
+
 # Changelogs 2.7
 - Full source rebase on QPR2
 - Merged May Security patch
