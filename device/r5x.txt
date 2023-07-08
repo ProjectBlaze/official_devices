@@ -1,3 +1,12 @@
+Changelogs v2.8
+Build Date: 08/07/2023
+
+- Initial A13 Build 
+- Using Thunderbolt Kernel
+- V4A sound optmimizer Included
+- Only Nik Gapps core for vannila version and any addons of your choice
+- Use c.83 FW
+
 Changelogs v1.5 ~ EOL
 Build Date: 18/08/2022
 
