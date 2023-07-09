@@ -1,4 +1,4 @@
-Changelog - 2.7
+Changelog - 2.8
 Build Date - 9th July, 2023
 -Removed Build FP
 -Restore pre a13 battery warning threshold
