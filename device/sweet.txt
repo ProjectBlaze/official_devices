@@ -1,4 +1,25 @@
 Changelog - 2.7
+Build Date - 9th July, 2023
+-Removed Build FP
+-Restore pre a13 battery warning threshold
+-Enable AOSP surfaceflinger
+-Reduce the Maximum vertical offset of statusbar for burn-in protection
+-Drop per app refresh rate profiles
+-Build Xiaomi sensors impl
+-Set default wifi country code to '00'
+-Pin Google's SystemUI instead of AOSP's
+-Enable usage of dex2oat64 & optimized dex flags
+-Disable VSync for CPU rendered apps
+-Added Leica Cam version Mod_GLNRALR_4.7.230127
+-Added Miui Gallery 3.5.2.5 verison &  Miui Gallery Editor 1.3.1.10.3 version
+-Fixed 1.6mp photos issues [64/108mp works perfectly]
+
+NOTES: [READ IT CAREFULLY!!]
+-Clean flash recommended if you are coming from last build
+-Both Gapps and vanilla available 
+-shipped with sleepy kernel, KSU supported
+
+Changelog - 2.7
 Build Date - 11th June, 2023
 - Removed MIUI Camera for now
 - Misc changes
