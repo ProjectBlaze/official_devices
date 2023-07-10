@@ -1,9 +1,13 @@
-# Changelogs 2.8 
+# Changelogs 2.8 & HOTFIX
 - Source rebased on QPR3
 - July security patch merged 
 - Introduced ParallelSpace 
 - Re-added Game props 
 - Fixed issue of low resolution photos on miui and leica cam
+- Fixed critical bug of internal storage not showing
+- Fixed issue of Google Photos spoof not working 
+- Fixed issue of Games Spoof not working
+- Added workaround for wake & unlock for side fps devices
 
 # Changelogs 2.7
 - Full source rebase on QPR2
