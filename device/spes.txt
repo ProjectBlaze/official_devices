@@ -1,3 +1,20 @@
+Changelogs v2.8
+Build Date: 10/07/2023
+
+- Set preferred refresh rate on keyguard to 60
+- Use 60HZ refresh rate on Ambient display
+- Use default color composition space
+- Removed no longer needed aptX blobs
+- Disabled ART debug and optimize dexpreopt
+- Use default color composition space
+- Set default color mode to saturated
+- Added display fps deferral
+- Build lineage health HAL
+
+CREDITS -
+Thanks @jabiyeff21 & @dblenk9 for device tree and vendor tree
+Thanks @ashok_1982 for testing
+
 ProjectBlaze 2.7
 Build Date: 11/05/2023
 
