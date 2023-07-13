@@ -1,3 +1,11 @@
+ProjectBlaze 2.8
+Build Date: 13/07/2023
+
+- Addressed Sepolicy denials
+- Enabled perf hint window
+- Enabled config avoidGfxAccel 
+- Removed non-existent properties
+
 ProjectBlaze 2.7
 Build Date: 15/05/2023
 
