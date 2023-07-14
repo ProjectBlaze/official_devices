@@ -154,5 +154,11 @@
                 "telegram": "https://t.me/Noviceyash",
                 "github": "https://github.com/noviceyash",
                 "avatar": "https://github.com/noviceyash.png"
+        },
+	{
+                "name": "YuvrajMehta",
+                "telegram": "https://t.me/YuvrajMehta",
+                "github": "https://github.com/YuvrajMehta",
+                "avatar": "https://github.com/YuvrajMehta.png"
         }
 ]
