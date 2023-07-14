@@ -1,3 +1,16 @@
+Changelog - 2.8-HOTFIX
+Build Date - 14th July, 2023
+-Fixed storage sepolicy denial
+-Sepolicy: Label elliptic ultrasound property
+-Sepolicy: Label elliptic ultrasound property
+-Audio: fix incall mic with headphones
+-Add wakelock to citsensor service group
+Notes*-
+-Dirty flash is possible if you are coming from previous build,but try to do clean flash as for smooth and bugless experience
+-Sleepy kernel by default,KSU supported
+-Vanilla+Gapps there
+-Leica & MIUIGallery added
+-gphoto spoof is there
 Changelog - 2.8
 Build Date - 9th July, 2023
 -Removed Build FP
