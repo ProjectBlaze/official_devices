@@ -11,6 +11,8 @@ Notes*-
 -Vanilla+Gapps there
 -Leica & MIUIGallery added
 -gphoto spoof is there
+
+
 Changelog - 2.8
 Build Date - 9th July, 2023
 -Removed Build FP
@@ -32,6 +34,7 @@ NOTES: [READ IT CAREFULLY!!]
 -Both Gapps and vanilla available 
 -shipped with sleepy kernel, KSU supported
 
+
 Changelog - 2.7
 Build Date - 11th June, 2023
 - Removed MIUI Camera for now
@@ -43,6 +46,7 @@ CREDITS-
 Thanks Aryan, Vantom, Arian, Zaid for the device sources.
 Thanks @virtualord for testing the ROM.
 
+
 Changelog - 2.6
 Build Date - 15th March, 2023
 - Added MIUI Camera
@@ -51,6 +55,7 @@ Build Date - 15th March, 2023
 CREDITS-
 Thanks Aryan, Vantom, Arian, Zaid for the device sources.
 Thanks @JYR_RC, @Anmol1710 @ItzBongBoy for testing the ROM.
+
 
 Changelog - 2.5-HOTFIX
 Build Date - 12th February, 2023
@@ -61,6 +66,7 @@ Build Date - 12th February, 2023
 CREDITS-
 Thanks @JYR_RC for the GAPPS package fix and testing the build.
 Thanks @VecnaGhost for testing QS panel fix.
+
 
 Changelog - 2.5
 Build Date - 7th February, 2023
