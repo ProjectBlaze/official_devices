@@ -320,5 +320,18 @@
                                 "download": "null"
                         }
 		}
-	}
+	},
+	{
+                "brand": "Xiaomi",
+                "devices": {
+                        "0": {
+                                "name": "Xiaomi 11X Pro",
+                                "codename": "haydn",
+                                "maintainer": "@YuvrajMehta",
+                                "xda": "null",
+                                "telegram": "https://t.me/YuvrajMehta",
+                                "download": "null"
+                        }
+                }
+        }
 ]
