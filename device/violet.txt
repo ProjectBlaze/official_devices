@@ -1,3 +1,14 @@
+ProjectBlaze 2.8
+Build Date: 15/07/2023
+
+Changelog:
+- ProjectBlaze 2.8 based on QPR 3 / July 2023 Security patch
+- Rom Encrypted by default
+- Recommended Recovery: https://t.me/RedmiNote7ProChannel/2100
+- DFEv4: https://t.me/RedmiNote7ProChannel/2086
+- MIUI Camera Included
+- Updated Kernel
+
 ProjectBlaze 2.5
 Build Date: 11/02/2023
 
