@@ -1,1 +1,16 @@
-
+Changelog - 2.8-HOTFIX
+Build Date - 15th July, 2023
+-Initial Release
+-Upstream kernel to 5.4.242
+-Sepolicy: fix ims denials
+-Enable CLO's Framework Boost
+-Update graphics stack to LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+-Build AOSP version of android.hardware.thermal@2.0
+Notes [READ IT VERY CAREFULLY!!]
+-Clean flash as for smooth and bugless experience
+-Vanilla+Gapps there
+-Leica & MIUIGallery added
+-Mi Sound and Mi Dolby added
+-gphoto spoof is there
+-Use latest TWRP
+-Use latest firmware of your region 
