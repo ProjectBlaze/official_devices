@@ -1,3 +1,13 @@
+Changelogs 2.8
+Build Date: 13/07/2023
+- Added Missing Cam Blobs
+
+Note: If you are facing issue of gms actively taking location turn off location when not in use, this saves battery backup
+
+Credits: Thanks to @Dhina_17 @bibarub @afterallafk for the device tree.
+         Thanks @mrun1corn for gcam fix
+         Thanks @Ayontech2 for testing and logs.
+
 Changelogs 2.1
 Build Date: 12/11/2022
 - Added missing HALS to manifest & compatibility matrix.
