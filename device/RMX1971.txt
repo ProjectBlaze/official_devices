@@ -1,30 +1,41 @@
-ProjectBlaze 2.7
-Build Date: 09/05/2023
+ProjectBlaze 2.8
+Build Date: 15/07/2023
 
-- Introduced battery-friendly-pocketmode
-
-- Enabled vibration on icon animation
-
-- Removed aptX(HD) encoder shared libraries
-
-- Redefined a2dp offload capabilities
-
-- Adjusted doze brightness values
-
-- Adjusting of screen brightness while dozing in low power state
-
-- Set lz4 as the default for ZRAM compression
-
-- Nuked GoogleTagManager logs
-
-- Imported more surface flinger flags (Improvement in smoothness)
-
+- Based on July Security Patch
+- Fixed flickering issues completely 
+- Enabled apk fs-verity (avoids root detection by some apps)
+- Enabled LTE_CA workaround
+- Removed useless mkdir commands
+- Clean up useless log spams
+- Disable window rounded corner animations
+- Nuke all packages from Disabled Components
+- Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
+- Update system blobs from LA.QSSI.13.0.r1-10000.02-qssi.0
 - Miscellaneous other changes to make rom smoother and better
 
 CREDITS:-
 
 - Thanks @kssrao13882 for the Trees
+- Thanks @yashtyagiji & @SJ69SUJIT for Testing
+- Thanks @im_aarav67 for Server
 
+ProjectBlaze 2.7
+Build Date: 09/05/2023
+
+- Introduced battery-friendly-pocketmode
+- Enabled vibration on icon animation
+- Removed aptX(HD) encoder shared libraries
+- Redefined a2dp offload capabilities
+- Adjusted doze brightness values
+- Adjusting of screen brightness while dozing in low power state
+- Set lz4 as the default for ZRAM compression
+- Nuked GoogleTagManager logs
+- Imported more surface flinger flags (Improvement in smoothness)
+- Miscellaneous other changes to make rom smoother and better
+
+CREDITS:-
+
+- Thanks @kssrao13882 for the Trees
 - Thanks @yashtyagiji for Testing
 
 
@@ -32,29 +43,17 @@ ProjectBlaze 2.6
 Build Date: 18/03/2023
 
 - Moto Dolby integration for improved audio experience
-
 - Suspend to RAM enabled to reduce idle power consumption
-
 - Seamless Doze state transitions allowed for improved battery life
-
 - Gestureflingboost enabled for improved touchscreen responsiveness
-
 - lmkd kill timeout value set to 50 to avoid lengthy process termination waiting times
-
 - RAM management improvements implemented
-
 - Switched to lmkd to use minfree levels for kill decisions, improving performance and stability
-
 - Night Light and Extra Dark features enabled
-
 - DPM, IMS, and RIL system blobs updated to a new version
-
 - Missing system service added to fix carrier video calling issues
-
 - CarrierConfig updated to a newer version
-
 - SF composition prediction model disabled for improved performance and stability
-
 - Other miscellaneous changes to improve ROM performance and stability.
 
 
