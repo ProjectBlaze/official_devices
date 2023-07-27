@@ -1,6 +1,11 @@
 Changelog
 
-ProjectBlaze 2.7 Chabgelog
+ProjectBlaze 2.8 Changelog 
+Build Date: 27/07/2023
+
+- No Changes
+
+ProjectBlaze 2.7 Changelog 
 Build Date: 15/05/2023
 
 - ProjectBlaze 2.7 based on May 2023 Security patch
