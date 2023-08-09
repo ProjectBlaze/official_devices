@@ -1,3 +1,24 @@
+# Changelogs 2.9
+- Merged august security patch
+- Added back Android 11 QS Style
+- Added back QS tile shapes customisations
+- Added monet customisations
+- Added support for smart pixels
+- Added 9 more  and ios battery style
+- Added custom frame rate recorder
+- Added power/reboot menu opacity
+- Added back settings dashboard lottie animation
+- Introduced data switch qs, network preference qs
+- AppLock: Fix hidden apps reset after reboot 
+- Redesigned and improved volume panel
+- Fixed a button crash on volume panel which leads to SystemUI restart 
+- Added bluetooth and wifi timeout feature
+- Updated screenshot sound from nothing ui
+- Added  feature for smart 5g
+- Rebased source vendor
+- Fixed some devices not booting issue like Alioth
+- Rebased source build repos
+
 # Changelogs 2.8 & HOTFIX
 - Source rebased on QPR3
 - July security patch merged 
