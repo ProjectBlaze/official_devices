@@ -1,0 +1,36 @@
+=============================
+Changelog - v2.9
+Build Date - 11th August, 2023
+=============================
+surya: switch to lineage display HAL
+surya: switch to azure clang 15
+surya: Import 32 bit CamX libraries 
+surya: Add missing/required camera blobs
+surya: Build missing omx libs
+surya: audio: Update audio_io_policy for VoIP 
+surya: audio: Offload 24 bits playback supports mp3/aac format
+surya: audio: Add hotword input for hotword mic concurrency
+surya: audio: Extend buffer size to 256kb for offload playback
+surya: add hotword enrollment blobs from vayu
+surya: configs: wifi: Add another interface while driver load
+surya: Force device to treat 170M as sRGB in SF
+surya: configs: Add APN configs
+surya: Increase zram size and swappiness
+surya: props: Enable config_avoidGfxAccel
+surya: properties: Update app/sf durations from MIUI
+surya: power: Change default GPU idle timeout to 60ms
+surya: power: Decrease launch boost to 3sec
+surya: props : Optimize package manager dexopt
+surya: Switch to jemalloc for libc 
+surya: Use jemalloc to fix camera
+surya: Allow GCam to access AUX IDs
+surya: Compile HWUI for performance
+surya: Adjust thread count and cpuset after setup wizard
+surya: props : add battery optimization flags
+surya: power: Import powerhint from Pixel 4A 
+surya: power: Remove Google-specific camera hints
+surya: props: Enable ro.hwui.render_ahead
+surya: prop: Enable apk fs-verity
+surya: Define AAPT configuration
+surya: overlay: Define OEM fast charge sysfs node
+surya: sepolicy: Address content_capture_service denial
