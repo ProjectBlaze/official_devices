@@ -174,9 +174,15 @@
                 "avatar": "https://github.com/Burhanverse.png"
         },
 	{
-                "name": "Omkar Parte ",
+                "name": "Omkar Parte",
                 "telegram": "https://t.me/UNLOK_18",
                 "github": "https://github.com/RAM-UNLOK",
                 "avatar": "https://github.com/RAM-UNLOK.png"
+        },
+	{
+                "name": "Muichiro09",
+                "telegram": "https://t.me/Muichir09",
+                "github": "https://github.com/Muichiro09",
+                "avatar": "https://github.com/Muichiro09.png"
         }
 ]
