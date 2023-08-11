@@ -1,0 +1,20 @@
+Changelog For ProjectBlaze v2.9
+Device : Realme GT Neo 2 5G 
+Codename : Bitra
+Build Type : Vanilla and Gapps (core)
+Maintainer : Omkar Parte ( @UNLOK_18 )
+
+===============================
+           11-08-2023
+===============================
+
+
+# Fixed Firmware issue (F.08 Recommended)
+# Fixed Screen off FP not working 
+# Updated Proprietary Blobs to RMX3370_11.F.07
+# Updated Bluetooth Audio (2.1) Supports BT LE 
+# Added Exfat FS Support for OTG (Default Kernel Required to work)
+# Added custom thermal-engine config
+
+
+
