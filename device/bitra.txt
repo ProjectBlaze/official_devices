@@ -16,5 +16,7 @@ Maintainer : Omkar Parte ( @UNLOK_18 )
 # Added Exfat FS Support for OTG (Default Kernel Required to work)
 # Added custom thermal-engine config
 
-
+Additional Update ( 12-08-2023 )
+# Added Custom thermal-engine config
+# Kernel Compilation with FULL LLVM Enabled
 
