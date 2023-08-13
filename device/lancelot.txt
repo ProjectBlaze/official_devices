@@ -1,3 +1,11 @@
+=============================  
+ Changelog - v2.9 
+ ============================= 
+ - Misc improvements  
+ - Some trees fixup  
+ - Enhance Overall Smoothness & Stability  
+ ========================================================== 
+
 Changelog - 2.8 
 Build Date - 27th July, 2023
 Initial official release
