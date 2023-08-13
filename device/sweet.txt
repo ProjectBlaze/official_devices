@@ -1,3 +1,38 @@
+Changelog - 2.9
+Build Date - 13th August, 2023
+- Increase mic volume values
+- Set the maximum music group volume to 15
+- Remove unneeded NFC packages
+- Override doze mode support
+- Add Notch Bar Killer overlay
+- Add display fps deferral
+- Fix ultrasound sensor
+-  Set statusbar top padding to 0 for landscape
+- Limit AOD & Ambient Display refresh rate to 60Hz
+- Disable proximity usage during doze
+- allow lower Minimum Brightness
+- [SQUASH] Drop DeviceSettings and imported common parts
+- add support for Mi Dolby
+- audio: Remove raw flag for audio pop
+- overlays: Configure default light sensor type
+- enable night light and extra dim
+- rootdir: Hide Magisk Better
+- Adress isolated_app denial
+- fixed some denials that were spamming in logs
+- overlay: Enable Smart Pixels
+- Implement dc dimming && HBM 
+- Configuration for spatial audio
+- Update spatial audio  from cheetah-tq3a.23060
+
+Notes [READ IT VERY CAREFULLY!!]
+-Dirty flash is possible if you are coming from previous build,but try to do clean flash as for smooth and bugless experience
+-Sleepy kernel by default
+-Vanilla+Gapps there
+-Leica & MIUIGallery added
+-gphoto spoof is there
+-Use ofox 12.1_3 BETA recovery or TWRP latest
+-Use latest firmware of your region
+-Added MIUI DOLBY
 Changelog - 2.8-HOTFIX
 Build Date - 14th July, 2023
 -Fixed storage sepolicy denial
