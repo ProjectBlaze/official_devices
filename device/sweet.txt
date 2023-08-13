@@ -33,6 +33,8 @@ Notes [READ IT VERY CAREFULLY!!]
 -Use ofox 12.1_3 BETA recovery or TWRP latest
 -Use latest firmware of your region
 -Added MIUI DOLBY
+
+
 Changelog - 2.8-HOTFIX
 Build Date - 14th July, 2023
 -Fixed storage sepolicy denial
