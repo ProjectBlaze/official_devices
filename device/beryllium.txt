@@ -1,3 +1,10 @@
+ProjectBlaze 2.9
+Build Date: 14/08/2023
+
+- Enable Multi-Gen LRU
+- Refined early SF phase offsets
+- fix value for ro.hwui.render_ahead and sf EGL image tracking
+
 ProjectBlaze 2.8
 Build Date: 13/07/2023
 
