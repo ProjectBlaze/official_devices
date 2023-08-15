@@ -12,6 +12,7 @@ Notes [READ IT VERY CAREFULLY!!]
 - Both Vanilla and GAPPS build available
 - Includes Leica cam and Miui Gallery
 - Includes Mi Sound and Mi Dolby
+- KernelSU supported
 - Use latest Miui firmware of your region
 
 
