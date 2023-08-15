@@ -1,5 +1,5 @@
 Changelogs v2.9
-Build Date: 12/08/2023
+Build Date: 15/08/2023
 
 - Set vulkan as hwui renderer
 - Set screen-off schedutil ratelimits
@@ -10,7 +10,7 @@ Build Date: 12/08/2023
 
 CREDITS -
 Thanks @jabiyeff21 & @dblenk9 for device tree and vendor tree
-Thanks @ded_as_fk & @Jasonnub for testing
+Thanks @ded_as_fk & @Jasonnub & @imAnmusics for testing
 
 Changelogs v2.8
 Build Date: 10/07/2023
