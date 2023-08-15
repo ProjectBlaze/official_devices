@@ -178,5 +178,11 @@
                 "telegram": "https://t.me/Muichir09",
                 "github": "https://github.com/Muichiro09",
                 "avatar": "https://github.com/Muichiro09.png"
+        },
+	{
+                "name": "fakedotkit",
+                "telegram": "https://t.me/fakedotkit",
+                "github": "https://github.com/Tiktodz",
+                "avatar": "https://github.com/Tiktodz.png"
         }
 ]
