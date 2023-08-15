@@ -1,3 +1,20 @@
+Changelog - 2.9
+Build Date - 15th August, 2023
+- Update blobs to Miui 14.0.6.0
+- Fixup audio io policy voip_rx flags 
+- Dolby: fixup media codecs support
+- Enable Qualcomm TrueWireless™ Stereo
+- Uprev audio HAL to 7.0
+- Update Audio HIDL to 7.1
+- Use QCOM implementation for audio effects
+
+Notes [READ IT VERY CAREFULLY!!]
+- Both Vanilla and GAPPS build available
+- Includes Leica cam and Miui Gallery
+- Includes Mi Sound and Mi Dolby
+- Use latest Miui firmware of your region
+
+
 Changelog - 2.8-HOTFIX
 Build Date - 15th July, 2023
 -Initial Release
