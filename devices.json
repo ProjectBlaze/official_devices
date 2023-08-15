@@ -333,5 +333,18 @@
                                 "download": "null"
                         }
                 }
+        },
+	{
+                "brand": "Asus",
+                "devices": {
+                        "0": {
+                                "name": "Asus Zenfone Max Pro M1",
+                                "codename": "X00TD",
+                                "maintainer": "@fakedotkit",
+                                "xda": "null",
+                                "telegram": "https://t.me/fakedotkit",
+                                "download": "null"
+                        }
+                }
         }
 ]
