@@ -1,0 +1,16 @@
+v2.9 - Date: 16 Aug 2023
+Changelogs:
+- Initial Official build
+- Improve smoother scrolling and better responsiveness
+- Set voice call volume steps to 7
+- Increase Media volume from 15 to 25 steps
+- More changes and Improvements.
+
+Credits:
+- @Romeo_Delta_Whiskey
+- @Gichodroxyl
+
+Notes:
+- Non-FBE, LV and 4.4 based
+- Both Vanilla and GAPPS build available
+- Use firmware 063/087 recommended.
