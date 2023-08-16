@@ -208,5 +208,11 @@
                 "telegram": "https://t.me/fakedotkit",
                 "github": "https://github.com/Tiktodz",
                 "avatar": "https://github.com/Tiktodz.png"
+        },
+	{
+                "name": "HebrewX",
+                "telegram": "https://t.me/HebrewX",
+                "github": "https://github.com/HebrewX",
+                "avatar": "https://github.com/HebrewX.png"
         }
 ]
