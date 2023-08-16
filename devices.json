@@ -286,6 +286,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/YuvrajMehta",
                                 "download": "null"
+                        },
+			"1": {
+                                "name": "Xiaomi 11 Lite NE 5G",
+                                "codename": "lisa",
+                                "maintainer": "@HebrewX",
+                                "xda": "null",
+                                "telegram": "https://t.me/HebrewX",
+                                "download": "null"
                         }
                 }
         },
