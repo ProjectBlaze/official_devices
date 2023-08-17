@@ -1,3 +1,25 @@
+Changelogs 2.9
+Build Date: 17/08/2023
+
+- Update blobs from RMX2085_11_F.04
+- Use speed tuning for performance critical
+- Import telephony_injection from CAF
+- Disable per-cgroup PSI accounting
+- Build with KProfiles
+- Enable R8 optimizations for SystemUI & system_server
+- Kang EAS configuration from sunfish
+- Avoid migrating foreground tasks to prime
+- Build default Health 2.1 HAL
+- bump kernel clang to r498229 (17.0.3)
+- Address oplus fingerprint hwservices denial
+- Import kerkelSU 0.6.6
+- Backport TEO governor
+
+Notes :-
+- Based on RUI 2.0 (C08)
+- CTS passed by default
+- Decrypted by default
+
 Changelogs 2.1
 Build Date: 16/11/2022
 
