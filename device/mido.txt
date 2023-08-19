@@ -1,5 +1,10 @@
 Changelog
 
+ProjectBlaze 2.9 Changelog 
+Build Date: 19/08/2023
+
+- No Changes
+
 ProjectBlaze 2.8 Changelog 
 Build Date: 27/07/2023
 
