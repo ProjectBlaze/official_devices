@@ -1,3 +1,19 @@
+ProjectBlaze 2.9
+Build Date: 19/08/2023
+
+- Based on August Security Patch
+- Dolby: Update dax-default profiles
+- Decouplep interactive state from display (Maximises power saving)
+- Disable continuous transaction tracing on all build types
+- Enable VoLTE and VoWIFI for all
+- Enable VoLTE support for Telkomsel, Indosat and XLAxiata, Three, Globe, Smart, Dito, Banglalink, GrameenPhone, Aritel, Robi, Teletalk and Citycell
+
+CREDITS:-
+
+- Thanks @kssrao13882 for the Trees
+- Thanks @yashtyagiji for Testing
+- Thanks @yaroslavdanilik for Server
+
 ProjectBlaze 2.8
 Build Date: 15/07/2023
 
