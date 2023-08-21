@@ -214,5 +214,11 @@
                 "telegram": "https://t.me/HebrewX",
                 "github": "https://github.com/HebrewX",
                 "avatar": "https://github.com/HebrewX.png"
+        },
+	{
+                "name": "twinchin96",
+                "telegram": "https://t.me/twinchin96",
+                "github": "https://github.com/twinchin12",
+                "avatar": "https://github.com/twinchin12.png"
         }
 ]
