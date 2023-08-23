@@ -1,0 +1,10 @@
+ProjectBlaze 2.9
+Build Date: 22/08/2023
+
+Changelog:
+- ProjectBlaze 2.9 based on QPR 3 / August 2023 Security patch
+- We are now Official
+- Added Dolby atmos (All works)
+- Updated Blaze Launcher to Latest
+- Added KSU Support 
+- Optimized 60hz over Ui
