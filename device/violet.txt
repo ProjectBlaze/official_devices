@@ -1,3 +1,14 @@
+ProjectBlaze 2.9
+Build Date: 23/08/2023
+
+Changelog:
+- ProjectBlaze 2.9 based on QPR 3 / August 2023 Security patch
+- Rom Encrypted by default
+- Recommended Recovery: https://t.me/RedmiNote7ProChannel/2100
+- DFEv4: https://t.me/RedmiNote7ProChannel/2086
+- Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
+- Some audio fixes
+
 ProjectBlaze 2.8
 Build Date: 15/07/2023
 
