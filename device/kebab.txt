@@ -1,4 +1,19 @@
 =============================
+Changelog - v2.9
+Build Date - 26th August, 2023
+=============================
+
+Required Firmware: F.67 or above
+
+- Initial Official build
+- OOS cam and Dolby included 
+- Meteoric kernel prebuilt
+
+Bugs:
+- 5G might be broken for some
+- Might require metadata change for stock recovery to work
+
+=============================
 Changelog - v2.7
 Build Date - 30th May, 2023
 =============================
