@@ -323,6 +323,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/fakedotkit",
                                 "download": "null"
+                        },
+			"1": {
+                                "name": "Asus Zenfone Max Pro M2",
+                                "codename": "X01BD",
+                                "maintainer": "@khirendra",
+                                "xda": "null",
+                                "telegram": "https://t.me/khirendra",
+                                "download": "null"
                         }
                 }
         }
