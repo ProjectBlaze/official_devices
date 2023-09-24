@@ -1,3 +1,28 @@
+# Changelogs 2.10-DAWN
+- Merged september security patch
+- Rebased all hals and components from LineageOS
+- Added our own wallpaper stub & exclusive Blaze wallpapers
+- [BUGFIX] Fixed an issue where systemUI reboots after clicking devices icon while connected with Bluetooth
+- Added back 90FPS option in BGMI
+- Added option for Android P system animation
+- Added Lockscreen fonts support
+- Added toggle for QS [ Android 13 & Android 11 QS switch & vice-versa]
+- Added QS customizations 
+- Added animation for QS tiles
+- Added options for resizeable QS header space
+- Added option to always show the time in media player 
+- Fixed some logspams
+- Fixed some random A.S.I crash
+- Implemented Power Menu blur & sub-menus blur
+- Added Light themes QS and power menu
+- Imported IOS 16 lockscreen clocks
+- Added face illustration settings
+- Added lottie animations in settings
+- [BUGFIX] Fix total ram calculation for some devices
+- Import illustrations from motorola
+- Launcher3: Disable wallpaper zoom and scroll by default
+- [BUGFIX] Fixed an issue where launcher crashes while clicking to meminfoview
+
 # Changelogs 2.9
 - Merged august security patch
 - Added back Android 11 QS Style
