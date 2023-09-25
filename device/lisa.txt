@@ -1,3 +1,17 @@
+ProjectBlaze 2.10-DAWN
+Buildate 26/09/2023
+
+Changelog:
+- Merged September Security patch
+- Updated Dolby configs (All works)
+- Added Secure nfc
+- Updated miui cam to 4.5.002960.0
+- Added gfx acceleration
+- Switched to aosp 💬,📞,☎️
+- Fixed Smart pixels 
+- Fixed 90fps in BGMI
+- Improved ram management
+
 ProjectBlaze 2.9
 Build Date: 22/08/2023
 
