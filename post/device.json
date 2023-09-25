@@ -328,8 +328,17 @@
         "DeviceName" : "Asus Zenfone Max Pro M2",
         "UserName" : "khirendra",
         "Screenshots" : "https://t.me/projectblaze/48585",
-        "Support Group" : "https://t.me/khirendra",
+        "Support Group" : "https://t.me/playground_zero",
         "DeviceChangelogs" : "www.projectblaze.live",
         "Pling" : "https://www.pling.com/p/1763194/"
+    },
+    {
+        "CodeName" : "redwood",
+        "DeviceName" : "Poco X5 Pro 5G",
+        "UserName" : "thepriyanshujangid",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/poco_x5_pro_roms",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/2089671/"
     }
 ]
