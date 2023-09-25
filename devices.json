@@ -278,13 +278,22 @@
 				"download": "https://www.pling.com/p/1799248/"
 			},
 			"6": {
-                                "name": "Poco F1",
-                                "codename": "beryllium",
-                                "maintainer": "Excraze",
-                                "xda": "",
-                                "telegram": "https://t.me/Excraze",
-                                "download": "https://www.pling.com/p/1984177/"
-                        }
+                "name": "Poco F1",
+                "codename": "beryllium",
+                "maintainer": "Excraze",
+                "xda": "",
+                "telegram": "https://t.me/Excraze",
+                "download": "https://www.pling.com/p/1984177/"
+            },
+			"7": {
+                "name": "Poco X5 Pro",
+                "codename": "redwood",
+                "maintainer": "thepriyanshujangid",
+                "xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
+                "telegram": "https://t.me/thepriyanshujangid",
+                "download": "https://www.pling.com/p/2089671/"
+            }
+			
 		}
 	},
 	{
