@@ -13,6 +13,8 @@ Required Firmware: F.67 or above
 - fix animation on aod
 - switched zram from 4gb to 2gb 
 
+Bugs: Charging info doesn't stay on lockscreen
+
 ==================================
 Changelog - v2.9
 Build Date - 26th August, 2023
