@@ -1,0 +1,9 @@
+==================================
+Changelog - v2.10-DAWN
+Build Date - 26th September, 2023
+==================================
+
+- Initial Official build
+- oneplus dolby  included
+- Firmware V14.0.4.0.TMSMIXM  included
+- KSU supported
