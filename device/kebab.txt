@@ -1,7 +1,22 @@
-=============================
+==================================
+Changelog - v2.10-DAWN
+Build Date - 26th September, 2023
+==================================
+
+Required Firmware: F.67 or above
+
+- better ram management
+- idle drain improvements
+- kill logspam
+- disable skia tracing by default as we don't have atrace enabled anyways 
+- fixed Google photos bug (hopefully)
+- fix animation on aod
+- switched zram from 4gb to 2gb 
+
+==================================
 Changelog - v2.9
 Build Date - 26th August, 2023
-=============================
+==================================
 
 Required Firmware: F.67 or above
 
