@@ -1,3 +1,17 @@
+Changelogs v2.10
+Build Date: 27/09/2023
+
+- Moved To OSS Kernel
+- Twrp Ramdisk Issue Fixed
+- Fast Charging Issue Fixed
+- Added /boot and /recovery mountpoint
+- Updated DT2W node & Sepolicy
+
+CREDITS -
+• @jabiyeff21 & @dblenk9 For Trees
+• @AkiraNoSushi & @muralivijay9845 For Kernel 
+• Thanks @Cstmizd890 For Testing
+
 Changelogs v2.9
 Build Date: 15/08/2023
 
