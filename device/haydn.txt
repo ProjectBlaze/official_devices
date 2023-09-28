@@ -1,3 +1,17 @@
+Changelog - 2.10(Hotfix)
+Build Date - 28th September, 2023
+- September Security Patch
+- Updated KernelSU
+- Update Leica Cam.
+- Fixup Dolby 
+
+Notes[READ IT CAREFULLY!!!]
+- GAPPS build only
+- Includes Leica cam and Miui Gallery
+- Includes Mi Sound and Mi Dolby
+- KernelSU supported
+- Use latest firmware of your region
+
 Changelog - 2.10
 Build Date - 27th September, 2023
 - September Security Patch
