@@ -7,6 +7,8 @@ Build Date: 27/09/2023
 - Added /boot and /recovery mountpoint
 - Updated DT2W node & Sepolicy
 
+* Bugs: Charging info doesn't stay on lockscreen
+
 CREDITS -
 • @jabiyeff21 & @dblenk9 For Trees
 • @AkiraNoSushi & @muralivijay9845 For Kernel 
