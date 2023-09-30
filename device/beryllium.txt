@@ -1,3 +1,15 @@
+ProjectBlaze 2.10
+Build Date: 29/09/2023
+
+- set NUM_FRAMEBUFFER_SURFACE_BUFFERS
+- hide Magisk in banking apps
+- Allow more cached apps in the background
+- overlays: Improve pinner configuration
+- Enable R8 optimizations for SystemUI & system_server 
+- Set swappiness to 60
+- Update some of the icons
+- overlays: Enable CLO boost framework 
+
 ProjectBlaze 2.9
 Build Date: 14/08/2023
 
