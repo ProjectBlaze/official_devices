@@ -2,6 +2,7 @@
 Changelog - v2.10
 Build Date - 2nd October, 2023
 =============================
+surya : update blobs to 14.0.2 global fw
 surya : fix some logspams
 surya : add perf related configs
 =============================
