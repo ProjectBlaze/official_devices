@@ -1,4 +1,10 @@
 =============================
+Changelog - v2.10
+Build Date - 2nd October, 2023
+=============================
+surya : fix some logspams
+surya : add perf related configs
+=============================
 Changelog - v2.9
 Build Date - 11th August, 2023
 =============================
