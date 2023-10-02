@@ -1,3 +1,18 @@
+ProjectBlaze 2.10
+Build Date: 30/09/2023
+
+- Based on September Security Patch
+- Enabled Optimized Power Management
+- Remove obsolete gFixedRate
+- Remove obsolete gEnableBypass11d config
+- Remove obsolete SapSccChanAvoidance config
+- Disabled surface flinger prime shader cache (removes the cache and saves memory in the surface flinger process)
+
+CREDITS:-
+
+- Thanks @kssrao13882 for the Trees
+- Thanks @yashtyagiji for Testing
+
 ProjectBlaze 2.9
 Build Date: 19/08/2023
 
