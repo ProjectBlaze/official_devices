@@ -1,3 +1,17 @@
+Changelogs 2.10
+Build Date: 03/10/2023
+- Update kernelSU - 0.6.8
+- Addressed brightness dim when fp enrolled
+- welcome back anubis
+- switch to BBR TCP
+- bump kernel clang to r498229b (17.0.4)
+- misc change for device improvement 
+
+Notes :-
+- Based on RUI 2.0 (you can flash with RUI 3 but fp will dead)
+- CTS passed by default
+- Decrypted by default
+
 Changelogs 2.9
 Build Date: 17/08/2023
 
