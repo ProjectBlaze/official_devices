@@ -1,3 +1,14 @@
+Changelogs 2.10
+Build Date: 27/09/2023
+- Disable intrusive gms components
+- Enable various TCPs
+- Set bbr as default TCP
+- Enable bridge netfilter
+
+Credits: Thanks to @Dhina_17 @bibarub @afterallafk for the device tree.
+         Thanks @mrun1corn for kernel.
+         Thanks @Ayontech2 for testing.
+
 Changelogs 2.8
 Build Date: 13/07/2023
 - Added Missing Cam Blobs
