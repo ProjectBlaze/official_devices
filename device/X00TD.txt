@@ -1,3 +1,17 @@
+v2.10 DAWN - Date 03 Oct 2023
+Changelogs:
+- Set default value night display color temperature
+- Add props to Silence log spam
+- Drop perftunning properties
+- update dalvik.vm values
+- Allow more cached apps in the background
+- Set default vibration intensity level to high
+
+Notes:
+- Non-FBE, LV and 4.4 kernel based
+- Both Vanilla and GAPPS build available
+- Use firmware 063/087 recommended.
+
 v2.9 - Date: 16 Aug 2023
 Changelogs:
 - Initial Official build
