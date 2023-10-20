@@ -208,5 +208,17 @@
                 "telegram": "https://t.me/thepriyanshujangid",
                 "github": "https://github.com/thepriyanshujangid",
                 "avatar": "https://github.com/thepriyanshujangid.png"
+        },
+	{
+                "name": "itsXRP",
+                "telegram": "https://t.me/itsXRP",
+                "github": "https://github.com/itsXRP",
+                "avatar": "https://github.com/itsXRP.png"
+        },
+	{
+                "name": "0mar99",
+                "telegram": "https://t.me/Omar99A",
+                "github": "https://github.com/0mar99",
+                "avatar": "https://github.com/0mar99.png"
         }
 ]
