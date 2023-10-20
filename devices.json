@@ -57,6 +57,14 @@
                                 "xda": "null"
                                 "telegram": "https://t.me/AnilShebin",
                                 "download": "null"
+                        },
+			"7": {
+                                "name": "Realme GT Master Edition",
+                                "codename": "lunaa",
+                                "maintainer": "itsXRP",
+                                "xda": "null"
+                                "telegram": "https://t.me/itsXRP",
+                                "download": "null"
                         }
                 }
 	},
@@ -278,22 +286,21 @@
 				"download": "https://www.pling.com/p/1799248/"
 			},
 			"6": {
-                "name": "Poco F1",
-                "codename": "beryllium",
-                "maintainer": "Excraze",
-                "xda": "",
-                "telegram": "https://t.me/Excraze",
-                "download": "https://www.pling.com/p/1984177/"
-            },
+		                "name": "Poco F1",
+                		"codename": "beryllium",
+                		"maintainer": "Excraze",
+                		"xda": "",
+                		"telegram": "https://t.me/Excraze",
+                		"download": "https://www.pling.com/p/1984177/"
+            		},
 			"7": {
-                "name": "Poco X5 Pro",
-                "codename": "redwood",
-                "maintainer": "thepriyanshujangid",
-                "xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
-                "telegram": "https://t.me/thepriyanshujangid",
-                "download": "https://www.pling.com/p/2089671/"
-            }
-			
+                		"name": "Poco X5 Pro",
+                		"codename": "redwood",
+                		"maintainer": "thepriyanshujangid",
+                		"xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
+                		"telegram": "https://t.me/thepriyanshujangid",
+                		"download": "https://www.pling.com/p/2089671/"
+            		}
 		}
 	},
 	{
@@ -306,7 +313,15 @@
 				"xda": "null",
 				"telegram": "https://t.me/dhruvesh_23",
 				"download": "null"
-			}
+			},
+			"1": {
+				"name": "Poco X5 Pro",
+                		"codename": "redwood",
+                		"maintainer": "@thepriyanshujangid",
+                		"xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
+                		"telegram": "https://t.me/thepriyanshujangid",
+                		"download": "https://www.pling.com/p/2089671/"
+            		}
 		}
 	},
 	{
@@ -363,6 +378,14 @@
                                 "maintainer": "@HebrewX",
                                 "xda": "null",
                                 "telegram": "https://t.me/HebrewX",
+                                "download": "null"
+                        },
+			"2": {
+                                "name": "Xiaomi 11T Pro",
+                                "codename": "vili",
+                                "maintainer": "Omar99A",
+                                "xda": "null",
+                                "telegram": "https://t.me/Omar99A",
                                 "download": "null"
                         }
                 }

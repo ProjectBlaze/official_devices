@@ -340,5 +340,23 @@
         "Support Group" : "https://t.me/poco_x5_pro_roms",
         "DeviceChangelogs" : "www.projectblaze.live",
         "Pling" : "https://www.pling.com/p/2089671/"
+    },
+    {
+        "CodeName" : "lunaa",
+        "DeviceName" : "Realme GT Master Edition",
+        "UserName" : "itsXRP",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/blaze_lunaa",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/2098502/"
+    },
+    {
+        "CodeName" : "vili",
+        "DeviceName" : "Xiaomi 11T Pro",
+        "UserName" : "Omar99A",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/ViliSupport",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/2098504/"
     }
 ]
