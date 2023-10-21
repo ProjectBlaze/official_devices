@@ -1,0 +1,21 @@
+v2.10 DAWN - Date 21 Oct 2023
+Changelogs:
+- Initial Official Build
+- Updated status bar padding,Height overlays
+- Rework Camera Blobs
+- Updated Blobs to EX01
+- Fixed mic issue for some apps
+- Updated Adreno/Graphics blobs to LA.UM.9.14.1.r1-10300-QCM6490.QSSI13.0 (V600)
+- Import powerhint from coral
+- Fixed camera viewfinder layout
+- Implemented aosp hbm replacing livedisplay sunlight mode
+- Switched to OSS display hal
+- Switch to aosp doze service for better lift to wake detection
+- Limited AOD to 60hz
+- Improved memory management
+- Disabled a whole lot of debugging and logspam in kernel(Thanks to suga)
+- Lots of kernel changes and improvements
+
+Notes:
+- Use Los or Pos recovery to sideload ROM.
+- Clean Flash recommended
