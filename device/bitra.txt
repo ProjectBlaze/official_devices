@@ -1,5 +1,54 @@
 Device : Realme GT Neo 2 5G 
 Codename : Bitra
+Build Type : BETA 2 (Gapps)
+Maintainer : Omkar Parte ( @rakmoparte )
+
+=======================================
+Changelog For ProjectBlaze v3.0 BETA 2
+               04-12-2023
+=======================================
+
+- Added BCR
+- Latest Bigshot Kernel (4/12/23)
+- Fix UDFPS overlay
+- Tweak Auto Brightness ( Feels Perfect To Me Now )
+- Move overlays to product
+- Customize Gapps Package
+- Enable gesture navigation by default
+- limit max refresh rate on lockscreen and AOD
+- Move to QTI health AIDL service
+- Enhances ext4 stability
+- Remove some camera-daemon commands
+- Remove obsolete config_keyboardTapVibePattern
+- Add missing BT LDAC lib
+- Add some miscellaneous Changes
+
+## WARNING AND BUGS
+
+- Format Data Mandatory
+- Use latest F13 Firmware (EXO1)
+- NFC wont work
+- About phone > Device Status Crashes
+- To Make Hide IME Space Work Restart is required
+- Caution It can be used as daily driver but those who dont have experience with taking logs if error occur PLEASE DONT FLASH 😅
+- Flash Magisk Delta ( Optional but required since Play Integrity fails Now ) ( You can flash later after booting too )
+
+## DOWNLOAD LINKS ARE BELOW
+
+[Orange Fox Recovery](https://devuploads.com/users/Omkarp/7146/OrangeFox%20Recovery)
+
+[Firmware Download](https://devuploads.com/users/arsalan_zeus/2789/FIRMWARE%20BITRA)
+
+[Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases)
+
+[Magisk Delta](https://github.com/HuskyDG/magisk-files/releases)
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Device : Realme GT Neo 2 5G 
+Codename : Bitra
 Build Type : Gapps
 Maintainer : Omkar Parte ( @rakmoparte )
 
@@ -24,6 +73,9 @@ Changelog For ProjectBlaze v2.10
 # Shipped with AOSP & Google Dialer ( Your can disable either one as per your need )
 
 ## Known Issues Otg Doesn't Work ( Will be Fixed On Next Update )
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ===============================
