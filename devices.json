@@ -1,414 +1,413 @@
 [
-	{
-		"brand": "Realme",
-		"devices": {
-			"0": {
-				"name": "Realme XT",
-				"codename": "RMX1921",
-				"maintainer": "Dhruvesh",
-				"xda": "https://forum.xda-developers.com/m/dhruvesh16.11955503/",
-				"telegram": "@dhruvesh_23",
-				"download": "download url"
-			},
-                        "1": {
-                                "name": "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
-                                "codename": "RM6785",
-                                "maintainer": "PAiN",
-                                "xda": "https://forum.xda-developers.com/m/paaiin.12001769/",
-                                "telegram": "https://t.me/unofficial_PAiNsHUB",
-                                "download": "null"
-                        },
-                        "2": {
-                                "name": "Realme 5 Series",
-                                "codename": "r5x",
-                                "maintainer": "Chaitanya",
-                                "xda": "null"
-                                "telegram": "https://t.me/chaitanyabuildsrealme",
-                                "download": "null"
-		        },
-			"3": {
-                                "name": "Realme X3",
-                                "codename": "RMX2081",
-                                "maintainer": "@Ak_jagxz",
-                                "xda": "null"
-                                "telegram": "https://t.me/Ak_builds",
-                                "download": "null"
-                        },
-			"4": {
-                                "name": "Realme GT Neo 2",
-                                "codename": "bitra",
-                                "maintainer": "Omkar Parte",
-                                "xda": "null"
-                                "telegram": "https://t.me/rakmoparte",
-                                "download": "null"
-                        },
-			"5": {
-                                "name": "Realme 3 Pro",
-                                "codename": "RMX1851",
-                                "maintainer": "Vansh Chaudhary",
-                                "xda": "null"
-                                "telegram": "https://t.me/Noobie_ashwani",
-                                "download": "null"
-                        },
-			"6": {
-                                "name": "Realme 5 Pro",
-                                "codename": "RMX1971",
-                                "maintainer": "AnilShebin",
-                                "xda": "null"
-                                "telegram": "https://t.me/AnilShebin",
-                                "download": "null"
-                        },
-			"7": {
-                                "name": "Realme GT Master Edition",
-                                "codename": "lunaa",
-                                "maintainer": "itsXRP",
-                                "xda": "null"
-                                "telegram": "https://t.me/itsXRP",
-                                "download": "null"
-                        }
-                }
-	},
-	{
-		"brand": "Xiaomi",
-		"devices": {
-			"0": {
-				"name": "Redmi Note 4",
-				"codename": "Mido",
-				"maintainer": "Pratyaksh Bharadwaj",
-				"xda": "https://forum.xda-developers.com/m/pratyakshb1995.9491264/",
-				"telegram": "https://t.me/midorandom",
-				"download": "null"
-			},
-			"1": {
-				"name": "Redmi Note 10 Pro",
-				"codename": "Sweet",
-				"maintainer": "Aarav",
-				"xda": "null",
-				"telegram": "https://t.me/aarav_x",
-				"download": "null"
-			},
-			"2": {
-				"name": "Redmi 7/Y3",
-				"codename": "onclite, onc",
-				"maintainer": "YASH (Noviceyash)",
-				"xda": "null",
-				"telegram": "https://t.me/Noviceyash",
-				"download": "null"
-			},
-			"3": {
-				"name": "Redmi 5 Plus",
-				"codename": "vince",
-				"maintainer": "Ritvik",
-				"xda": "null",
-				"telegram": "https://t.me/ritvik_ch",
-				"download": "null"
-			},
-			"4": {
-				"name": "Redmi 9T/9 Power/Note 9 4G",
-				"codename": "lime",
-				"maintainer": "putrazxyo13",
-				"xda": "https://forum.xda-developers.com/m/putrazxyo13.11997027//",
-				"telegram": "https://t.me/putrazxyo13",
-				"download": "null"
-			},
-			"5": {
-				"name": "Redmi Note 7/7s",
-				"codename": "lavender",
-				"maintainer": "AlCoptan99",
-				"xda": "https://forum.xda-developers.com/m/coptan.12067541/",
-				"telegram": "https://t.me/AlCoptan99",
-				"download": "null"
-			},
-			"6": {
-				"name": "Redmi Note 9s/9 Pro/10 Lite ",
-				"codename": "Curtana",
-				"maintainer": "Sayan Sarkar",
-				"xda": "https://forum.xda-developers.com/m/skorpion_29.12042565/",
-				"telegram": "https://t.me/SKORPION_29",
-				"download": "null"
-			},
-			"7": {
-				"name": "Redmi Note 9 Pro Global ",
-				"codename": "Joyeuse",
-				"maintainer": "Sayan Sarkar",
-				"xda": "https://forum.xda-developers.com/m/skorpion_29.12042565/",
-				"telegram": "https://t.me/SKORPION_29",
-				"download": "null"
-			},
-			"8": {
-				"name": "Redmi Note 9 Pro Max ",
-				"codename": "Excalibur",
-				"maintainer": "Sayan Sarkar",
-				"xda": "https://forum.xda-developers.com/m/skorpion_29.12042565/",
-				"telegram": "https://t.me/SKORPION_29",
-				"download": "null"
-                        },
-			"9": {
-				"codename": "Ginkgo" ,
-				"maintainer": "RealAether" ,
-				"xda": "null" ,
-				"telegram": "https://t.me/RealAether" ,
-				"download": "null",
-				"name": "Redmi Note/8T "
-			},
-                        "10": {
-			       "name": "Redmi 7A/8/8A/8A Dual",
-			       "codename": "Mi439",
-                               "maintainer": "blazey66",
-			       "xda": "null",
-			       "telegram": "https://t.me/blazey66",
-			       "download": "null"
-	            	},
-			"11": {
-				"name": "Redmi Y2/S2",
-				"codename": "ysl",
-				"maintainer": "Iris0411",
-				"xda": "null",
-				"telegram": "https://telegram.me/Iris041",
-				"download": "null"
-			},
-			"12": {
-				"name": "Redmi K20 Pro / MI 9T Pro",
-				"codename": "raphael",
-				"maintainer": "Pc(laz_man)",
-				"xda": "null",
-				"telegram": "https://telegram.me/laz_man",
-				"download": "null"
-			},
-                        "13": {
-                                "name": "Redmi Note 7 Pro",
-				"codename": "violet",
-				"maintainer": "Rdx55",
-				"xda": "null",
-				"telegram": "https://telegram.me/Rdx55",
-				"download": "null"
-                        },
-                        "14": {
-                                "name": "Redmi 9",
-                                "codename": "lancelot",
-                                "maintainer": "@acex88",
-                                "xda": "null",
-                                "telegram": "https://t.me/raizel_roms32",
-                                "download": "null"
-		        },
-			"15": {
-                                "name": "Redmi Note 11",
-                                "codename": "spes",
-                                "maintainer": "sayann70",
-                                "xda": "null",
-                                "telegram": "https://telegram.me/sayann70",
-                                "download": "null"
-			},
-			"16": {
-                                "name": "Redmi 9T / Poco M3",
-                                "codename": "chime",
-                                "maintainer": "Chikoni_uwu",
-                                "xda": "null",
-                                "telegram": "https://telegram.me/Chikoni_uwu",
-                                "download": "null"
-			},
-			"17": {
-                                "name": "Redmi 6a",
-                                "codename": "cactus",
-                                "maintainer": "Chikoni_uwu",
-                                "xda": "null",
-                                "telegram": "https://telegram.me/Chikoni_uwu",
-                                "download": "null"
-			},
-			"18": {
-                                "name": "Redmi Note 5 Pro",
-                                "codename": "whyred",
-                                "maintainer": "Mizugameza05",
-                                "xda": "null",
-                                "telegram": "https://t.me/Mizugameza05",
-                                "download": "null"
-                        },
-			"19": {
-                                "name": "Redmi Note 6 Pro",
-                                "codename": "tulip",
-                                "maintainer": "su_rbd",
-                                "xda": "null",
-                                "telegram": "https://t.me/su_rbd",
-                                "download": "null"
-                        }
-		}
-	},
-	{
-		"brand": "Poco",
-		"devices": {
-			"0": {
-				"name": "Poco X3 NFC",
-				"codename": "surya, karna",
-				"maintainer": "Muichir09",
-				"xda": "null",
-				"telegram": "https://t.me/Muichir09",
-				"download": "null"
-			},
-			"1": {
-				"name": "Poco X3 Pro",
-				"codename": "vayu",
-				"maintainer": "Lambada10",
-				"xda": "",
-				"telegram": "https://t.me/LambadaOT",
-				"download": "null"
-			},
-			"2": {
-				"name": "Poco M3",
-				"codename": "citrus",
-				"maintainer": "putrazxyo13",
-				"xda": "https://forum.xda-developers.com/m/putrazxyo13.11997027/",
-				"telegram": "https://t.me/putrazxyo13",
-				"download": "null"
-			},
-			"3": {
-				"name": "Poco M2 Pro",
-				"codename": "Gram",
-				"maintainer": "Sayan Sarkar",
-				"xda": "https://forum.xda-developers.com/m/skorpion_29.12042565/",
-				"telegram": "https://t.me/SKORPION_29",
-				"download": "null"
-
-		        },
-			"4": {
-				"name": "Poco F3",
-				"codename": "alioth",
-				"maintainer": "ABRAR",
-				"xda": "https://forum.xda-developers.com/m/hasin-abrar-haque.11776721/",
-				"telegram": "https://t.me/AbrarNoob",
-				"download": "null"
-			},
-			"5": {
-				"name": "Redmi K30 / Poco X2",
-				"codename": "phoenix",
-				"maintainer": "Sharma G",
-				"xda": "https://forum.xda-developers.com/m/sharma_g04.11776567/",
-				"telegram": "https://telegram.me/Sharma_G04",
-				"download": "https://www.pling.com/p/1799248/"
-			},
-			"6": {
-		                "name": "Poco F1",
-                		"codename": "beryllium",
-                		"maintainer": "Excraze",
-                		"xda": "",
-                		"telegram": "https://t.me/Excraze",
-                		"download": "https://www.pling.com/p/1984177/"
-            		},
-			"7": {
-                		"name": "Poco X5 Pro",
-                		"codename": "redwood",
-                		"maintainer": "thepriyanshujangid",
-                		"xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
-                		"telegram": "https://t.me/thepriyanshujangid",
-                		"download": "https://www.pling.com/p/2089671/"
-            		}
-		}
-	},
-	{
-		"brand": "Nothing",
-		"devices": {
-			"0": {
-				"name": "Nothing Phone (1)",
-				"codename": "Spacewar",
-				"maintainer": "dhruvesh_23",
-				"xda": "null",
-				"telegram": "https://t.me/dhruvesh_23",
-				"download": "null"
-			},
-			"1": {
-				"name": "Poco X5 Pro",
-                		"codename": "redwood",
-                		"maintainer": "@thepriyanshujangid",
-                		"xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
-                		"telegram": "https://t.me/thepriyanshujangid",
-                		"download": "https://www.pling.com/p/2089671/"
-            		}
-		}
-	},
-	{
-                "brand": "Oneplus",
-                "devices": {
-                        "0": {
-                                "name": "Oneplus 8T",
-                                "codename": "kebab",
-                                "maintainer": "twinchin12",
-                                "xda": "null",
-                                "telegram": "https://t.me/twinchin96",
-                                "download": "null"
-                        },
-			"1": {
-                                "name": "Oneplus 9R",
-                                "codename": "lemonades",
-                                "maintainer": "Dawfuk",
-                                "xda": "null",
-                                "telegram": "https://t.me/Dawfuk",
-                                "download": "null"
-                        },
-			"2": {
-                                "name": "Oneplus 8",
-                                "codename": "instantnoodle",
-                                "maintainer": "twinchin12",
-                                "xda": "null",
-                                "telegram": "https://t.me/twinchin96",
-                                "download": "null"
-                        },
-			"3": {
-                                "name": "Oneplus 8 Pro",
-                                "codename": "instantnoodlep",
-                                "maintainer": "twinchin12",
-                                "xda": "null",
-                                "telegram": "https://t.me/twinchin96",
-                                "download": "null"
-                        }
-		}
-	},
-	{
-                "brand": "Xiaomi",
-                "devices": {
-                        "0": {
-                                "name": "Xiaomi 11X Pro",
-                                "codename": "haydn",
-                                "maintainer": "@YuvrajMehta",
-                                "xda": "null",
-                                "telegram": "https://t.me/YuvrajMehta",
-                                "download": "null"
-                        },
-			"1": {
-                                "name": "Xiaomi 11 Lite NE 5G",
-                                "codename": "lisa",
-                                "maintainer": "@HebrewX",
-                                "xda": "null",
-                                "telegram": "https://t.me/HebrewX",
-                                "download": "null"
-                        },
-			"2": {
-                                "name": "Xiaomi 11T Pro",
-                                "codename": "vili",
-                                "maintainer": "Omar99A",
-                                "xda": "null",
-                                "telegram": "https://t.me/Omar99A",
-                                "download": "null"
-                        }
-                }
-        },
-	{
-                "brand": "Asus",
-                "devices": {
-                        "0": {
-                                "name": "Asus Zenfone Max Pro M1",
-                                "codename": "X00TD",
-                                "maintainer": "@fakedotkit",
-                                "xda": "null",
-                                "telegram": "https://t.me/fakedotkit",
-                                "download": "null"
-                        },
-			"1": {
-                                "name": "Asus Zenfone Max Pro M2",
-                                "codename": "X01BD",
-                                "maintainer": "@khirendra",
-                                "xda": "null",
-                                "telegram": "https://t.me/khirendra",
-                                "download": "null"
-                        }
-                }
-        }
+  {
+    "brand": "Realme",
+    "devices": {
+      "0": {
+        "name": "Realme XT",
+        "codename": "RMX1921",
+        "maintainer": "Dhruvesh",
+        "xda": "https://forum.xda-developers.com/m/dhruvesh16.11955503/",
+        "telegram": "@dhruvesh_23",
+        "download": "download url"
+      },
+      "1": {
+        "name": "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+        "codename": "RM6785",
+        "maintainer": "PAiN",
+        "xda": "https://forum.xda-developers.com/m/paaiin.12001769/",
+        "telegram": "https://t.me/unofficial_PAiNsHUB",
+        "download": "null"
+      },
+      "2": {
+        "name": "Realme 5 Series",
+        "codename": "r5x",
+        "maintainer": "Chaitanya",
+        "xda": "null",
+        "telegram": "https://t.me/chaitanyabuildsrealme",
+        "download": "null"
+      },
+      "3": {
+        "name": "Realme X3",
+        "codename": "RMX2081",
+        "maintainer": "@Ak_jagxz",
+        "xda": "null",
+        "telegram": "https://t.me/Ak_builds",
+        "download": "null"
+      },
+      "4": {
+        "name": "Realme GT Neo 2",
+        "codename": "bitra",
+        "maintainer": "Omkar Parte",
+        "xda": "null",
+        "telegram": "https://t.me/rakmoparte",
+        "download": "null"
+      },
+      "5": {
+        "name": "Realme 3 Pro",
+        "codename": "RMX1851",
+        "maintainer": "Vansh Chaudhary",
+        "xda": "null",
+        "telegram": "https://t.me/Noobie_ashwani",
+        "download": "null"
+      },
+      "6": {
+        "name": "Realme 5 Pro",
+        "codename": "RMX1971",
+        "maintainer": "AnilShebin",
+        "xda": "null",
+        "telegram": "https://t.me/AnilShebin",
+        "download": "null"
+      },
+      "7": {
+        "name": "Realme GT Master Edition",
+        "codename": "lunaa",
+        "maintainer": "itsXRP",
+        "xda": "null",
+        "telegram": "https://t.me/itsXRP",
+        "download": "null"
+      }
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "devices": {
+      "0": {
+        "name": "Redmi Note 4",
+        "codename": "Mido",
+        "maintainer": "Pratyaksh Bharadwaj",
+        "xda": "https://forum.xda-developers.com/m/pratyakshb1995.9491264/",
+        "telegram": "https://t.me/midorandom",
+        "download": "null"
+      },
+      "1": {
+        "name": "Redmi Note 10 Pro",
+        "codename": "Sweet",
+        "maintainer": "Aarav",
+        "xda": "null",
+        "telegram": "https://t.me/aarav_x",
+        "download": "null"
+      },
+      "2": {
+        "name": "Redmi 7/Y3",
+        "codename": "onclite, onc",
+        "maintainer": "YASH (Noviceyash)",
+        "xda": "null",
+        "telegram": "https://t.me/Noviceyash",
+        "download": "null"
+      },
+      "3": {
+        "name": "Redmi 5 Plus",
+        "codename": "vince",
+        "maintainer": "Ritvik",
+        "xda": "null",
+        "telegram": "https://t.me/ritvik_ch",
+        "download": "null"
+      },
+      "4": {
+        "name": "Redmi 9T/9 Power/Note 9 4G",
+        "codename": "lime",
+        "maintainer": "putrazxyo13",
+        "xda": "https://forum.xda-developers.com/m/putrazxyo13.11997027//",
+        "telegram": "https://t.me/putrazxyo13",
+        "download": "null"
+      },
+      "5": {
+        "name": "Redmi Note 7/7s",
+        "codename": "lavender",
+        "maintainer": "AlCoptan99",
+        "xda": "https://forum.xda-developers.com/m/coptan.12067541/",
+        "telegram": "https://t.me/AlCoptan99",
+        "download": "null"
+      },
+      "6": {
+        "name": "Redmi Note 9s/9 Pro/10 Lite ",
+        "codename": "Curtana",
+        "maintainer": "Sayan Sarkar",
+        "xda": "https://forum.xda-developers.com/m/skorpion_29.12042565/",
+        "telegram": "https://t.me/SKORPION_29",
+        "download": "null"
+      },
+      "7": {
+        "name": "Redmi Note 9 Pro Global ",
+        "codename": "Joyeuse",
+        "maintainer": "Sayan Sarkar",
+        "xda": "https://forum.xda-developers.com/m/skorpion_29.12042565/",
+        "telegram": "https://t.me/SKORPION_29",
+        "download": "null"
+      },
+      "8": {
+        "name": "Redmi Note 9 Pro Max ",
+        "codename": "Excalibur",
+        "maintainer": "Sayan Sarkar",
+        "xda": "https://forum.xda-developers.com/m/skorpion_29.12042565/",
+        "telegram": "https://t.me/SKORPION_29",
+        "download": "null"
+      },
+      "9": {
+        "codename": "Ginkgo",
+        "maintainer": "RealAether",
+        "xda": "null",
+        "telegram": "https://t.me/RealAether",
+        "download": "null",
+        "name": "Redmi Note/8T "
+      },
+      "10": {
+        "name": "Redmi 7A/8/8A/8A Dual",
+        "codename": "Mi439",
+        "maintainer": "blazey66",
+        "xda": "null",
+        "telegram": "https://t.me/blazey66",
+        "download": "null"
+      },
+      "11": {
+        "name": "Redmi Y2/S2",
+        "codename": "ysl",
+        "maintainer": "Iris0411",
+        "xda": "null",
+        "telegram": "https://telegram.me/Iris041",
+        "download": "null"
+      },
+      "12": {
+        "name": "Redmi K20 Pro / MI 9T Pro",
+        "codename": "raphael",
+        "maintainer": "Pc(laz_man)",
+        "xda": "null",
+        "telegram": "https://telegram.me/laz_man",
+        "download": "null"
+      },
+      "13": {
+        "name": "Redmi Note 7 Pro",
+        "codename": "violet",
+        "maintainer": "Rdx55",
+        "xda": "null",
+        "telegram": "https://telegram.me/Rdx55",
+        "download": "null"
+      },
+      "14": {
+        "name": "Redmi 9",
+        "codename": "lancelot",
+        "maintainer": "@acex88",
+        "xda": "null",
+        "telegram": "https://t.me/raizel_roms32",
+        "download": "null"
+      },
+      "15": {
+        "name": "Redmi Note 11",
+        "codename": "spes",
+        "maintainer": "sayann70",
+        "xda": "null",
+        "telegram": "https://telegram.me/sayann70",
+        "download": "null"
+      },
+      "16": {
+        "name": "Redmi 9T / Poco M3",
+        "codename": "chime",
+        "maintainer": "Chikoni_uwu",
+        "xda": "null",
+        "telegram": "https://telegram.me/Chikoni_uwu",
+        "download": "null"
+      },
+      "17": {
+        "name": "Redmi 6a",
+        "codename": "cactus",
+        "maintainer": "Chikoni_uwu",
+        "xda": "null",
+        "telegram": "https://telegram.me/Chikoni_uwu",
+        "download": "null"
+      },
+      "18": {
+        "name": "Redmi Note 5 Pro",
+        "codename": "whyred",
+        "maintainer": "Mizugameza05",
+        "xda": "null",
+        "telegram": "https://t.me/Mizugameza05",
+        "download": "null"
+      },
+      "19": {
+        "name": "Redmi Note 6 Pro",
+        "codename": "tulip",
+        "maintainer": "su_rbd",
+        "xda": "null",
+        "telegram": "https://t.me/su_rbd",
+        "download": "null"
+      }
+    }
+  },
+  {
+    "brand": "Poco",
+    "devices": {
+      "0": {
+        "name": "Poco X3 NFC",
+        "codename": "surya, karna",
+        "maintainer": "Muichir09",
+        "xda": "null",
+        "telegram": "https://t.me/Muichir09",
+        "download": "null"
+      },
+      "1": {
+        "name": "Poco X3 Pro",
+        "codename": "vayu",
+        "maintainer": "Lambada10",
+        "xda": "",
+        "telegram": "https://t.me/LambadaOT",
+        "download": "null"
+      },
+      "2": {
+        "name": "Poco M3",
+        "codename": "citrus",
+        "maintainer": "putrazxyo13",
+        "xda": "https://forum.xda-developers.com/m/putrazxyo13.11997027/",
+        "telegram": "https://t.me/putrazxyo13",
+        "download": "null"
+      },
+      "3": {
+        "name": "Poco M2 Pro",
+        "codename": "Gram",
+        "maintainer": "Sayan Sarkar",
+        "xda": "https://forum.xda-developers.com/m/skorpion_29.12042565/",
+        "telegram": "https://t.me/SKORPION_29",
+        "download": "null"
+      },
+      "4": {
+        "name": "Poco F3",
+        "codename": "alioth",
+        "maintainer": "ABRAR",
+        "xda": "https://forum.xda-developers.com/m/hasin-abrar-haque.11776721/",
+        "telegram": "https://t.me/AbrarNoob",
+        "download": "null"
+      },
+      "5": {
+        "name": "Redmi K30 / Poco X2",
+        "codename": "phoenix",
+        "maintainer": "Sharma G",
+        "xda": "https://forum.xda-developers.com/m/sharma_g04.11776567/",
+        "telegram": "https://telegram.me/Sharma_G04",
+        "download": "https://www.pling.com/p/1799248/"
+      },
+      "6": {
+        "name": "Poco F1",
+        "codename": "beryllium",
+        "maintainer": "Excraze",
+        "xda": "",
+        "telegram": "https://t.me/Excraze",
+        "download": "https://www.pling.com/p/1984177/"
+      },
+      "7": {
+        "name": "Poco X5 Pro",
+        "codename": "redwood",
+        "maintainer": "thepriyanshujangid",
+        "xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
+        "telegram": "https://t.me/thepriyanshujangid",
+        "download": "https://www.pling.com/p/2089671/"
+      }
+    }
+  },
+  {
+    "brand": "Nothing",
+    "devices": {
+      "0": {
+        "name": "Nothing Phone (1)",
+        "codename": "Spacewar",
+        "maintainer": "dhruvesh_23",
+        "xda": "null",
+        "telegram": "https://t.me/dhruvesh_23",
+        "download": "null"
+      },
+      "1": {
+        "name": "Poco X5 Pro",
+        "codename": "redwood",
+        "maintainer": "@thepriyanshujangid",
+        "xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
+        "telegram": "https://t.me/thepriyanshujangid",
+        "download": "https://www.pling.com/p/2089671/"
+      }
+    }
+  },
+  {
+    "brand": "Oneplus",
+    "devices": {
+      "0": {
+        "name": "Oneplus 8T",
+        "codename": "kebab",
+        "maintainer": "twinchin12",
+        "xda": "null",
+        "telegram": "https://t.me/twinchin96",
+        "download": "null"
+      },
+      "1": {
+        "name": "Oneplus 9R",
+        "codename": "lemonades",
+        "maintainer": "Dawfuk",
+        "xda": "null",
+        "telegram": "https://t.me/Dawfuk",
+        "download": "null"
+      },
+      "2": {
+        "name": "Oneplus 8",
+        "codename": "instantnoodle",
+        "maintainer": "twinchin12",
+        "xda": "null",
+        "telegram": "https://t.me/twinchin96",
+        "download": "null"
+      },
+      "3": {
+        "name": "Oneplus 8 Pro",
+        "codename": "instantnoodlep",
+        "maintainer": "twinchin12",
+        "xda": "null",
+        "telegram": "https://t.me/twinchin96",
+        "download": "null"
+      }
+    }
+  },
+  {
+    "brand": "Xiaomi",
+    "devices": {
+      "0": {
+        "name": "Xiaomi 11X Pro",
+        "codename": "haydn",
+        "maintainer": "@YuvrajMehta",
+        "xda": "null",
+        "telegram": "https://t.me/YuvrajMehta",
+        "download": "null"
+      },
+      "1": {
+        "name": "Xiaomi 11 Lite NE 5G",
+        "codename": "lisa",
+        "maintainer": "@HebrewX",
+        "xda": "null",
+        "telegram": "https://t.me/HebrewX",
+        "download": "null"
+      },
+      "2": {
+        "name": "Xiaomi 11T Pro",
+        "codename": "vili",
+        "maintainer": "Omar99A",
+        "xda": "null",
+        "telegram": "https://t.me/Omar99A",
+        "download": "null"
+      }
+    }
+  },
+  {
+    "brand": "Asus",
+    "devices": {
+      "0": {
+        "name": "Asus Zenfone Max Pro M1",
+        "codename": "X00TD",
+        "maintainer": "@fakedotkit",
+        "xda": "null",
+        "telegram": "https://t.me/fakedotkit",
+        "download": "null"
+      },
+      "1": {
+        "name": "Asus Zenfone Max Pro M2",
+        "codename": "X01BD",
+        "maintainer": "@khirendra",
+        "xda": "null",
+        "telegram": "https://t.me/khirendra",
+        "download": "null"
+      }
+    }
+  }
 ]
