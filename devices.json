@@ -268,7 +268,15 @@
                 		"xda": "https://forum.xda-developers.com/m/priyanshu-jangid.10108762/",
                 		"telegram": "https://t.me/thepriyanshujangid",
                 		"download": "https://www.pling.com/p/2089671/"
-            		}
+            		},
+			"7": {
+                                "name": "Poco F5",
+                                "codename": "marble",
+                                "maintainer": "Anil Shebin",
+                                "xda": "null",
+                                "telegram": "https://t.me/AnilShebin",
+                                "download": "null"
+                        }
 		}
 	},
 	{
