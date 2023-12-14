@@ -1,3 +1,22 @@
+# Changelogs 3.0-BETA
+- Brought many Pixel features like quick tap and now playing, fully functional from android 13
+- Redesigned Settings UI
+- Redesigned About Phone 
+- Icon Pack Styles
+- Status Bar customizations
+- Added Face Unlock
+- Added Black Theme
+- Added option to enable AOD on charging only
+- Added smart pixels
+- Added xdroid-OSS inspired settings base layout
+- Added toggle for smart 5G
+- Imported vibration patterns from OOS
+- Added Ambient Music Ticker
+- Added Monet Engine
+- Added screen off fod
+- Added Smart Pause
+- Added OnePlus camera and MIUI camera support
+
 # Changelogs 2.10-DAWN
 - Merged september security patch
 - Rebased all hals and components from LineageOS
