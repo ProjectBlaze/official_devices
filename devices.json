@@ -22,7 +22,7 @@
                                 "name": "Realme 5 Series",
                                 "codename": "r5x",
                                 "maintainer": "Chaitanya",
-                                "xda": "null"
+                                "xda": "null",
                                 "telegram": "https://t.me/chaitanyabuildsrealme",
                                 "download": "null"
 		        },
@@ -30,7 +30,7 @@
                                 "name": "Realme X3",
                                 "codename": "RMX2081",
                                 "maintainer": "@Ak_jagxz",
-                                "xda": "null"
+                                "xda": "null",
                                 "telegram": "https://t.me/Ak_builds",
                                 "download": "null"
                         },
@@ -38,7 +38,7 @@
                                 "name": "Realme 3 Pro",
                                 "codename": "RMX1851",
                                 "maintainer": "Vansh Chaudhary",
-                                "xda": "null"
+                                "xda": "null",
                                 "telegram": "https://t.me/AllForrOne",
                                 "download": "null"
 			},
@@ -46,7 +46,7 @@
                                 "name": "Realme GT Neo 2 5G",
                                 "codename": "bitra",
                                 "maintainer": "Omkar Parte",
-                                "xda": "null"
+                                "xda": "null",
                                 "telegram": "https://t.me/rakmoparte",
                                 "download": "null"
                         },
@@ -54,7 +54,7 @@
                                 "name": "Realme GT Master Edition",
                                 "codename": "lunaa",
                                 "maintainer": "itsXRP",
-                                "xda": "null"
+                                "xda": "null",
                                 "telegram": "https://t.me/itsXRP",
                                 "download": "null"
                         }
@@ -138,7 +138,7 @@
 			"9": {
 				"codename": "Ginkgo" ,
 				"maintainer": "RealAether" ,
-				"xda": "null" ,
+				"xda": "null",
 				"telegram": "https://t.me/RealAether" ,
 				"download": "null",
 				"name": "Redmi Note/8T "
