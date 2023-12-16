@@ -1,4 +1,4 @@
-# Changelogs 3.0-BETA
+# Changelogs 3.0
 - Brought many Pixel features like quick tap and now playing, fully functional from android 13
 - Redesigned Settings UI
 - Redesigned About Phone 
