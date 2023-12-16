@@ -1,10 +1,12 @@
 # Changelogs 3.0
-- Brought many Pixel features like quick tap and now playing, fully functional from android 13
 - Redesigned Settings UI
 - Redesigned About Phone 
+- Added new design for BlazeHouse
 - Icon Pack Styles
-- Status Bar customizations
-- Added Face Unlock
+- Icon Shapes customizations
+- Fonts Customizations
+- Use 4G instead of LTE
+- Added Paranoidsense Face Unlock
 - Added Black Theme
 - Added option to enable AOD on charging only
 - Added smart pixels
@@ -16,3 +18,25 @@
 - Added screen off fod
 - Added Smart Pause
 - Added OnePlus camera and MIUI camera support
+- Added AOD Customizations
+- Added data switch, caffeine, wifi and mobile data, heads up, AOD, sync,sound,etc QS Tiles
+- Added Less Boring Heads Up option
+- Added vibrations patterns options
+- Added Navigation bar customizations 
+- Added Smooth display options and force peak refresh rate
+- Added contextual dashboard message
+- Added toggle for Windows secure flags option
+- Added in-call vibrations options
+- Added option to enable/disable lockscreen charging info
+- Added lockscreen media artwork customizations
+- Added swipe to screenshot
+- Added double tap to sleep gesture
+- Added Advanced Reboot options
+- Added playback control
+- Added akeyboard cursor control
+- Added option to hide power menu on lockscreen
+- Added statusbar tuner in BlazeHouse
+- Redesigned seekbar
+- Added expandable volume panel
+- Added Quick QS pull down
+- Added Blaze exclusive wallpapers
