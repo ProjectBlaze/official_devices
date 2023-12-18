@@ -1,10 +1,10 @@
 Changelog - 3.0
 Build Date - 17th December 2023
-Initial official A14 build
-Dolby Atmos added
+- Initial official A14 build
+- Dolby Atmos added
 
 Notes [READ IT VERY CAREFULLY!!]
-Use only erofs supported recovery
+- Use only erofs supported recovery
 
 Changelog - 2.9
 Build Date - 13th August, 2023
