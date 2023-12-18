@@ -1,3 +1,9 @@
+Changelog - 3.0
+Build Date - 18th December 2023
+- Initial official A14 build
+- Add LDAC Support
+- Enable sf auto latch unsignaled property
+
 ProjectBlaze 2.10
 Build Date: 29/09/2023
 
