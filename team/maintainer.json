@@ -226,5 +226,17 @@
                 "telegram": "https://t.me/AnilShebin",
                 "github": "https://github.com/AnilShebin",
                 "avatar": "https://github.com/AnilShebin.png"
+        },
+	{
+                "name": "EvilAnsh",
+                "telegram": "https://t.me/EvilAnsh",
+                "github": "https://github.com/EvilAnsh",
+                "avatar": "https://github.com/EvilAnsh.png"
+        },
+	{
+                "name": "Akshat Singh",
+                "telegram": "https://t.me/@Legendleo90",
+                "github": "https://github.com/Legendleo90",
+                "avatar": "https://github.com/Legendleo90.png"
         }
 ]

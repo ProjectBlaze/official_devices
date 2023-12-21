@@ -128,9 +128,9 @@
     {
         "CodeName" : "RM6785",
         "DeviceName" : "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
-        "UserName" : "PAiN",
+        "UserName" : "EvilAnsh",
         "Screenshots" : "https://t.me/projectblaze/48585",
-        "Support Group" : "https://t.me/unofficial_PAiNsHUB",
+        "Support Group" : "https://t.me/AnshBuilds",
         "DeviceChangelogs" : "www.projectblaze.live",
         "Pling" : "https://www.pling.com/p/1831896/"
     },
@@ -367,5 +367,14 @@
         "Support Group" : "https://t.me/Anils_RomHub",
         "DeviceChangelogs" : "www.projectblaze.live",
         "Pling" : "https://www.pling.com/p/2111955/"
+    },
+    {
+        "CodeName" : "fajita",
+        "DeviceName" : "Oneplus 6T",
+        "UserName" : "Akshat",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/ak_builds_discussion",
+        "DeviceChangelogs" : "www.projectblaze.live",
+        "Pling" : "https://www.pling.com/p/2115660/"
     }
 ]

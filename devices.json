@@ -13,9 +13,9 @@
                         "1": {
                                 "name": "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
                                 "codename": "RM6785",
-                                "maintainer": "PAiN",
-                                "xda": "https://forum.xda-developers.com/m/paaiin.12001769/",
-                                "telegram": "https://t.me/unofficial_PAiNsHUB",
+                                "maintainer": "EvilAnsh",
+                                "xda": "null",
+                                "telegram": "@EvilAnsh",
                                 "download": "null"
                         },
                         "2": {
@@ -312,6 +312,14 @@
                                 "maintainer": "twinchin12",
                                 "xda": "null",
                                 "telegram": "https://t.me/twinchin96",
+                                "download": "null"
+                        },
+			"4": {
+                                "name": "Oneplus 6T",
+                                "codename": "fajita",
+                                "maintainer": "Akshat",
+                                "xda": "null",
+                                "telegram": "@Legendleo90",
                                 "download": "null"
                         }
 		}
