@@ -1,0 +1,13 @@
+Changelogs v3.0
+Build Date: 22/12/2023
+
+- Initial Android 14 Official Build
+- Based on QPR1 December Security Patch 
+- Includes Dolby Sound, Spatial Audio, ViperFX and Leica Camera
+
+Thanks to:
+
+- @Saikiran008 for base trees
+- @kknixx for Silvercore kernel
+- @kssrao13882 for the invaluable support
+- Thanks to all dev of marble 
