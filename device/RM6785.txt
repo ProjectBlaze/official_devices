@@ -1,13 +1,19 @@
+Changelogs: v3.0
+Build Date: 23/12/2023
+- Initial Official Build
+- Synced Latest Blaze v3.0 changes
+- Merged Dec Patch
+- Shipped with the latest psionic kernel (v4.14.334)
+- Used the Proton Clang 16 in compiling the kernel
+- Misc. Fixes and Improvements
+
 Changelogs: v1.5-EOL
 Build Date: 17/09/2022
-
 - Final Android 12 build
 - Some improvements/fixes
 
-
 Changelogs: 1.4 
 Build Date: 14/08/2022
-
 - July 2022 ASB
 - Sources upstream
 - Fixed IPv6 tethering
