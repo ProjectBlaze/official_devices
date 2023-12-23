@@ -1,0 +1,9 @@
+Changelog v3.0-UNEARTH
+Build Date: 23/12/2023
+
+- Initial Android 14 Official Build
+- Based on QPR1 December Security Patch 
+- Added Leica camera
+- Added MIUI Dolby Atmos
+- Updated Adreno blobs from shennong OS1.0.9.0.UNBCNXM
+- Shipped with ReBorn kernel and KSU support
