@@ -1,5 +1,37 @@
 Device : Realme GT Neo 2 5G 
 Codename : Bitra
+Build Type : STABLE (Gapps)
+Maintainer : Omkar Parte ( @rakmoparte )
+
+=======================================
+Changelog For ProjectBlaze v3.0 STABLE
+               25-12-2023
+=======================================
+
+- Upstreamed Bigshot Kernel to 4.19.300 Stable
+  (ASB-2023-12-05_4.19-stable & LA.UM.9.12.r1-17900-SMxx50.QSSI14.0)
+- Play Integrity Fail (Use Magisk Module)
+- December Secutiy Patch
+- Updated Blobs to RMX3370_13.1.0.700(EX01) (F14)
+- Fix udfps Overlay not showing
+- Fix Flash on lockscreen for UDFPS
+- New Keboard Tap Vibration
+- Updated fstab From RMX3370_11.F.14
+- Updated Ofox Recovery
+- Fixed NFC (Does Activate But Not sure if Fully Working)
+- Some more miscellaneous Changes
+
+## WORKAROUNDS
+
+- To Make Hide IME Space Work Restart is required
+- To Change theme colour succesfully Icon pack must be on default (WIP)
+
+##  [Flash Guide](https://github.com/RAM-UNLOK/NOTES/blob/main/CHANGELOG/Flash-Guide.md)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Device : Realme GT Neo 2 5G 
+Codename : Bitra
 Build Type : BETA 2 (Gapps)
 Maintainer : Omkar Parte ( @rakmoparte )
 
@@ -32,16 +64,6 @@ Changelog For ProjectBlaze v3.0 BETA 2
 - To Make Hide IME Space Work Restart is required
 - Caution It can be used as daily driver but those who dont have experience with taking logs if error occur PLEASE DONT FLASH 😅
 - Flash Magisk Delta ( Optional but required since Play Integrity fails Now ) ( You can flash later after booting too )
-
-## DOWNLOAD LINKS ARE BELOW
-
-[Orange Fox Recovery](https://devuploads.com/users/Omkarp/7146/OrangeFox%20Recovery)
-
-[Firmware Download](https://devuploads.com/users/arsalan_zeus/2789/FIRMWARE%20BITRA)
-
-[Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases)
-
-[Magisk Delta](https://github.com/HuskyDG/magisk-files/releases)
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
