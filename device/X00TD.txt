@@ -1,3 +1,26 @@
+v3.0 UNEARTH - Date 03 Jan 2024
+Changelogs:
+- Initial Android 14 build
+- Updated to new DT2W node & Sepolicy
+- Updated Kernel Version To 4.19.297
+- KernelSU enabled.
+
+Credits:
+- @AnandSuresh02 @Vivekachooz for tree based
+- @H4anzcry @mzDBLnx for support
+- @Samir_gautam @sandatjepil for testing
+- @ItsRyuujiX for kernel.
+
+Bugs:
+- Random Features!
+
+Notes:
+- Non-FBE and 4.19 kernel based
+- GApps already include
+- Use Firmware 063/087 recommended.
+
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+
 v2.10 DAWN - Date 03 Oct 2023
 Changelogs:
 - Set default value night display color temperature
