@@ -259,8 +259,14 @@
         },
 	{
                 "name": "Akshat Singh",
-                "telegram": "https://t.me/@Legendleo90",
+                "telegram": "https://t.me/Legendleo90",
                 "github": "https://github.com/Legendleo90",
                 "avatar": "https://github.com/Legendleo90.png"
+        },
+	{
+                "name": "Thereache",
+                "telegram": "https://t.me/Thereache",
+                "github": "https://github.com/Thereache",
+                "avatar": "https://github.com/Thereache.png"
         }
 ]
