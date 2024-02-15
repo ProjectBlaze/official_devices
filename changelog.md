@@ -1,3 +1,36 @@
+# Changelogs 3.1
+- Full source rebase to QPR1
+- Merged february security patch
+- Bring back old Blaze UI/UX
+- A14 and A11 QS Panel Style
+- Added Gamespace
+- Old blaze About phone
+- Screen off fod
+- Theming Options including monet theming
+- Statusbar Customisations
+- Notifications Panel customisations
+- Lockscreen Customisations
+- Some system blazehouse settings
+- Advanced restart
+- Added PixelPropUtils
+- Per-app volume panel
+- Double tap to wake and sleep options
+- Peak and minimum refresh rate
+- Smooth display options
+- A14 Lockscreen clock styles
+- Vanilla build also available with Launcher3 (vanilla release depends on maintainer)
+- Volume button customisations
+- Ignore window secure flags
+- Music Pulse
+- Lockscreen media art
+- Network Traffic Monitor
+- Swipe to screenshot
+- Data disabled icon
+- Roaming indicator icon
+- 4G data icon
+- Colored status bar icon
+- Notification count toggle
+
 # Changelogs 3.0
 - Redesigned Settings UI
 - Redesigned About Phone 
