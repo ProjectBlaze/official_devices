@@ -1,3 +1,14 @@
+Changelog - 3.1
+Build Date - 21st February 2024
+- Fix dolby atmos
+- High Brightness Mode added
+- Dc Dimming added
+- Refresh Rate qs tile added
+
+NOTES:
+- Ignore permissive selinux in about phone
+- Use erofs compression recovery
+
 Changelog - 3.0
 Build Date - 17th December 2023
 - Initial official A14 build
