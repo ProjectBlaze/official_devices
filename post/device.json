@@ -376,5 +376,14 @@
         "Support Group" : "https://t.me/ak_builds_discussion",
         "DeviceChangelogs" : "www.projectblaze.live",
         "Pling" : "https://www.pling.com/p/2115660/"
+    },
+    {
+        "CodeName" : "sweet_k6a",
+        "DeviceName" : "Redmi Note 12 Pro 4G",
+        "UserName" : "Kamlesh",
+        "Screenshots" : "https://t.me/projectblaze/48585",
+        "Support Group" : "https://t.me/kamleshbuilds_sg",
+        "DeviceChangelogs" : "www.projectblaze.in",
+        "Pling" : "https://www.pling.com/p/2131859/"
     }
 ]

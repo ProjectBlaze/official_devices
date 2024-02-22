@@ -229,6 +229,14 @@
                                 "maintainer": "su_rbd",
                                 "xda": "null",
                                 "telegram": "https://t.me/su_rbd",
+				"download": "null"
+                        },
+                        "20": {
+                                "name": "Redmi Note 12 Pro 4G",
+                                "codename": "sweet_k6a",
+                                "maintainer": "Kamlesh",
+                                "xda": "null",
+                                "telegram": "https://t.me/kamleshbuilds_sg",
                                 "download": "null"
                         }
 		}
