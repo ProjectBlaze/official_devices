@@ -1,3 +1,15 @@
+Changelog - 3.1
+Build Date - 24th February 2024
+- Addressed multiple denials
+- Silence OpenGLRenderer log spam
+- Disbale vsync for cpu rendered apps
+- media: Added vorbis decoder
+- Disable CPU bossting when battery saver is on
+- Properly handle sustained performance mode
+
+NOTES:
+- Use system_ext recovery
+
 Changelog - 3.0
 Build Date - 18th December 2023
 - Initial official A14 build
