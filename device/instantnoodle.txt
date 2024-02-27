@@ -1,4 +1,15 @@
 ==================================
+Changelog - v3.1
+Build Date - 27th February, 2024
+==================================
+
+Required Firmware: F.69 or above
+
+- Initial A14 build
+- No OOS cam
+- No Dolby
+
+==================================
 Changelog - v2.10-DAWN
 Build Date - 26th September, 2023
 ==================================
