@@ -1,3 +1,18 @@
+Changelogs v3.1
+Build Date: 28/02/2024
+- Moved to common Xiaomi fingerprint HIDL
+- Adjusted lux stability time needed for updating auto-brightness values
+- Cleanup brightness lcd value
+- Used QCOM implementation for audio effects
+- Fixed low mic volume
+- Start bootanimation on post-fs
+- Disabled alpha compositing in WM
+- Address vendor.qti.data.factory Selinux denials
+- Register more libs to cached max freq
+- Remove obsoleted INI called gFixedRate
+- Speed up animations
+- Fixed imsrcsd Crash
+
 Changelogs v3.0
 Build Date: 20/12/2023
 
