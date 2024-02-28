@@ -1,3 +1,34 @@
+Changelogs v3.1
+Build Date: 28/02/2024
+
+- Based on HyperOS firmware
+- Added 90Hz support
+- Added double tap to fingerprint feature
+- Fixed Scrolling Lags
+- Ships with Google gki Kernel non-ksu variant
+- Fixed sms/otp issue that has been bugging us since longgg
+- Dropped support for 32 bit apps for now
+- Added overlay for Turbo Power Charging
+- Optimized Dex flags (faster boot)
+- Removed Force triple frame buffers (Reduces app lags & improves UI performance)
+- Tweaked surface flinger flags (Improves QS animation, app opening & app switching)
+- Added props to Optimize Touch and Improve animations
+- Nuked Per-app Refresh Rate for now (Buggy after update to Hyperos Blobs)
+- Set Brightness slider curve Implementation (Enjoy higher brightness at lower slider positions; U can set brightness slider to 10% if u were previously setting it to 40% and still enjoy same>
+- Moved Fuse Passthrough prop to product.prop from system.prop as per latest android change
+- Fixed Battery Drain due to statsd
+- Updated BCR app to latest 1.6
+- Updated ViperFX to latest 6.1
+
+Thanks to:
+
+- @Saikiran008 for base trees
+- @Chaitanyakm & @JohnMacka for Hyperos blobs 
+- @kssrao13882 for the invaluable support
+- @Skrull10 for testing
+- All devs of marble
+
+
 Changelogs v3.0
 Build Date: 22/12/2023
 
