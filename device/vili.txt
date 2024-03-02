@@ -1,3 +1,18 @@
+Changelog v3.1
+Build Date: 02/03/2024
+
+- Initial 2024 release
+- Based on February security patch
+- Included Leica camera
+- Included improved Dolby Atmos
+- Shipped with upstreamed 5.4.268 LOS kernel with latest KernelSU support
+
+Known issues:
+- Playback in Netflix and other ott apps:
+ • Flash yuki or kangaroox kernel to fix
+
+========================================
+
 Changelog v3.0-UNEARTH
 Build Date: 23/12/2023
 
