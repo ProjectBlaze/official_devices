@@ -1,3 +1,20 @@
+v3.1 - Date 04 Mar 2024
+Changelogs:
+- Enable Framework Boost
+- Add config_availableColorModes support
+- Add some Tweak for auto brightness
+- Fix the battery drain due to statsd
+- Kernel Upstream to v4.19.308
+- Sync KernelSU to v0.81
+
+Notes:
+- Non-FBE and 4.19 kernel based
+- GApps already include
+- Use Firmware 063/087 recommended
+- Use latest official TWRP recommended.
+
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+
 v3.0 UNEARTH - Date 03 Jan 2024
 Changelogs:
 - Initial Android 14 build
