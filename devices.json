@@ -381,5 +381,18 @@
                                 "download": "null"
                         }
                 }
+        },
+	{
+                "brand": "Motorola",
+                "devices": {
+                        "0": {
+                                "name": "Motorola edge 30 Ultra 8+ Gen 1",
+                                "codename": "EQS",
+                                "maintainer": "@snowey7809",
+                                "xda": "null",
+                                "telegram": "https://t.me/snowey7809",
+                                "download": "null"
+                        }
+                }
         }
 ]
