@@ -270,9 +270,15 @@
                 "avatar": "https://github.com/Thereache.png"
         },
 	{
-                "name": "snowey7809",
+                "name": "Little Snow",
                 "telegram": "https://t.me/snowey7809",
                 "github": "https://github.com/snowey7809",
                 "avatar": "https://github.com/snowey7809.png"
+        },
+	{
+                "name": "Aryan Biswas",
+                "telegram": "https://t.me/Curious_Nom",
+                "github": "https://github.com/CuriousNom",
+                "avatar": "https://github.com/CuriousNom.png"
         }
 ]
