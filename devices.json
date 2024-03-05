@@ -170,9 +170,9 @@
                         "13": {
                                 "name": "Redmi Note 7 Pro",
 				"codename": "violet",
-				"maintainer": "Rdx55",
+				"maintainer": "Curious_Nom & @HyperPower17",
 				"xda": "null",
-				"telegram": "https://telegram.me/Rdx55",
+				"telegram": "null",
 				"download": "null"
                         },
                         "14": {
@@ -387,10 +387,23 @@
                 "devices": {
                         "0": {
                                 "name": "Motorola edge 30 Ultra 8+ Gen 1",
-                                "codename": "EQS",
+                                "codename": "eqs",
                                 "maintainer": "@snowey7809",
                                 "xda": "null",
                                 "telegram": "https://t.me/snowey7809",
+                                "download": "null"
+                        }
+                }
+        },
+	{
+                "brand": "Nothing",
+                "devices": {
+                        "0": {
+                                "name": "Nothing Phone 1",
+                                "codename": "Spacewar",
+                                "maintainer": "@twinchin96",
+                                "xda": "null",
+                                "telegram": "https://t.me/twinchin96",
                                 "download": "null"
                         }
                 }
