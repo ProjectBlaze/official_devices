@@ -1,1 +1,11 @@
+Changelog v3.1
+Build Date: 05/03/2024
 
+- Initial Android 14 Official Build
+- Based on February security patch
+- Shipped with upstreamed 5.10.210 Re:Pulsion kernel with latest KernelSU support
+- KernelSU v0.8.1 merged
+- KernelSU change merged to avoid detection
+
+Known issues:
+- Is there any, let me know!
