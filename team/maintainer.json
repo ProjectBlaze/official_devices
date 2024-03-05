@@ -280,5 +280,11 @@
                 "telegram": "https://t.me/Curious_Nom",
                 "github": "https://github.com/CuriousNom",
                 "avatar": "https://github.com/CuriousNom.png"
+        },
+	{
+                "name": "Mourya Baruah",
+                "telegram": "https://t.me/Mijumourya",
+                "github": "https://github.com/miju12",
+                "avatar": "https://github.com/miju12.png"
         }
 ]
