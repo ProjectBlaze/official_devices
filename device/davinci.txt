@@ -1,1 +1,35 @@
+Changelog v3.1
+Build Date: 06/03/2024
 
+- Initial official release
+- Based on February security patch
+- Included Leica camera
+- KernelSU by default
+- overlay: Update notification icons overlay for Android 14
+- audio HAL: Optimize for Spatial Audio
+- gps: Make reorder warning again
+- gps: Add dependencies for Health AIDL change
+- gps: Battery listener: work with health service of hidl2.1 and aidl
+- gps: Simplify batterylistener logging
+- memory: Enable SVELTE memory configuration
+- and other improvements
+
+Kernel
+
+- upstream kernel 4.14.336
+- mmc: core: Cancel delayed work before releasing host
+- mmc: rpmb: fixes pause retune on all RPMB partitions.
+- firewire: ohci: suppress unexpected system reboot in AMD Ryzen machines and ASM108x/VT630x PCIe cards
+- i40e: fix use-after-free in i40e_aqc_add_filters()
+- bcmgenet: Fix FCS generation for fragmented skbuffs
+- net: sched: em_text: fix possible memory leak in em_text_destroy()
+- nfc: llcp_core: Hold a ref to llcp_local->dev when holding a ref to llcp_local
+- block: Don't invalidate pagecache for invalid falloc modes
+- net: rfkill: gpio: set GPIO direction
+- net: 9p: avoid freeing uninit memory in p9pdu_vreadf
+- Bluetooth: hci_event: Fix not checking if HCI_OP_INQUIRY has been sent
+- USB: serial: option: add Quectel RM500Q R13 firmware support
+- wifi: cfg80211: fix certs build to not depend on file order
+- ethernet: atheros: fix a memleak in atl1e_setup_ring_resources
+- s390/vx: fix save/restore of fpu kernel context
+- And many other improvements
