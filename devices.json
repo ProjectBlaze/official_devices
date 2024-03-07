@@ -246,6 +246,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/mourya_sky_support",
                                 "download": "null"
+                        },
+			"20": {
+                                "name": "Redmi K20 & Mi 9T",
+                                "codename": "davinci",
+                                "maintainer": "Jezzay97",
+                                "xda": "null",
+                                "telegram": "https://t.me/As_Builds",
+                                "download": "null"
                         }
 		}
 	},
