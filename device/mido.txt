@@ -1,4 +1,8 @@
-Changelog
+Project Blaze v3.1 Changelog
+- Initial Android 14 release
+- Released with Blaze version 3.1
+NOTE:- Use the recommened recovery given below:
+https://github.com/zeelog/device_mido_twrp/releases/download/3.0/twrp_3.7.0_12-0-mido.img
 
 ProjectBlaze 2.9 Changelog 
 Build Date: 19/08/2023
