@@ -431,5 +431,18 @@
                                 "download": "null"
                         }
                 }
+        },
+	{
+                "brand": "Google",
+                "devices": {
+                        "0": {
+                                "name": "Pixel 6 & 6 Pro",
+                                "codename": "raven & oriole",
+                                "maintainer": "@prabhat_proxy",
+                                "xda": "null",
+                                "telegram": "https://t.me/prabhat_proxy",
+                                "download": "null"
+                        }
+                }
         }
 ]

@@ -274,5 +274,11 @@
                 "telegram": "https://t.me/clarencelol",
                 "github": "https://github.com/clarencelol",
                 "avatar": "https://github.com/clarencelol.png"
+        },
+	{
+                "name": "Prabhat Proxy",
+                "telegram": "https://t.me/prabhat_proxy",
+                "github": "https://github.com/PrabhatProxy",
+                "avatar": "https://github.com/PrabhatProxy.png"
         }
 ]
