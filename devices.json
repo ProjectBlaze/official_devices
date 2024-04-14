@@ -308,6 +308,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/igadityasingh",
                                 "download": "null"
+                        },
+			"9": {
+                                "name": "Poco X5/ Redmi Note 12 5G",
+                                "codename": "stone",
+                                "maintainer": "Nomishaw",
+                                "xda": "null",
+                                "telegram": "https://t.me/Nomishaw",
+                                "download": "null"
                         }
 		}
 	},
