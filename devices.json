@@ -482,6 +482,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/prabhat_proxy",
                                 "download": "null"
+                        },
+			"1": {
+                                "name": "Pixel 6a",
+                                "codename": "bluejay",
+                                "maintainer": "@CYB3R0ID694",
+                                "xda": "null",
+                                "telegram": "https://t.me/CYB3R0ID694",
+                                "download": "null"
                         }
                 }
         }
