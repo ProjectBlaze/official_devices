@@ -439,5 +439,23 @@
         "Support Group" : "https://t.me/Nomi_builds",
         "DeviceChangelogs" : "www.projectblaze.in",
         "Pling" : "https://www.pling.com/p/2146693/"
+    },
+    {
+        "CodeName" : "guacamoleb, guacamole",
+        "DeviceName" : "OnePlus 7 and Oneplus 7 Pro",
+        "UserName" : "ankit",
+        "Screenshots" : "https://t.me/projectblaze/88817",
+        "Support Group" : "https://t.me/c00chie_support",
+        "DeviceChangelogs" : "www.projectblaze.in",
+        "Pling" : "https://www.pling.com/p/2151040/"
+    },
+    {
+        "CodeName" : "hotdogb, hotdog",
+        "DeviceName" : "OnePlus 7T and Oneplus 7T Pro",
+        "UserName" : "ankit",
+        "Screenshots" : "https://t.me/projectblaze/88817",
+        "Support Group" : "https://t.me/c00chie_support",
+        "DeviceChangelogs" : "www.projectblaze.in",
+        "Pling" : "https://www.pling.com/p/2151040/"
     }
 ]

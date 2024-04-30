@@ -361,6 +361,38 @@
                                 "xda": "null",
                                 "telegram": "@Legendleo90",
                                 "download": "null"
+                        },
+			"5": {
+                                "name": "Oneplus 7 Pro",
+                                "codename": "guacamole",
+                                "maintainer": "Ankit",
+                                "xda": "null",
+                                "telegram": "@c00chiemilker",
+                                "download": "null"
+                        },
+                        "6": {
+                                "name": "Oneplus 7",
+                                "codename": "guacamoleb",
+                                "maintainer": "Ankit",
+                                "xda": "null",
+                                "telegram": "@c00chiemilker",
+                                "download": "null"
+                        },
+                        "7": {
+                                "name": "Oneplus 7T",
+                                "codename": "hotdogb",
+                                "maintainer": "Ankit",
+                                "xda": "null",
+                                "telegram": "@c00chiemilker",
+                                "download": "null"
+                        },
+                        "8": {
+                                "name": "Oneplus 7T Pro",
+                                "codename": "hotdog",
+                                "maintainer": "Ankit",
+                                "xda": "null",
+                                "telegram": "@c00chiemilker",
+                                "download": "null"
                         }
 		}
 	},
