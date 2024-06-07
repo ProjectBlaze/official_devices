@@ -430,6 +430,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/Omar99A",
                                 "download": "null"
+                        },
+			"3": {
+                                "name": "Mi 9",
+                                "codename": "cepheus",
+                                "maintainer": "RDS",
+                                "xda": "null",
+                                "telegram": "https://t.me/RDS_07",
+                                "download": "null"
                         }
                 }
         },
