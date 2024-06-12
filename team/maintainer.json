@@ -316,5 +316,11 @@
                 "telegram": "https://t.me/RDS_07",
                 "github": "https://github.com/RDS-007",
                 "avatar": "https://github.com/RDS-007.png"
+        },
+	{
+                "name": "Ralf979",
+                "telegram": "https://t.me/Ralf979",
+                "github": "https://github.com/ralf979",
+                "avatar": "https://github.com/ralf.png"
         }
 ]
