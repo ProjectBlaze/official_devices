@@ -238,6 +238,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/As_Builds",
                                 "download": "null"
+                        },
+			"21": {
+                                "name": "Redmi Note 13 Pro 5G & Poco X6 5G",
+                                "codename": "garnet",
+                                "maintainer": "PriQue",
+                                "xda": "null",
+                                "telegram": "https://t.me/blazegarnet",
+                                "download": "null"
                         }
 		}
 	},
