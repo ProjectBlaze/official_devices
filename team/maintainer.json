@@ -334,5 +334,11 @@
                 "telegram": "https://t.me/PriQue77",
                 "github": "https://github.com/prique",
                 "avatar": "https://github.com/prique.png"
+        },
+	{
+                "name": "Sanji",
+                "telegram": "https://t.me/SanjiVns",
+                "github": "https://github.com/Sanjivns",
+                "avatar": "https://github.com/Sanjivns.png"
         }
 ]
