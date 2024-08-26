@@ -1,3 +1,24 @@
+Changelog - 3.7
+Build Date - 26th August 2024
+
+- Fixed Double Tap to wake
+- August security patch
+- Disable wallpaper zooming
+- Set CPU governer to schedutil
+- Enabled LTO optimizations
+- Used Pixel Launcher in the build
+- Smooth build and great battery backup !!!
+
+Credits & Notes:
+- Only GAPPS variant
+- KSU by default
+- Safetynet and certifcation passed
+- Thanks Aryan, Arian for base tree and shashank for the kernel tree
+- Thanks Aryan for miuicamera
+- Tested by ourselves
+
+----------------------------------------------
+
 Changelog - 3.6-HOTFIX
 Build Date - 11th July 2024
 
