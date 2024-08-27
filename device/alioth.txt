@@ -1,6 +1,81 @@
 Changelogs For ProjectBlaze 3.7
 
 - Synced Latest Blaze v3.7 changes
+
+- leica app fallback to 4.9
+ * fixed front portrait
+
+- Added dolby valume leveler and serround virtualizer
+
+- Added battery cycle count in battery settings
+
+- Allowed HFR for Miui Camera
+ * Add Miui Camera to the list of package IDs that are allowed to skip camera high frame rate checks.
+
+- Override cgroups.json & task_profiles.json
+ * In order to allow uclamp kernels to place tasks correctly
+
+- Set zram to 30% from entire RAM
+ - 50% is big amount which I don't track to be loaded even in half in various big apps multitasking
+ - Zram is good for multitasking, but we need to handle heavy apps also, so let's decrease following amount to benefit from regular RAM
+
+- Fixed permissions for PowerHAL
+ * W libperfmgr: Failed to write to node: /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq with value: XXXXX fd: -1   
+   W libperfmgr: Failed to write to node: /sys/devices/system/cpu/cpu6/cpufreq/scaling_min_freq with value: XXXXX fd: -1
+
+- Stop trying to set ro.sf.lcd_density prop
+ * It's wrong because we have devices with different screen densities,
+  and does not work:
+
+  W libc    : Unable to set property "ro.sf.lcd_density" to "480": error code: 0xb
+
+- Remove legacy ril-daemon and vendor.ril-daemon rules
+ * W libc    : Unable to set property "ctl.stop" to "vendor.ril-daemon": error code: 0x20
+
+- Address persist.hydra.mem_trace denial
+ * Access denied finding property "persist.hydra.mem_trace"
+
+- Use prebuilt gralloc libs
+* Fixes the following issue:
+ 08-27 00:14:33.062  1022  1257 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+ 08-27 00:14:33.062  1022  1257 E AdrenoUtils: <validate_memory_layout_input_parmas:1984>: Unknown Format 0
+ 08-27 00:14:33.062  1022  1257 E AdrenoUtils: <adreno_init_memory_layout:4723>: Memory Layout input parameter validation failed!
+ 08-27 00:14:33.062  1022  1257 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+ 08-27 00:14:33.062  4181  4538 E GraphicBufferAllocator: Failed to allocate (1 x 1) layerCount 1 format 56 usage 100: 1
+ 08-27 00:14:33.062  4181  4538 E AHardwareBuffer: GraphicBuffer(w=1, h=1, lc=1) failed (Unknown error -1), handle=0x0
+
+- Drop SUSTAINED_PERFORMANCE 
+ * This sometimes keeps the CPU frequencies locked at the set limit even when it's not needed, 
+   i.e. playing videos which need hardware decoder, leading to increased power draw, battery drain and heat. 
+   Drop SUSTAINED_PERFORMANCE tick from powerhint and let the CPU ramp up it's frequencies when needed, 
+   i.e. on demand to counteract the said issue.
+
+- Auto brightness adjustment
+ * Make auto brightness more stable, prevent the brightness from
+  jittering repeatedly in dim environment.
+
+- Enable ro.audio.monitorRotation
+ * Adjusts stereo speaker according to device orientation.
+
+- Disable DRC
+ * DRC is audio policy to 'compress' volume table, which causes low max volume. Disable it for now
+
+- Use limited alpha & fading marquee
+ * Completely eliminates occasional jank in few animations
+
+- Disable vsync for CPU rendered Apps
+ * Choreographer VSync has some performance impact for CPU rendered apps
+   as the app has to wait for VSync to start a new frame draw. When the
+   frame draw time exceeds one VSync, this has a direct impact on the FPS.
+   debug.cpurend.vsync property controls the VSync for CPU rendered apps.
+
+   Disable VSync for CPU rendered app, by setting this property to false.
+
+
+
+Changelogs For ProjectBlaze 3.7
+
+- Synced Latest Blaze v3.7 changes
 - Merged August ASB
 - Fully Rebased common device tree 
 - Dropped old style HBM and DC dimming and their kernel based implantation 
