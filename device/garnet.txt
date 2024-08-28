@@ -2,6 +2,23 @@
 Project Blaze Garnet
 by PriQue
 
+===== 28 August, 2024 =====
+- Last sync sources Blaze 3.7
+- Fixed hotspot
+- Fixed status bar padding on lock screen
+- Fixed netflix, videos can now be played
+- Fixed repeated notifications in AOD
+- Fixed the minimum brightness is now perfect special thanks @unmoved21
+- Improved sound quality speakers and headphones
+- Switch moto dolby for xiaomi dolby
+- Update blobs V816.0.9.0.UNRMIXM
+- Fixed Small brightness when adding fp in setupwizard
+- Added doze ambient display
+- Support spatial audio
+- Improvements in thermals
+- Added support zram,ram management improvements
+- HDR10 and vision support in all apps and photos
+
 July 21, 2024
 
 
