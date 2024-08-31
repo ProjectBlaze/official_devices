@@ -1,3 +1,28 @@
+Changelogs 3.7
+Build Date: 31/08/2024
+- kinesis omega r4.8
+- Drop memcg
+- Disabled backpressure propagation
+- Disabled SF client composition cache
+- Tweak padding once again (2nd)
+- Tweak audio configuration files (2nd)
+- Nuked hispeed_* stuffs that are useless on PELT
+- Updated phantom process monitoring prop
+- Updated some blobs from Redmi Note 10 Pro
+- Updated system blobs from LA.QSSI.14.0.r1-16000-qssi.0
+- Added audio v5 HAL as fallback
+- Enabled C2 Codecs
+- Build tinymix
+- Switched to AIDL Memtrack HAL
+- Updated adreno blobs from Oculus Quest 3 (Adreno Driver v777)
+- Updated DEQP level of OpenGL ES and Vulkan to 2021 to match Oculus Quest 3
+- Improvement to brightness ramping up and down
+- Added auto brightness adjustment max gamma to prevent jittering repeatedly in dim environment
+- Added Misys HAL (Fixed camera watermark)
+- Updated adreno drivers to v786 from Quest 2
+- Increase charging temperature threshold
+- Reverted some auto brightness changes
+
 Changelogs 3.6
 Build Date: 07/07/2024
 - kinesis omega r4.0
