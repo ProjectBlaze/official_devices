@@ -1,3 +1,9 @@
+# Changelogs 3.8
+- September Security Patch
+- Strong Integrity Passes as of 7/9/24
+- Fixed Game Space
+- EOL Update. On our way to A15
+
 # Changelogs 3.7
 - August Security Patch
 - Blaze Launcher in both variants (Blaze launcher is optional in Gapps Build)
