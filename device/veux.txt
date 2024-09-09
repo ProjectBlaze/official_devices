@@ -1,3 +1,27 @@
+Changelogs 3.8
+Build Date 7 September, 2024
+
+- Passes Strong Integrity as of 7/9/24
+- Added props for smoother animation
+- Added XiaomiParts
+- Added Per app Thermal Profiles and per app Refresh rate
+- Fix OTG in AOSP Recovery
+- Auto Brightness adjustment for better transistion from Lock Screen to AOD
+- Visit our wallpaper group for Depth Wallpapers : https://t.me/rex_wallpapers
+
+Note :
+- OTA is broken, Dirty flash from previous build
+- Let the rom settle for a few hours for better smoothness
+- In case of lags set the display color mode to natural.
+
+Credits:
+Thanks to @aquamanindiano for testing
+Thanks @dereference for the device sources
+Thanks to @igadityasingh for tree optimisation
+Thanks to @MrTopiA for XiaomiParts
+
+-----------------------------------------------
+
 Changelogs 3.7
 Build Date 23 August, 2024
 
@@ -8,9 +32,6 @@ Build Date 23 August, 2024
 - Worked on overall UI balance without compromising on battery
 - Disabled Wallpaper zooming which in some cases cause jitters
 - Visit our wallpaper group for Depth Wallpapers : https://t.me/rex_wallpapers
-
-Bugs:
-- Circle to Search
 
 Note :
 - OTA is broken, Dirty flash from previous build
