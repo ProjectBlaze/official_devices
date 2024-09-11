@@ -1,3 +1,36 @@
+Changelogs 3.8
+Build Date : 9th September 2024
+
+ - September security patches
+ - Update SOVIET Kernel to R6.5
+ - Switched to Pixel Launìcher
+ - Added support to Charging Control
+ - remove android.hardware.light@2.0 entery
+ - overlay: Disable alpha compositing in WM
+ - Import cleaned up coral powerstats
+ - Optimize polling interval
+ - Go back to non-eSE NFC support
+ - switch to nabu V13.0.3.0.RKXCNXM adreno blobs
+ - update FCM
+ - Include dtbo in recovery and boot image
+ - sepolicy: sync wakeup sources with sm8150
+ - dont boost uclamp.min
+ - sepolicy: Add memtrack HAL
+ - Switch to QTI Memtrack AIDL HAL
+ - Move to QTI health AIDL service
+ - Fix media profiles
+ - regenerate FCM
+ - Enable camera override format from reserved
+ - rootdir: Make less cores available for background tasks
+ - Utilise Mi scaner for QR scanner
+ - Explicitly disable "Enable GL comp backpressure"
+ - Disable backpressure propagation in SF
+ - rootdir: rework audio-app and display cpusets
+ - update ea8076 qdcm calibration
+ - Add visinox qdcm calibration
+ - powerhit: update for new GPU freq table
+ - Sopolicy: drop uplicate entries
+
 Changelogs 3.7
 Build Date : 17th August 2024
 
