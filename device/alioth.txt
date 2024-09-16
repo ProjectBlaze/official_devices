@@ -1,3 +1,80 @@
+Changelogs For ProjectBlaze 3.8 EOL
+
+- Synced Latest Blaze v3.8 changes
+
+- September security patches
+
+- Added leica cam 4.9 support for mod devices (Mi11x,Redmi k40) credits to @Eidoron1
+
+- Cleanup useless logspam by powersave governor
+
+- Enable ro.hwui.render_ahead
+ * Rendering ahead makes some animations handling better (especially qs pulldown on a13 qpr2)
+
+- Push 120 FPS for ScreenRecorder
+ * Our Device is with 120hz display and Snapdragon 870 5G, there is no reason to lock on 60fps
+
+- Set wide color display prop to false
+ * Fixes yellowish tint in Google-Photos
+
+- Tune bmps listening interval
+ *Tune the BMPS listening interval for the moderate power level to achieve
+ power savings during wifi idle.
+
+- Enable Optimized Power Management
+ - This config was renamed as of CLO commit [1] and [2].
+
+[1]: https://git.codelinaro.org/clo/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0/-/commit/10989ba3769cab220d7df5b03a967cb13401552c
+[2]: https://git.codelinaro.org/clo/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0/-/commit/9ef1447db30d2d6ef0069258d62a8fbf10cba29d
+
+- Set debug.sf.auto_latch_unsignaled to 0
+ * Need to explicitly set auto_latch_unsignaled property to
+disabled state to keep latch-unsignaled as the default
+behavior.
+
+- Enable WiFi calling over IMS
+
+- Start audio rpc daemon early to improve performance
+ * Audio HAL initialization relies on rpc daemon to load
+dynamic libs, if daemon is not ready when HAL tries
+to load libs, HAL has to wait until that finished.
+Start this daemon early can smooth boot up of audio HAL
+process, as this can save time for dynamic libs loading.
+
+- Powerhint: Set top-app schedtune boost to 1
+
+- Sepolicy: Label ro.vendor.oem.meid prop
+ * Unable to set property "ro.vendor.oem.meid" to "99001728682382": error code: 0x18
+
+- Sepolicy: Address Wi-Fi HAL denial
+ * W libc : Access denied finding property "persist.vendor.debug.wifi.hal.preset_interface_combination_idx"
+
+- Drop COMMON_LUNCH_CHOICES
+ * As of 14 QPR2 this is broken, let's remove it instead of updating it
+  every 3 months. breakfast is the way to go.
+
+- Change default density to 420. looks better
+
+- Hide dac_override spam
+
+- Disable intrusive gms components
+ * these processes were not allowed to run in background and yet they still persist everytime causing logspam and unnecessary broadcast, we may want to disable "GmsIntentOperationService" but some users on xda reported broken notifications on stuffs like google keep and maybe other google apps that relies on GmsIntentOperationService broadcasts.
+
+07-24 09:29:26.041  2997  5548 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+07-24 09:29:26.042  2879  2879 I Zygote  : Process 8201 exited due to signal 9 (Killed)
+07-24 09:29:26.043  2997  3023 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver 
+ (testing, do let me know if anyone faces issues wiht google apps notification delays)
+
+- Remove configs that do not exists.
+
+- Disable pocket lock and light sensor
+ * Since we don't have proximity sensor, its useless. Lets just disable it to save power
+
+- Use the new auto network selection UI
+
+- Many more improvements for better bb and smoothness 	
+
+
 Changelogs For ProjectBlaze 3.7
 
 - Synced Latest Blaze v3.7 changes
