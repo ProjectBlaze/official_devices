@@ -1,9 +1,27 @@
+Version: 3.8-EOL
+Build Date: 20/09/2024
+
+Source Changelog:
+- Fixed DT2S on Lockscreen
+- Separate DT2S Lockscreen and DT2S Statusbar
+- Add Option For Disabling Play Integrity Spoof
+
+Device Changelog:
+- Latest Source Changes
+- September Security Patch [UQRR3]
+- CTS Pass [Signed Build] 
+- BCR Prebuilt
+- Leica As Default camera
+- Arise Igris v4.14.348-R2 [KSU]
+- Only Gapps Builds
+- Misc Improvement and Fixes
+
 Version: 3.7
 Build Date: 20/08/2024
 
 Device Changelog:
 - Latest Source Changes
-- July Security Patch [UQRR3]
+- August Security Patch [UQRR3]
 - CTS Pass [Signed Build] 
 - Using NothingOS CarrierConfig
 - Switched To Pixel Power HAL
