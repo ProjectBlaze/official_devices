@@ -1,3 +1,12 @@
+Blaze v3.8 EOL
+Build Date: 18/10/2024
+
+- Added Motorola Dolby
+- Updated PowerHint
+- Switched to Common libperf
+- Switched to simpleLMK
+- SanKernel R.1.1.103 Linux 4.19.318
+
 Blaze v2.1
 Build Date: 24/11/2022
 
