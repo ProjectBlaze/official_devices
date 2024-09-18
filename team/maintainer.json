@@ -346,5 +346,11 @@
                 "telegram": "https://t.me/zaidkhan0997",
                 "github": "https://github.com/zaidkhan0997",
                 "avatar": "https://github.com/zaidkhan0997.png"
+        },
+	{
+                "name": "Tilt",
+                "telegram": "https://t.me/rgb_tilt",
+                "github": "https://github.com/tilt-rgb",
+                "avatar": "https://github.com/tilt-rgb.png"
         }
 ]
