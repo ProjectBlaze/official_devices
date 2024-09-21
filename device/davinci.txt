@@ -1,3 +1,15 @@
+Changelog v3.8 EOL
+Build Date: 21/09/2024
+- Sync last source
+- The entire tree has been re-baselined to correct several problems.
+- System optimizations have been made
+- Switched to ekko kernel (Thans @Hopethislasts)
+- leica camera parallel process fixed
+- Added thermal profiles
+- Dolby Audio Support
+- KernelSU Support
+- Support double-tap-to-ambient
+
 Changelog v3.6
 Build Date: 8/07/2024
 - Sync last source
@@ -83,6 +95,8 @@ Credits
 - @Adi20_01
 - @Hopethislasts
 - @Omar99A
+- @TeamMEX_XDA
+- @chematelegram
 - @itzdfplayer
 - @itsshashanksp
 - @aryannn999
