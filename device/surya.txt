@@ -1,3 +1,9 @@
+Version: 4.0-BETA
+Build Date: 21/11/2024
+
+- Initial Build
+- November Security Patch (A15)
+
 Version: 3.8-EOL
 Build Date: 20/09/2024
 
