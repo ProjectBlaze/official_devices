@@ -1,3 +1,13 @@
+Version: 4.0-BETA
+Build Date: 22/11/2024
+
+- Initial Build
+- November Security Patch (A15)
+- Dolby Vision Support
+- Dolby Audio Support
+- Leica Camera by default
+- Last Yuki kernel
+
 Changelogs 3.7
 Build Date: 16/08/2024
 
