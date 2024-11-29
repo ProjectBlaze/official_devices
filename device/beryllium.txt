@@ -1,3 +1,8 @@
+Changelog - 4.0
+Build Date - 28th November 2024
+- Signed Build
+- Initial Blaze A15 build
+
 Changelog - 3.3-HOTFIX
 Build Date - 3rd June 2024
 - Signed build
