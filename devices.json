@@ -332,6 +332,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/Nomishaw",
                                 "download": "null"
+                        },
+			"10": {
+                                "name": "Poco F1",
+                                "codename": "beryllium",
+                                "maintainer": "NotDheeraj06",
+                                "xda": "null",
+                                "telegram": "https://t.me/NotDheeraj06",
+                                "download": "null"
                         }
 		}
 	},
