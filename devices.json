@@ -488,6 +488,14 @@
                                 "xda": "null",
                                 "telegram": "https://t.me/snowey7809",
                                 "download": "null"
+                        },
+			"1": {
+                                "name": "Moto G 5G / One 5G Ace",
+                                "codename": "kiev",
+                                "maintainer": "@rgb_tilt",
+                                "xda": "null",
+                                "telegram": "https://t.me/rgb_tilt",
+                                "download": "null"
                         }
                 }
         },
