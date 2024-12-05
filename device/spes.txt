@@ -1,3 +1,17 @@
+Changelogs v4.0-BETA
+Build Date: 05/12/24
+- Initial A15 Release 
+- Set default swappines to 100
+- Use common libqti-perfd-client and power-libperfmgr
+- Added Miui-leica-V5.0 
+- Improve surfaceflinger
+- Improve I/O scheduler
+
+CREDITS -
+• @jabiyeff21 & @dblenk9 For Trees
+• @AkiraNoSushi & @muralivijay9845 For Kernel
+• Thanks @Neurosubzero,@the_nyao,@Cvizr For Testing
+
 Changelogs v3.7
 Build Date: 24/08/24
 - Build Missing libs needed by GPS HAL
