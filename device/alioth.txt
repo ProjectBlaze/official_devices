@@ -1,3 +1,21 @@
+Changelogs For ProjectBlaze 4.1
+
+- Synced Latest Blaze v4.1 changes
+
+- December security patches
+
+- Fixed leica 4k/8k recording issue
+
+- Optimized status bar padding
+
+- Improved dolby and overal performance 
+
+- Added more optimazation props
+
+- Many under the hood fixes and improvements
+
+
+
 Changelogs For ProjectBlaze 3.8 EOL
 
 - Synced Latest Blaze v3.8 changes
