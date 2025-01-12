@@ -1,3 +1,13 @@
+Changelogs For ProjectBlaze 4.2-EOL
+Build Date: 12/01/2025
+
+- EOL Build
+- January Security Patch (A15 NON QPR)
+- Disable FRP
+- Increased zram size for 6gb users
+- Enable battery cycle count (only on stock kernel) 
+- Misc Changes and Optimization
+
 Changelogs For ProjectBlaze 4.1
 
 - Synced Latest Blaze v4.1 changes
